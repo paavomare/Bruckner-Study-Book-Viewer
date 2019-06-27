@@ -1,4 +1,4 @@
-# Kitzler-Studybook-Viewer
+# The Kitzler-Studybook-Viewer
 
 This repository holds the source files of the [Bruckner-Studienbuch Viewer](https://apps-mufo.oeaw.ac.at/studienbuch/) and 
 the MEI data as well as the XSLT for the harmonic analysis.
@@ -16,5 +16,13 @@ The second aim was to create an automated harmonic analysis, which was tested us
 Our approach to programming the analysis is a combination of the well-known [Krumhansl-Schmuckler algorithm for key recognition](https://pdfs.semanticscholar.org/6426/d811de335c61a3145623718b4615a35bb51b.pdf)
 and formalized rules for non-chord tones via XSLT. 
 
-Installation of the viewer: ...
----
+### Encoding Documentation
+
+For further information on our encoding guidelines, [please click here](https://github.com/paavomare/Kitzler-Studienbuch-Viewer/blob/master/documentation-encoding.md).
+
+### The Viewer: Facsimile and Analysis mode
+
+### Automated Harmonic Analysis
+
+### Installation of the viewer: ...
+
