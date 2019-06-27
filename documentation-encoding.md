@@ -25,7 +25,9 @@ This element contains material, which replaces material or is obviously added by
 
 #### &lt;annot&gt;
 
-This element contains extensive annotations written by Bruckner. A `<p>` element containing the text is nested within `<annot>`. `<lb>`, `<abbr>`, `<expan>`, and `<rend>` provide further information about the layout and appearance of the text. The attribute `@type` defines what kind of annotation is given. The values are: “description”, “question”, “answer”, “questionmark”, “date”, “title”, “pitchname”, and “NB”. The attribute `@plist` connects the `<annot>` element with another to specify the position.
+This element contains extensive annotations written by Bruckner. A `<p>` element containing the text is nested within `<annot>`. `<lb>`, `<abbr>`, `<expan>`, and `<rend>` provide further information about the layout and appearance of the text. The attribute `@type` defines what kind of annotation is given. The values are: “description”, “question”, “answer”, “questionmark”, “date”, “title”, “pitchname”, and “NB”. The attribute `@plist` points to other elements to specify the semantic position.
+
+
 
 ---
 
@@ -37,13 +39,13 @@ This element is used to encode a repeat symbol for a single beat. A certain numb
 
 #### &lt;cpMark&gt;
 
-This element is used to encode instructions or indications (such as “etc.” or “like above”) intended to result in filling gaps in the score with material written elsewhere. The attributes `@origin.startid` and `@origin.endid` are necessary to reference the measures, which are to be inserted, as well as `@tstamp` and `@tstamp2`, which are used to state the position of the inserted content in the new measure.
+This element is used to encode instructions or indications (such as “etc.” or “like above”) intended to result in filling gaps in the score with material written elsewhere. The attributes `@origin.startid` and `@origin.endid` are necessary to reference the measures, which are to be inserted, as well as `@tstamp` and `@tstamp2`, which are used to state the position of the inserted content in the new measure. For the source view, the cpMarks are processed via XSLT and `choice` elements with `abbr` and `expan` containing the copied material and the abbreviation (in fact, a `space`) are inserted. For the work view, the `abbr` elements are deleted to show only the semantic text, not the scripture.
 
 ---
 
 #### &lt;del&gt;
 
-This element contains material, which is deleted. To specify the kind of the deletion, we use different values for the attribute `@rend`: “strike”, “erased”, and “overwritten”. The last two values were added to the schema for this particular project. Information about writing in pencil is given by `@hand=”#Bleistift”`. 
+This element contains material that has been deleted. To specify the kind of the deletion, we use different values for the attribute `@rend`: “strike”, “erased”, and “overwritten”. The last two values were added to the schema for this particular project. Information about writing in pencil is given by `@hand=”#Bleistift”`. 
 
 ---
 
