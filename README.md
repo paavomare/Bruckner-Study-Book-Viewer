@@ -1,4 +1,4 @@
-## The Kitzler-Studybook-Viewer
+## The Bruckner Study Book Viewer
 
 This repository holds the source files of the [Bruckner Study Book Viewer](https://apps-mufo.oeaw.ac.at/studienbuch/) and 
 the MEI data as well as the XSLT for the harmonic analysis.
@@ -18,13 +18,13 @@ and chord recognition aswell as formalized rules for non-chord tones via XSLT.
 
 ### Encoding Documentation
 
-For further information on our encoding guidelines, [please click here](https://github.com/paavomare/Kitzler-Studienbuch-Viewer/blob/master/documentation/documentation-encoding.md).
+For further information on our encoding guidelines, [please click here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-encoding.md).
 
 ### The Image Viewer: Facsimile and Analysis mode
 
 To visualize the MEI data, we created an image viewer, which comprises two main modes: the Facsimile mode to explore the original manuscript in comparison with a digital in a synoptical view, and the Analysis mode to examine chord progressions using an automated analysis program.
 
-You can find further information on the image viewer by [clicking here](https://github.com/paavomare/Kitzler-Studienbuch-Viewer/blob/master/documentation/documentation-image-viewer.md).
+You can find further information on the image viewer by [clicking here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-image-viewer.md).
 
 ### Automated Harmonic Analysis
 
