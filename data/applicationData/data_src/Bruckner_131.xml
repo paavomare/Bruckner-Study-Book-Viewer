@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model xml-model href="../../Bruckner_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="kitzler_131_m-1" meiversion="4.0.0">
+    <meiHead xml:id="kitzler_131_m-2" meiversion="4.0.0">
+        <fileDesc xml:id="kitzler_131_m-3">
+            <titleStmt xml:id="kitzler_131_m-4">
+                <title xml:id="kitzler_131_m-10"/>
+                <respStmt xml:id="kitzler_131_m-11">
+                    <persName xml:id="kitzler_131_m-12"/>
+                </respStmt>
+            </titleStmt>
+            <pubStmt xml:id="kitzler_131_m-13">
+                <availability xml:id="kitzler_131_m-14">
+                    <useRestrict xml:id="kitzler_131_m-15"/>
+                </availability>
+            </pubStmt>
+        </fileDesc>
+        <encodingDesc xml:id="kitzler_131_m-16">
+            <appInfo xml:id="kitzler_131_m-17">
+                <application xml:id="kitzler_131_sibelius" isodate="2017-12-13T14:42:05Z" version="8510">
+                    <name xml:id="kitzler_131_m-19" type="operating-system">Windows 8</name>
+                </application>
+                <application xml:id="kitzler_131_sibmei" type="plugin" version="2.1.1-beta">
+                    <name xml:id="kitzler_131_m-21">Sibelius to MEI Exporter (2.1.1-beta)</name>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <workList xml:id="kitzler_131_m-5">
+            <work xml:id="kitzler_131_m-6">
+                 <title xml:id="kitzler_131_m-8">Scherzo da capo</title>
+                <title type="desc" xml:id="m47d7c5ee-6e29-42f5-bb59-630868205346">Ende des Trio-Entwurfs von S. 320,Z5-Z12</title>
+            </work>
+        </workList>
+        <revisionDesc xml:id="k131-revisionDesc-idm22">
+            <change xml:id="k131-change-idm23" n="1">
+                <respStmt xml:id="k131-respStmt-idm24">
+                    <persName xml:id="PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k131-changeDesc-idm26">
+                    <p xml:id="k131-p-idm27">Streichungen, Löschungen und Ergänzungen hinzugefügt</p>
+                </changeDesc>
+                <date xml:id="k131-date-idm28" isodate="2018-04-09"/>
+            </change>
+            <change xml:id="k131-change-idm29" n="2">
+                <respStmt xml:id="k131-respStmt-idm30">
+                    <persName xml:id="k131-persName-idm31" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k131-changeDesc-idm32">
+                    <p xml:id="k131-p-idm33">Annots eingefügt</p>
+                </changeDesc>
+                <date xml:id="k131-date-idm34" isodate="2018-04-09"/>
+            </change>
+            <change xml:id="k131-change-idm35" n="3">
+                <respStmt xml:id="k131-respStmt-idm36">
+                    <persName xml:id="k131-persName-idm37" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k131-changeDesc-idm38">
+                    <p xml:id="k131-p-idm39">Annots mit @plists versehen</p>
+                </changeDesc>
+                <date xml:id="k131-date-idm40" isodate="2018-06-05"/>
+            </change>
+            <change xml:id="k131-change-idm41" n="4">
+                <respStmt xml:id="k131-respStmt-idm42">
+                    <persName xml:id="k131-persName-idm43">Peter Provaznik</persName>
+                </respStmt>
+                <changeDesc xml:id="k131-changeDesc-idm44">
+                    <p xml:id="k131-p-idm45">Setzen von pb laut Inhaltsverzeichnis am Anfang der ersten section.</p>
+                </changeDesc>
+                <date xml:id="k131-date-idm46" isodate="2018-06-06">6.6.2018</date>
+            </change>
+            <change xml:id="k131-change-idm47" n="5">
+                <respStmt xml:id="k131-respStmt-idm48">
+                    <persName xml:id="k131-persName-idm49" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k131-changeDesc-idm50">
+                    <p xml:id="k131-p-idm51">cleaned-up files with XSLT: scoreDef adjustment, generete bTrem for stem.mod,
+                        harm: @place=above, chord: remove the @dur of the notes to the
+                        chord-element</p>
+                </changeDesc>
+                <date xml:id="k131-date-idm52" isodate="2018-07-06+02:00"/>
+            </change>
+            <change xml:id="k131-change-idm53" n="6">
+                <respStmt xml:id="k131-respStmt-idm54">
+                    <persName xml:id="k131-persName-idm55" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k131-changeDesc-idm56">
+                    <p xml:id="k131-p-idm57">@dots-Attribute aus notes gelöscht, die in chord-Elementen stehen</p>
+                </changeDesc>
+                <date xml:id="k131-date-idm58" isodate="2018-07-17+02:00"/>
+            </change>
+            <change xml:id="k131-change-idm59" n="7">
+                <respStmt xml:id="k131-respStmt-idm60">
+                    <persName xml:id="k131-persName-idm61" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k131-changeDesc-idm62">
+                    <p xml:id="k131-p-idm63">Korrekturen nach Gesamtausgabe und Anzeige-Tool</p>
+                </changeDesc>
+                <date xml:id="k131-date-idm64" isodate="2018-07-23"/>
+            </change>
+        <change xml:id="k131-change-idm65" n="8">
+            <respStmt xml:id="k131-respStmt-idm66">
+               <persName xml:id="k131-persName-idm67" resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc xml:id="k131-changeDesc-idm68">
+               <p xml:id="k131-p-idm69">Changed all @accid und @accid.ges into elements</p>
+            </changeDesc>
+            <date xml:id="k131-date-idm70" isodate="2018-09-04+02:00"/>
+         </change>
+         <change n="9">
+            <respStmt>
+               <persName resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc>
+               <p>add @n to annot </p>
+            </changeDesc>
+            <date isodate="2019-02-18"/>
+         </change>
+      </revisionDesc>
+    </meiHead>
+    <music xml:id="kitzler_131_m-22" meiversion="4.0.0">
+        <body xml:id="kitzler_131_m-23">
+            <mdiv xml:id="kitzler_131_m-24">
+                <score xml:id="kitzler_131_m-25">
+                    <scoreDef xml:id="kitzler_131_m-26" meter.count="3" meter.unit="4" key.sig="0" key.mode="major">
+                        <staffGrp xml:id="kitzler_131_m-27" symbol="brace" bar.thru="true">
+                            <staffDef multi.number="false" xml:id="kitzler_131_m-28" clef.line="2" clef.shape="G" lines="5" n="1"> </staffDef>
+                            <staffDef multi.number="false" xml:id="kitzler_131_m-31" clef.line="4" clef.shape="F" lines="5" n="2"> </staffDef>
+                        </staffGrp>
+                    </scoreDef>
+                    <section xml:id="kitzler_131_m-34">
+                        <pb n="325" xml:id="kitzler_131_m-67"/>
+                        <sb xml:id="kitzler_131_m-36"/>
+                        <measure xml:id="kitzler_131_m-35" label="1" n="1">
+                            <staff xml:id="kitzler_131_m-37" n="1">
+                                <layer xml:id="kitzler_131_m-38" n="1">
+                                    <beam xml:id="kitzler_131_m-40">
+                                        <note xml:id="kitzler_131_m-39" dur="8" oct="4" pname="a" tstamp="1"/>
+                                        <note xml:id="kitzler_131_m-41" dur="8" oct="4" pname="b" tstamp="1.5"/>
+                                        <note xml:id="kitzler_131_m-42" dur="8" oct="5" pname="c" tstamp="2"/>
+                                        <note xml:id="kitzler_131_m-43" dur="8" oct="5" pname="e" tstamp="2.5"/>
+                                        <note xml:id="kitzler_131_m-44" dur="8" oct="5" pname="a" tstamp="3"/>
+                                        <note xml:id="kitzler_131_m-45" dur="8" oct="5" pname="b" tstamp="3.5"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_131_m-46" n="2">
+                                <layer xml:id="kitzler_131_m-47" n="1">
+                                    <chord xml:id="kitzler_131_m-48" dots="1" dur="2" tstamp="1">
+                                        <note xml:id="kitzler_131_m-49" oct="2" pname="a"/>
+                                        <note xml:id="kitzler_131_m-50" oct="3" pname="c"/>
+                                        <note xml:id="kitzler_131_m-51" oct="3" pname="a"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_131_m-52" endid="#kitzler_131_m-64" startid="#kitzler_131_m-51" staff="2"/>
+                        </measure>
+                        <measure xml:id="kitzler_131_m-53" n="2" right="rptend">
+                            <annot n="1" xml:id="k131-annot-idm100" type="date" staff="2" place="margin" plist="#kitzler_131_m-53">
+                                <p xml:id="k131-p-idm101">
+                           <date xml:id="x7b43b4af-790c-4c78-ba3b-159a0c485b83" isodate="1863-04-10">10. April</date> von 10. bis 12 Vormittag 4-5 Uhr Abends</p>
+                            </annot>
+                            <annot n="2" xml:id="k131-annot-idm102" type="description" staff="2" place="below" plist="#kitzler_131_m-53">
+                                <p xml:id="k131-p-idm103">Ouverture dann Symphonie <choice xml:id="k131-choice-idm104">
+                                        <abbr xml:id="k131-abbr-idm105">u</abbr>
+                                        <expan xml:id="k131-expan-idm106">und</expan>
+                                    </choice>Psalm beschlossen</p>
+                            </annot>
+                            <annot n="3" xml:id="k131-annot-idm107" type="date" staff="1" place="below" plist="#kitzler_131_m-53">
+                                <p xml:id="k131-p-idm108">
+                           <date xml:id="x0c4dd6ae-ecee-46c2-bbaa-6d76f7438813" isodate="1863-07-10">10. Juli 1863</date>
+                        </p>
+                            </annot>
+                            <staff xml:id="kitzler_131_m-54" n="1">
+                                <layer xml:id="kitzler_131_m-55" n="1">
+                                    <note xml:id="kitzler_131_m-56" dur="4" oct="5" pname="a" tstamp="1"/>
+                                    <subst xml:id="k131-subst-idm112">
+                                        <del xml:id="k131-del-idm113" rend="overwritten">
+                                            <rest xml:id="k131-rest-idm114" dur="4"/>
+                                        </del>
+                                        <add xml:id="k131-add-idm115">
+                                            <note xml:id="kitzler_131_m-57" dur="4" oct="4" pname="a" tstamp="2"/>
+                                        </add>
+                                    </subst>
+                                    <rest xml:id="kitzler_131_m-58" dur="4" tstamp="3"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_131_m-59" n="2">
+                                <layer xml:id="kitzler_131_m-60" n="1">
+                                    <chord xml:id="kitzler_131_m-61" dur="4" tstamp="1">
+                                        <note xml:id="kitzler_131_m-62" oct="2" pname="a"/>
+                                        <note xml:id="kitzler_131_m-63" oct="3" pname="c"/>
+                                        <note xml:id="kitzler_131_m-64" oct="3" pname="a"/>
+                                    </chord>
+                                    <subst xml:id="k131-subst-idm124">
+                                        <del xml:id="k131-del-idm125" rend="strike">
+                                            <note pname="a" oct="3" dur="4" xml:id="kitzler131couldbaup"/>
+                                        </del>
+                                        <add xml:id="k131-add-idm127">
+                                            <rest xml:id="kitzler_131_m-65" dur="4" tstamp="2"/>
+                                        </add>
+                                    </subst>
+                                    <rest xml:id="kitzler_131_m-66" dur="4" tstamp="3"/>
+                                </layer>
+                            </staff>
+                            <dir xml:id="k131-dir-idm130" tstamp="4" staff="1" place="above">Scherzo da capo.</dir>
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

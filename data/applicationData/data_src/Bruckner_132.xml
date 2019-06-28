@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Bruckner_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="kitzler_132_m-1" meiversion="4.0.0">
+   <meiHead xml:id="kitzler_132_m-2" meiversion="4.0.0">
+      <fileDesc xml:id="kitzler_132_m-3">
+        <titleStmt xml:id="kitzler_132_m-4">
+            <title xml:id="kitzler_132_m-10"/>
+            <respStmt xml:id="kitzler_132_m-11">
+                <persName xml:id="kitzler_132_m-12"/>
+            </respStmt>
+        </titleStmt>
+        <pubStmt xml:id="kitzler_132_m-13">
+            <availability xml:id="kitzler_132_m-14">
+                <useRestrict xml:id="kitzler_132_m-15"/>
+            </availability>
+        </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="kitzler_132_m-16">
+        <appInfo xml:id="kitzler_132_m-17">
+            <application xml:id="kitzler_132_sibelius" isodate="2017-12-13T14:43:34Z" version="8510">
+                <name xml:id="kitzler_132_m-19" type="operating-system">Windows 8</name>
+            </application>
+            <application xml:id="kitzler_132_sibmei" type="plugin" version="2.1.1-beta">
+                <name xml:id="kitzler_132_m-21">Sibelius to MEI Exporter (2.1.1-beta)</name>
+            </application>
+        </appInfo>
+      </encodingDesc>
+      <workList xml:id="kitzler_132_m-5">
+        <work xml:id="kitzler_132_m-6">
+                <title xml:id="kitzler_132_m-8"/>
+            <title type="desc" xml:id="mefd09bdd-2bbc-4aa6-a665-90ab2ab065e3">
+                Scherzo Fortsetzung von S. 319,Z9-Z10, T.3</title>
+        </work>
+      </workList>
+       <revisionDesc xml:id="k132-revisionDesc-idm22">
+           <change xml:id="k132-change-idm23" n="1">
+               <respStmt xml:id="k132-respStmt-idm24">
+                   <persName xml:id="PG">Paul Gulewycz</persName>
+               </respStmt>
+               <changeDesc xml:id="k132-changeDesc-idm26">
+                   <p xml:id="k132-p-idm27">keine Streichungen enthalten, darum nur Annot eingefügt</p>
+               </changeDesc>
+               <date xml:id="k132-date-idm28" isodate="2018-04-09"/>
+           </change>
+           <change xml:id="k132-change-idm29" n="3">
+               <respStmt xml:id="k132-respStmt-idm30">
+                   <persName xml:id="k132-persName-idm31" resp="#PG">Paul Gulewycz</persName>
+               </respStmt>
+               <changeDesc xml:id="k132-changeDesc-idm32">
+                   <p xml:id="k132-p-idm33">Annots mit @plists versehen, versuchsweise <!--<hand xml:id="Bleistift"/>-->
+                       im Header angelegt.</p>
+               </changeDesc>
+               <date xml:id="k132-date-idm34" isodate="2018-06-05"/>
+           </change>
+         <change xml:id="k132-change-idm35" n="3">
+            <respStmt xml:id="k132-respStmt-idm36">
+               <persName xml:id="k132-persName-idm37" resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc xml:id="k132-changeDesc-idm38">
+               <p xml:id="k132-p-idm39">cleaned-up files with XSLT: scoreDef adjustment, generete bTrem for stem.mod, harm: @place=above, chord: remove the @dur of the notes to the chord-element</p>
+            </changeDesc>
+            <date xml:id="k132-date-idm40" isodate="2018-07-06+02:00"/>
+         </change>
+         <change xml:id="k132-change-idm41" n="4">
+            <respStmt xml:id="k132-respStmt-idm42">
+               <persName xml:id="k132-persName-idm43" resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc xml:id="k132-changeDesc-idm44">
+               <p xml:id="k132-p-idm45">Changed all @accid und @accid.ges into elements</p>
+            </changeDesc>
+            <date xml:id="k132-date-idm46" isodate="2018-09-04+02:00"/>
+         </change>
+         <change n="5">
+            <respStmt>
+               <persName resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc>
+               <p>add @n to annot </p>
+            </changeDesc>
+            <date isodate="2019-02-18"/>
+         </change>
+      </revisionDesc>
+   </meiHead>
+   <music xml:id="kitzler_132_m-22" meiversion="4.0.0">
+      <body xml:id="kitzler_132_m-23">
+        <mdiv xml:id="kitzler_132_m-24">
+            <score xml:id="kitzler_132_m-25">
+                <scoreDef xml:id="kitzler_132_m-26" meter.count="3" meter.unit="4" key.sig="0" key.mode="major">
+                    <staffGrp xml:id="kitzler_132_m-27" symbol="brace" bar.thru="true">
+                        <staffDef multi.number="false" xml:id="kitzler_132_m-28" clef.line="2" clef.shape="G" lines="5" n="1">
+                        </staffDef>
+                        <staffDef multi.number="false" xml:id="kitzler_132_m-31" clef.line="4" clef.shape="F" lines="5" n="2">
+                        </staffDef>
+                    </staffGrp>
+                </scoreDef>
+                <section xml:id="kitzler_132_m-34">
+                    <pb xml:id="kitzler_132-pb007" n="326"/>
+                    <sb xml:id="kitzler_132_m-36"/>
+                    <measure xml:id="kitzler_132_m-35" label="1" n="1">
+                        <annot n="1" xml:id="k132-annot-idm58" type="description" staff="2" place="below">
+                        <p xml:id="k132-p-idm59">Corni</p>
+                     </annot>
+                        <staff xml:id="kitzler_132_m-37" n="1">
+                            <layer xml:id="kitzler_132_m-38" n="1">
+                                <note xml:id="kitzler_132_m-39" dur="4" oct="5" pname="b" tstamp="1"/>
+                                <note xml:id="kitzler_132_m-40" dur="4" oct="5" pname="a" tstamp="2"/>
+                                <note xml:id="kitzler_132_m-41" dur="4" oct="5" pname="g" tstamp="3">
+                                    <accid xml:id="kitzler_132_m-42" accid="f"/>
+                                </note>
+                            </layer>
+                        </staff>
+                        <staff xml:id="kitzler_132_m-43" n="2">
+                            <layer xml:id="kitzler_132_m-44" n="1">
+                                <note xml:id="kitzler_132_m-45" dots="1" dur="2" oct="4" pname="d" tstamp="1">
+                                    <accid xml:id="kitzler_132_m-46" accid="f" func="caution"/>
+                                </note>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <measure xml:id="kitzler_132_m-47" n="2">
+                        <staff xml:id="kitzler_132_m-48" n="1">
+                            <layer xml:id="kitzler_132_m-49" n="1">
+                                <beam xml:id="kitzler_132_m-51">
+                                    <note xml:id="kitzler_132_m-50" dur="8" oct="5" pname="f" tstamp="1"/>
+                                    <note xml:id="kitzler_132_m-52" dur="8" oct="5" pname="d" tstamp="1.5"/>
+                                </beam>
+                                <note xml:id="kitzler_132_m-53" dur="4" oct="5" pname="d" tstamp="2"/>
+                                <beam xml:id="kitzler_132_m-55">
+                                    <note xml:id="kitzler_132_m-54" dur="8" oct="5" pname="f" tstamp="3"/>
+                                    <note xml:id="kitzler_132_m-56" dur="8" oct="5" pname="g" tstamp="3.5">
+                                        <accid xml:id="kitzler_132_m-57" accid="n" func="caution"/>
+                                    </note>
+                                </beam>
+                            </layer>
+                        </staff>
+                        <staff xml:id="kitzler_132_m-58" n="2">
+                            <layer xml:id="kitzler_132_m-59" n="1">
+                                <note xml:id="kitzler_132_m-60" dots="1" dur="2" oct="4" pname="d" tstamp="1">
+                                    <accid xml:id="kitzler_132_m-61" accid="f" func="caution"/>
+                                </note>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <measure xml:id="kitzler_132_m-62" n="3">
+                        <staff xml:id="kitzler_132_m-63" n="1">
+                            <layer xml:id="kitzler_132_m-64" n="1">
+                                <note xml:id="kitzler_132_m-65" dur="4" oct="5" pname="a" tstamp="1"/>
+                                <note xml:id="kitzler_132_m-66" dur="4" oct="5" pname="g" tstamp="2"/>
+                                <note xml:id="kitzler_132_m-67" dur="4" oct="5" pname="f" tstamp="3"/>
+                            </layer>
+                        </staff>
+                        <staff xml:id="kitzler_132_m-68" n="2">
+                            <layer xml:id="kitzler_132_m-69" n="1">
+                                <note xml:id="kitzler_132_m-70" dots="1" dur="2" oct="4" pname="d" tstamp="1">
+                                    <accid xml:id="kitzler_132_m-71" accid="f" func="caution"/>
+                                </note>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <measure xml:id="kitzler_132_m-72" n="4">
+                        <staff xml:id="kitzler_132_m-73" n="1">
+                            <layer xml:id="kitzler_132_m-74" n="1">
+                                <note xml:id="kitzler_132_m-75" dur="4" oct="5" pname="e" tstamp="1">
+                                    <accid xml:id="kitzler_132_m-76" accid="n" func="caution"/>
+                                </note>
+                                <note xml:id="kitzler_132_m-77" dur="4" oct="5" pname="f" tstamp="2"/>
+                                <note xml:id="kitzler_132_m-78" dur="4" oct="5" pname="g" tstamp="3"/>
+                            </layer>
+                        </staff>
+                        <staff xml:id="kitzler_132_m-79" n="2">
+                            <layer xml:id="kitzler_132_m-80" n="1">
+                                <note xml:id="kitzler_132_m-81" dots="1" dur="2" oct="4" pname="d" tstamp="1">
+                                    <accid xml:id="kitzler_132_m-82" accid="f" func="caution"/>
+                                </note>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <measure xml:id="kitzler_132_m-83" n="5">
+                        <staff xml:id="kitzler_132_m-84" n="1">
+                            <layer xml:id="kitzler_132_m-85" n="1">
+                                <note xml:id="kitzler_132_m-86" dots="1" dur="2" oct="5" pname="c" tstamp="1"/>
+                            </layer>
+                        </staff>
+                        <staff xml:id="kitzler_132_m-87" n="2">
+                            <layer xml:id="kitzler_132_m-88" n="1">
+                                <mRest xml:id="kitzler_132_m-89" visible="false" tstamp="1"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                </section>
+            </score>
+        </mdiv>
+      </body>
+   </music>
+</mei>
