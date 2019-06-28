@@ -1,16 +1,16 @@
 ## Encoding documentation
 
-This documentation provides information about the decisions made to encode the phenomena found in the *Kitzler-Studybook*. 
+This documentation provides information about the decisions made to encode the phenomena found in the *Kitzler Study Book*. 
 
-The encoding rules of this project are mainly derived from the [official MEI Guidelines v4.0.1](https://music-encoding.org/guidelines/v4/content/). Elements, attributes and attribute values were extended, where default values did not suffice to model the *Kitzler-Studybook* in MEI in a satisfying way. Furthermore, we customized the MEI schema using an ODD to exclude several unnecessary modules and elements. 
+The encoding rules of this project are mainly derived from the [official MEI Guidelines v4.0.1](https://music-encoding.org/guidelines/v4/content/). Elements, attributes and attribute values were extended, where default values did not suffice to model the *Kitzler Study Book* in MEI in a satisfying way. Furthermore, we customized the MEI schema using an ODD to exclude several unnecessary modules and elements. 
 
 All editorial corrections or decisions (using the elements `<sic>`, `<corr>`, and `<supplied>`) mention the responsible person via `@resp`. 
 
 Notes, which only consist of a head with no stem, get a duration value based on their relative position in the measure or by comparison with similar succession of notes in other measures or by discussing and deciding on a reasonable value.
 
-Tuplet numbers are regularized and displayed in the digital edition, when they are not present in the *Kitzler-Studybook*.
+Tuplet numbers are regularized and displayed in the digital edition, when they are not present in the *Kitzler Study Book*.
 
-When possible, the position of symbols and text indicating dynamics, ornamentation, tempo, etc. in the digital edition is identical to the position in the *Kitzler-Studybook*. If not, the positioning is tacitly adjusted. 
+When possible, the position of symbols and text indicating dynamics, ornamentation, tempo, etc. in the digital edition is identical to the position in the *Kitzler Study Book*. If not, the positioning is tacitly adjusted. 
 
 You can find further information about our approach and use of certain MEI elements in the following list in alphabetical order.
 
@@ -73,13 +73,13 @@ This element contains symbols like ”#“, ”+“, “x”, “X”, and “§
 
 #### &lt;rest&gt;
 
-For optimal positioning in the digital edition, `<rest>` is more closely encoded with `@oloc` and `@ploc`. The position does not represent the exact same place of the rest as in the *Kitzler-Studybook*. `@oloc` and `@ploc` is only used to ensure that no elements collide. 
+For optimal positioning in the digital edition, `<rest>` is more closely encoded with `@oloc` and `@ploc`. The position does not represent the exact same place of the rest as in the *Kitzler Study Book*. `@oloc` and `@ploc` is only used to ensure that no elements collide. 
 
 ---
 
 #### &lt;subst&gt;
 
-This element is used to encode a substitution and contains the elements `<del>` and `<add>`. The *Kitzler-Studybook* viewer enables toggling between the deleted and added material. Occasionally, it was necessary to nest `<subst>` in `<del>` as there are multiple cases, in which a substitution was eventually deleted as well.
+This element is used to encode a substitution and contains the elements `<del>` and `<add>`. The image viewer enables toggling between the deleted and added material. Occasionally, it was necessary to nest `<subst>` in `<del>` as there are multiple cases, in which a substitution was eventually deleted as well.
 
 ---
 
