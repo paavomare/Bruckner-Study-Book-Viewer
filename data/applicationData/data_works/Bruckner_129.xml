@@ -1,0 +1,2844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xml:id="kitzler_129_m-1"
+     meiversion="4.0.0">
+    <meiHead xml:id="kitzler_129_m-2" meiversion="4.0.0">
+        <fileDesc xml:id="kitzler_129_m-3">
+            <titleStmt xml:id="kitzler_129_m-4">
+                <title xml:id="kitzler_129_m-10"/>
+                <respStmt xml:id="kitzler_129_m-11">
+                    <persName xml:id="kitzler_129_m-12"/>
+                </respStmt>
+            </titleStmt>
+            <pubStmt xml:id="kitzler_129_m-13">
+                <availability xml:id="kitzler_129_m-14">
+                    <useRestrict xml:id="kitzler_129_m-15"/>
+                </availability>
+            </pubStmt>
+        </fileDesc>
+        <encodingDesc xml:id="kitzler_129_m-16">
+            <appInfo xml:id="kitzler_129_m-17">
+                <application xml:id="kitzler_129_sibelius"
+                         isodate="2017-12-11T18:02:13Z"
+                         version="8510">
+                    <name xml:id="kitzler_129_m-19" type="operating-system">Windows 8</name>
+                </application>
+                <application xml:id="kitzler_129_sibmei" type="plugin" version="2.1.1-beta">
+                    <name xml:id="kitzler_129_m-21">Sibelius to MEI Exporter (2.1.1-beta)</name>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <workList xml:id="kitzler_129_m-5">
+            <work xml:id="kitzler_129_m-6">
+                    <title xml:id="kitzler_129_m-8">Trio</title>
+                <title type="desc" xml:id="m89962793-d3a5-447a-abb8-2f5f1325d907">Entwurf zum Trio der Symphonie in f-Moll</title>
+            </work>
+        </workList>
+        <revisionDesc xml:id="k129-revisionDesc-idm22">
+            <change xml:id="k129-change-idm23" n="1">
+                <respStmt xml:id="k129-respStmt-idm24">
+                    <persName xml:id="PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k129-changeDesc-idm26">
+                    <p xml:id="k129-p-idm27">Streichungen, Löschungen und Ergänzungen hinzugefügt</p>
+                </changeDesc>
+                <date xml:id="k129-date-idm28" isodate="2018-04-05"/>
+            </change>
+            <change xml:id="k129-change-idm29" n="2">
+                <respStmt xml:id="k129-respStmt-idm30">
+                    <persName xml:id="k129-persName-idm31" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k129-changeDesc-idm32">
+                    <p xml:id="k129-p-idm33">Annots eingefügt</p>
+                </changeDesc>
+                <date xml:id="k129-date-idm34" isodate="2018-04-05"/>
+            </change>
+            <change xml:id="k129-change-idm35" n="3">
+                <respStmt xml:id="k129-respStmt-idm36">
+                    <persName xml:id="k129-persName-idm37" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k129-changeDesc-idm38">
+                    <p xml:id="k129-p-idm39">Annots mit @plists versehen.</p>
+                </changeDesc>
+                <date xml:id="k129-date-idm40" isodate="2018-06-05"/>
+            </change>
+        <change xml:id="k129-change-idm41" n="4">
+            <respStmt xml:id="k129-respStmt-idm42">
+               <persName xml:id="k129-persName-idm43" resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc xml:id="k129-changeDesc-idm44">
+               <p xml:id="k129-p-idm45">cleaned-up files with XSLT: scoreDef adjustment, generete bTrem for stem.mod, harm: @place=above, chord: remove the @dur of the notes to the chord-element</p>
+            </changeDesc>
+            <date xml:id="k129-date-idm46" isodate="2018-07-06+02:00"/>
+         </change>
+         <change xml:id="k129-change-idm47" n="5">
+            <respStmt xml:id="k129-respStmt-idm48">
+               <persName xml:id="k129-persName-idm49" resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc xml:id="k129-changeDesc-idm50">
+               <p xml:id="k129-p-idm51">@dots-Attribute aus notes gelöscht, die in chord-Elementen stehen</p>
+            </changeDesc>
+            <date xml:id="k129-date-idm52" isodate="2018-07-17+02:00"/>
+         </change>
+            <change xml:id="k129-change-idm53" n="6">
+                <respStmt xml:id="k129-respStmt-idm54">
+                    <persName xml:id="k129-persName-idm55" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k129-changeDesc-idm56">
+                    <p xml:id="k129-p-idm57">Korrekturen nach Gesamtausgabe und Anzeige-Tool</p>
+                </changeDesc>
+                <date xml:id="k129-date-idm58" isodate="2018-07-23"/>
+            </change>
+         <change xml:id="k129-change-idm59" n="7">
+            <respStmt xml:id="k129-respStmt-idm60">
+               <persName xml:id="k129-persName-idm61" resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc xml:id="k129-changeDesc-idm62">
+               <p xml:id="k129-p-idm63">Changed all @accid und @accid.ges into elements</p>
+            </changeDesc>
+            <date xml:id="k129-date-idm64" isodate="2018-09-04+02:00"/>
+         </change>
+         <change n="8">
+            <respStmt>
+               <persName resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc>
+               <p>add @n to annot </p>
+            </changeDesc>
+            <date isodate="2019-02-18"/>
+         </change>
+      </revisionDesc>
+    </meiHead>
+    <music xml:id="kitzler_129_m-22" meiversion="4.0.0">
+        <body xml:id="kitzler_129_m-23">
+            <mdiv xml:id="kitzler_129_m-24">
+                <score xml:id="kitzler_129_m-25">
+                    <scoreDef xml:id="kitzler_129_m-26"
+                         meter.count="3"
+                         meter.unit="4"
+                         key.sig="4f"
+                         key.mode="major">
+                        <staffGrp xml:id="kitzler_129_m-27" symbol="brace" bar.thru="true">
+                            <staffDef multi.number="false"
+                               xml:id="kitzler_129_m-28"
+                               clef.line="2"
+                               clef.shape="G"
+                               lines="5"
+                               n="1"> </staffDef>
+                            <staffDef multi.number="false"
+                               xml:id="kitzler_129_m-31"
+                               clef.line="4"
+                               clef.shape="F"
+                               lines="5"
+                               n="2"> </staffDef>
+                        </staffGrp>
+                    </scoreDef>
+                    <section xml:id="kitzler_129_m-34">
+                        <sb xml:id="kitzler_129_m-36"/>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-35"
+                           label="1"
+                           n="1">
+                            <staff xml:id="kitzler_129_m-37" n="1">
+                                <layer xml:id="kitzler_129_m-38" n="1">
+                                    <chord xml:id="kitzler_129_m-39"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-40" oct="5" pname="c"/>
+                                        <note xml:id="kitzler_129_m-41" oct="5" pname="e">
+                                            <accid xml:id="kitzler_129_m-42" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-43" n="2">
+                                <layer xml:id="kitzler_129_m-44" n="1">
+                                    <chord xml:id="kitzler_129_m-45"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-46" oct="4" pname="c"/>
+                                        <note xml:id="kitzler_129_m-47" oct="4" pname="e">
+                                            <accid xml:id="kitzler_129_m-48" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                        <dir xml:id="k129-dir-idm88" tstamp="1" staff="1" place="above">Trio</dir>
+                            <harm type="histogram">6-0-0-6-0-0-0-0-0-0-0-0</harm>
+                  </measure>
+                        <measure meter.count="3" meter.unit="4" xml:id="kitzler_129_m-49" n="2">
+                            <staff xml:id="kitzler_129_m-50" n="1">
+                                <layer xml:id="kitzler_129_m-51" n="1">
+                                    <chord xml:id="kitzler_129_m-52" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-53" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-54" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-56" oct="5" pname="f"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-58" dur="8" tstamp="3" tstamp2="3.5">
+                                        <note xml:id="kitzler_129_m-59" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-60" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-61" oct="5" pname="f"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-62" dur="8" tstamp="3.5" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-63" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-64" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-65" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-66" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-67" n="2">
+                                <layer xml:id="kitzler_129_m-68" n="1">
+                                    <note xml:id="kitzler_129_m-72"
+                                 dur="2"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_129_m-75"
+                                 dur="8"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="3.5">
+                                        <accid xml:id="kitzler_129_m-76" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-79"
+                                 dur="8"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="3.5"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-80" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_129_m-70" n="2">
+                                    <note xml:id="kitzler_129_m-73"
+                                 dur="2"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler_129_m-74" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-77"
+                                 dur="8"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="3"
+                                 tstamp2="3.5">
+                                        <accid xml:id="kitzler_129_m-78" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-81"
+                                 dur="8"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="3.5"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-82" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_129_m-55"
+                          endid="#kitzler_129_m-59"
+                          startid="#kitzler_129_m-53"
+                          staff="1"/>
+                            <tie xml:id="kitzler_129_m-57"
+                          endid="#kitzler_129_m-61"
+                          startid="#kitzler_129_m-56"
+                          staff="1"/>
+                            <slur xml:id="kitzler_129_m-69"
+                           layer="1"
+                           staff="2"
+                           startid="#kitzler_129_m-72"
+                           endid="#kitzler_129_m-75"/>
+                            <slur xml:id="kitzler_129_m-71"
+                           layer="2"
+                           staff="2"
+                           startid="#kitzler_129_m-73"
+                           endid="#kitzler_129_m-77"/>
+                        <harm type="histogram">0-6-0-0-0-4.5-0-0-0-0-1.5-0</harm>
+                  </measure>
+                        <measure meter.count="3" meter.unit="4" xml:id="kitzler_129_m-83" n="3">
+                            <staff xml:id="kitzler_129_m-84" n="1">
+                                <layer xml:id="kitzler_129_m-85" n="1">
+                                    <chord xml:id="kitzler_129_m-86"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-87" oct="4" pname="g"/>
+                                        <note xml:id="kitzler_129_m-88" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-89" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-90" n="2">
+                                <layer xml:id="kitzler_129_m-91" n="1">
+                                    <note xml:id="kitzler_129_m-92"
+                                 dots="1"
+                                 dur="2"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-93" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_129_m-94" n="2">
+                                    <note xml:id="kitzler_129_m-95"
+                                 dots="1"
+                                 dur="2"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="1"
+                                 tstamp2="4"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-0-0-0-0-0-6-0-0-6-0</harm>
+                  </measure>
+                        <measure meter.count="3" meter.unit="4" xml:id="kitzler_129_m-96" n="4">
+                            <staff xml:id="kitzler_129_m-97" n="1">
+                                <layer xml:id="kitzler_129_m-98" n="1">
+                                    <chord xml:id="kitzler_129_m-99"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-100" oct="4" pname="a">
+                                            <accid xml:id="kitzler_129_m-101" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-102" oct="5" pname="c"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-103" n="2">
+                                <layer xml:id="kitzler_129_m-104" n="1">
+                                    <chord xml:id="kitzler_129_m-105"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-106" oct="3" pname="a">
+                                            <accid xml:id="kitzler_129_m-107" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-108" oct="4" pname="c"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">6-0-0-0-0-0-0-0-6-0-0-0</harm>
+                  </measure>
+                        <measure meter.count="3" meter.unit="4" xml:id="kitzler_129_m-109" n="5">
+                            <staff xml:id="kitzler_129_m-110" n="1">
+                                <layer xml:id="kitzler_129_m-111" n="1">
+                                    <chord xml:id="kitzler_129_m-112" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-113" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-114" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-116" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-117" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-119" dur="8" tstamp="3" tstamp2="3.5">
+                                        <note xml:id="kitzler_129_m-120" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-121" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-122" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-123" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-124" dur="8" tstamp="3.5" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-125" oct="4" pname="g"/>
+                                        <note xml:id="kitzler_129_m-126" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-127" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-128" n="2">
+                                <layer xml:id="kitzler_129_m-129" n="1">
+                                    <note xml:id="kitzler_129_m-130"
+                                 dur="2"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler_129_m-131" accid="f" func="caution"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-137"
+                                 dur="8"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="3.5">
+                                        <accid xml:id="kitzler_129_m-138" accid="f" func="caution"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-141"
+                                 dur="8"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="3.5"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-142" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_129_m-133" n="2">
+                                    <note xml:id="kitzler_129_m-134"
+                                 dur="2"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler_129_m-135" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-139"
+                                 dur="8"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="3"
+                                 tstamp2="3.5">
+                                        <accid xml:id="kitzler_129_m-140" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-143"
+                                 dur="8"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="3.5"
+                                 tstamp2="4"/>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_129_m-115"
+                          endid="#kitzler_129_m-120"
+                          startid="#kitzler_129_m-113"
+                          staff="1"/>
+                            <tie xml:id="kitzler_129_m-118"
+                          endid="#kitzler_129_m-122"
+                          startid="#kitzler_129_m-116"
+                          staff="1"/>
+                            <tie xml:id="kitzler_129_m-132"
+                          endid="#kitzler_129_m-137"
+                          startid="#kitzler_129_m-130"
+                          staff="2"
+                          layer="1"/>
+                            <tie xml:id="kitzler_129_m-136"
+                          endid="#kitzler_129_m-139"
+                          startid="#kitzler_129_m-134"
+                          staff="2"
+                          layer="2"/>
+                        <harm type="histogram">0-5-0-0-0-0-0-1-0-0-6-0</harm>
+                  </measure>
+                        <measure meter.count="3" meter.unit="4" xml:id="kitzler_129_m-144" n="6">
+                            <staff xml:id="kitzler_129_m-145" n="1">
+                                <layer xml:id="kitzler_129_m-146" n="1">
+                                    <chord xml:id="kitzler_129_m-147"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-148" oct="4" pname="e">
+                                            <accid xml:id="kitzler_129_m-149" accid="n"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-150" oct="4" pname="g"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-151" n="2">
+                                <layer xml:id="kitzler_129_m-152" n="1">
+                                    <chord xml:id="kitzler_129_m-153"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-154" oct="3" pname="e">
+                                            <accid xml:id="kitzler_129_m-155" accid="n"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-156" oct="3" pname="g"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-0-0-6-0-0-6-0-0-0-0</harm>
+                  </measure>
+                        <measure meter.count="3" meter.unit="4" xml:id="kitzler_129_m-157" n="7">
+                            <staff xml:id="kitzler_129_m-158" n="1">
+                                <layer xml:id="kitzler_129_m-159" n="1">
+                                    
+                                            <chord xml:id="kitzler_129_m-160" dur="4" tstamp="1" tstamp2="2">
+                                                <note xml:id="kitzler_129_m-161" oct="4" pname="f"/>
+                                                <note xml:id="kitzler_129_m-162" oct="4" pname="a">
+                                                  <accid xml:id="kitzler_129_m-163" accid.ges="f"/>
+                                                </note>
+                                            </chord>
+                                            <chord xml:id="kitzler_129_m-164" dur="2" tstamp="2" tstamp2="4">
+                                                <note xml:id="kitzler_129_m-165" oct="4" pname="g"/>
+                                                <note xml:id="kitzler_129_m-166" oct="4" pname="b">
+                                                  <accid xml:id="kitzler_129_m-167" accid.ges="f"/>
+                                                </note>
+                                            </chord>
+                                        
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-168" n="2">
+                                <layer xml:id="kitzler_129_m-169" n="1">
+                                    <note xml:id="kitzler_129_m-170"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler_129_m-171" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-174"
+                                 dur="2"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="2"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-175" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_129_m-172" n="2">
+                                    <note xml:id="kitzler_129_m-173"
+                                 dur="4"
+                                 oct="3"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_129_m-176"
+                                 dur="2"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="2"
+                                 tstamp2="4"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-0-0-0-2-0-4-2-0-4-0</harm>
+                  </measure>
+                        <measure meter.count="3" meter.unit="4" xml:id="kitzler_129_m-177" n="8">
+                            <staff xml:id="kitzler_129_m-178" n="1">
+                                <layer xml:id="kitzler_129_m-179" n="1">
+                                    
+                                 <chord xml:id="kitzler_129_m-180" dur="4" tstamp="1" tstamp2="2">
+                                        <note xml:id="kitzler_129_m-181" oct="4" pname="a">
+                                            <accid xml:id="kitzler_129_m-182" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-183" oct="5" pname="c"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-184" dur="2" tstamp="2" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-185" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-186" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-187" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-188" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                              
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-189" n="2">
+                                <layer xml:id="kitzler_129_m-190" n="1">
+                                    <note xml:id="kitzler_129_m-191"
+                                 dur="4"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_129_m-195"
+                                 dur="2"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-196" accid="f" func="caution"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_129_m-192" n="2">
+                                    <note xml:id="kitzler_129_m-193"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler_129_m-194" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-197"
+                                 dur="2"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="2"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-198" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">2-4-0-0-0-0-0-0-2-0-4-0</harm>
+                  </measure>
+                        <measure meter.count="3" meter.unit="4" xml:id="kitzler_129_m-199" n="9">
+                            <staff xml:id="kitzler_129_m-200" n="1">
+                                <layer xml:id="kitzler_129_m-201" n="1">
+                                    <chord xml:id="kitzler_129_m-202" dur="4" tstamp="1" tstamp2="2">
+                                        <note xml:id="kitzler_129_m-203" oct="5" pname="c"/>
+                                        <note xml:id="kitzler_129_m-204" oct="5" pname="e">
+                                            <accid xml:id="kitzler_129_m-205" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-206" dur="4" tstamp="2" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-207" oct="4" pname="a">
+                                            <accid xml:id="kitzler_129_m-208" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-209" oct="5" pname="c"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-210" dur="4" tstamp="3" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-211" oct="4" pname="e">
+                                            <accid xml:id="kitzler_129_m-212" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-213" oct="4" pname="a">
+                                            <accid xml:id="kitzler_129_m-214" accid.ges="f"/>
+                                        </note>
+                                        
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-215" n="2">
+                                <layer xml:id="kitzler_129_m-216" n="1">
+                                    <note xml:id="kitzler_129_m-217"
+                                 dur="4"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler_129_m-218" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-221"
+                                 dur="4"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_129_m-224"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-225" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_129_m-219" n="2">
+                                    <note xml:id="kitzler_129_m-220"
+                                 dur="4"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_129_m-222"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="2"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler_129_m-223" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-226"
+                                 dur="4"
+                                 oct="3"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">5-0-0-3-0-0-0-0-4-0-0-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-227"
+                           n="10">
+                            <staff xml:id="kitzler_129_m-228" n="1">
+                                <layer xml:id="kitzler_129_m-229" n="1">
+                                    
+                                            <chord xml:id="kitzler_129_m-230" dur="2" tstamp="1" tstamp2="3">
+                                                <note xml:id="kitzler_129_m-231" oct="4" pname="e">
+                                                  <accid xml:id="kitzler_129_m-232" accid.ges="f"/>
+                                                </note>
+                                                <note xml:id="kitzler_129_m-233" oct="4" pname="b">
+                                                  <accid xml:id="kitzler_129_m-234" accid.ges="f"/>
+                                                </note>
+                                            </chord>
+                                            <chord xml:id="kitzler_129_m-235" dur="4" tstamp="3" tstamp2="4">
+                                                <note xml:id="kitzler_129_m-236" oct="4" pname="a">
+                                                  <accid xml:id="kitzler_129_m-237" accid.ges="f"/>
+                                                </note>
+                                                <note xml:id="kitzler_129_m-238" oct="5" pname="c"/>
+                                            </chord>
+                                        
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-239" n="2">
+                                <layer xml:id="kitzler_129_m-240" n="1">
+                                    
+                                            <note xml:id="kitzler_129_m-241"
+                                 dur="2"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                                <accid xml:id="kitzler_129_m-242" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="kitzler_129_m-246"
+                                 dur="4"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                        
+                                </layer>
+                                <layer xml:id="kitzler_129_m-243" n="2">
+                                    
+                                            <note xml:id="kitzler_129_m-244"
+                                 dur="2"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                                <accid xml:id="kitzler_129_m-245" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="kitzler_129_m-247"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                                <accid xml:id="kitzler_129_m-248" accid.ges="f"/>
+                                            </note>
+                                        
+                                </layer>
+                            </staff>
+                        <harm type="histogram">2-0-0-4-0-0-0-0-2-0-4-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-249"
+                           n="11">
+                            <staff xml:id="kitzler_129_m-250" n="1">
+                                <layer xml:id="kitzler_129_m-251" n="1">
+                                    
+                                            <chord xml:id="kitzler_129_m-252"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                                <note xml:id="kitzler_129_m-253" oct="4" pname="e">
+                                                  <accid xml:id="kitzler_129_m-254" accid.ges="f"/>
+                                                </note>
+                                                <note xml:id="kitzler_129_m-255" oct="4" pname="b">
+                                                  <accid xml:id="kitzler_129_m-256" accid.ges="f"/>
+                                                </note>
+                                            </chord>
+                              
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-257" n="2">
+                                <layer xml:id="kitzler_129_m-258" n="1">
+                                    <note xml:id="kitzler_129_m-259"
+                                 dots="1"
+                                 dur="2"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-260" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_129_m-261" n="2">
+                                    <note xml:id="kitzler_129_m-262"
+                                 dots="1"
+                                 dur="2"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-263" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-0-6-0-0-0-0-0-0-6-0</harm>
+                  </measure>
+                        <sb xml:id="kitzler_129_m-265"/>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-264"
+                           n="12">
+                            <annot n="1"
+                            xml:id="k129-annot-idm347"
+                            type="description"
+                            staff="2"
+                            place="above"
+                            plist="#kitzler_129_m-264">
+                        <p xml:id="k129-p-idm348">Cello</p>
+                     </annot>
+                            <staff xml:id="kitzler_129_m-266" n="1">
+                                <layer xml:id="kitzler_129_m-267" n="1">
+                                    <chord xml:id="kitzler_129_m-268"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-269" oct="5" pname="c"/>
+                                        <note xml:id="kitzler_129_m-270" oct="5" pname="e">
+                                            <accid xml:id="kitzler_129_m-271" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-272" n="2">
+                                <layer xml:id="kitzler_129_m-273" n="1">
+                                    <rest xml:id="kitzler_129_m-274" dur="8" tstamp="1" tstamp2="1.5"/>
+                                    <beam xml:id="kitzler_129_m-277">
+                                        <note xml:id="kitzler_129_m-275"
+                                    artic="stacc"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-276" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-278"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="4"
+                                    pname="a"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-279" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-280"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="4"
+                                    pname="g"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                        <note xml:id="kitzler_129_m-281"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="4"
+                                    pname="f"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-282"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="4"
+                                    pname="e"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-283" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">3-0-0-3.5-0-0.5-0-0.5-1-0-0-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-284"
+                           n="13">
+                            <staff xml:id="kitzler_129_m-285" n="1">
+                                <layer xml:id="kitzler_129_m-286" n="1">
+                                    <chord xml:id="kitzler_129_m-287" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-288" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-289" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-291" oct="5" pname="f"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-293" dur="8" tstamp="3" tstamp2="3.5">
+                                        <note xml:id="kitzler_129_m-294" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-295" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-296" oct="5" pname="f"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-297" dur="8" tstamp="3.5" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-298" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-299" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-300" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-301" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-302" n="2">
+                                <layer xml:id="kitzler_129_m-303" n="1">
+                                    <beam xml:id="kitzler_129_m-306">
+                                        <note xml:id="kitzler_129_m-304"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="4"
+                                    pname="d"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-305" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-307"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="4"
+                                    pname="c"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-308"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-309" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-310"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-311" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-312"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="3"
+                                    pname="g"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-313"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="3"
+                                    pname="f"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_129_m-290"
+                          endid="#kitzler_129_m-294"
+                          startid="#kitzler_129_m-288"
+                          staff="1"/>
+                            <tie xml:id="kitzler_129_m-292"
+                          endid="#kitzler_129_m-296"
+                          startid="#kitzler_129_m-291"
+                          staff="1"/>
+                        <harm type="histogram">0.5-3.5-0-0-0-3-0-0.5-0.5-0-1-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-314"
+                           n="14">
+                            <staff xml:id="kitzler_129_m-315" n="1">
+                                <layer xml:id="kitzler_129_m-316" n="1">
+                                    <chord xml:id="kitzler_129_m-317"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-318" oct="4" pname="g"/>
+                                        <note xml:id="kitzler_129_m-319" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-320" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-321" n="2">
+                                <layer xml:id="kitzler_129_m-322" n="1">
+                                    <beam xml:id="kitzler_129_m-324">
+                                        <note xml:id="kitzler_129_m-323"
+                                    dur="8"
+                                    oct="3"
+                                    pname="g"
+                                    tstamp="1"
+                                    tstamp2="1.5"/>
+                                        <note xml:id="kitzler_129_m-325"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-326" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-327"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-328" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-329"
+                                    dur="8"
+                                    oct="4"
+                                    pname="c"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                        <note xml:id="kitzler_129_m-330"
+                                    dur="8"
+                                    oct="4"
+                                    pname="d"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-331" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-332"
+                                    dur="8"
+                                    oct="4"
+                                    pname="e"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-333" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0.5-0.5-0-0.5-0-0-0-3.5-0.5-0-3.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-334"
+                           n="15">
+                            <staff xml:id="kitzler_129_m-335" n="1">
+                                <layer xml:id="kitzler_129_m-336" n="1">
+                                    <chord xml:id="kitzler_129_m-337"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-338" oct="4" pname="a">
+                                            <accid xml:id="kitzler_129_m-339" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-340" oct="5" pname="c"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-341" n="2">
+                                <layer xml:id="kitzler_129_m-342" n="1">
+                                    <beam xml:id="kitzler_129_m-345">
+                                        <note xml:id="kitzler_129_m-343"
+                                    dur="8"
+                                    oct="4"
+                                    pname="d"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-344" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-346"
+                                    dur="8"
+                                    oct="4"
+                                    pname="c"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-347"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-348" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-349"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-350" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-351"
+                                    dur="8"
+                                    oct="3"
+                                    pname="g"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-352"
+                                    dur="8"
+                                    oct="3"
+                                    pname="f"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">3.5-0.5-0-0-0-0.5-0-0.5-3.5-0-0.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-353"
+                           n="16"
+                           right="single">
+                            <staff xml:id="kitzler_129_m-354" n="1">
+                                <layer xml:id="kitzler_129_m-355" n="1">
+                                    <chord xml:id="kitzler_129_m-356" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-357" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-358" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-360" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-361" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-363" dur="8" tstamp="3" tstamp2="3.5">
+                                        <note xml:id="kitzler_129_m-364" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-365" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-366" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-367" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-368" dur="8" tstamp="3.5" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-369" oct="4" pname="g"/>
+                                        <note xml:id="kitzler_129_m-370" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-371" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-372" n="2">
+                                <layer xml:id="kitzler_129_m-373" n="1">
+                                    <beam xml:id="kitzler_129_m-376">
+                                        <note xml:id="kitzler_129_m-374"
+                                    dur="8"
+                                    oct="3"
+                                    pname="e"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-375" accid="n"/>
+                                        </note>
+                                        
+                                                <note xml:id="kitzler_129_m-377"
+                                    dur="8"
+                                    oct="3"
+                                    pname="f"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                                <note xml:id="kitzler_129_m-378"
+                                    dur="8"
+                                    oct="3"
+                                    pname="f"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                                  <accid xml:id="kitzler_129_m-379" accid="s"/>
+                                                </note>
+                                                <note xml:id="kitzler_129_m-380"
+                                    dur="8"
+                                    oct="3"
+                                    pname="g"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                                <note xml:id="kitzler_129_m-381"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                                  <accid xml:id="kitzler_129_m-382" accid="f" func="caution"/>
+                                                </note>
+                                            
+                                      <note xml:id="kitzler_129_m-383"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                 <accid xml:id="k129-accid-idm474" accid.ges="f"/>
+                                            
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_129_m-359"
+                          endid="#kitzler_129_m-364"
+                          startid="#kitzler_129_m-357"
+                          staff="1"/>
+                            <tie xml:id="kitzler_129_m-362"
+                          endid="#kitzler_129_m-366"
+                          startid="#kitzler_129_m-360"
+                          staff="1"/>
+                        <harm type="histogram">0-2.5-0-0-0.5-0.5-0.5-1-0.5-0-3.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-385"
+                           n="17">
+                            <staff xml:id="kitzler_129_m-386" n="1">
+                                <layer xml:id="kitzler_129_m-387" n="1">
+                                    <chord xml:id="kitzler_129_m-388"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-389" oct="4" pname="e">
+                                            <accid xml:id="kitzler_129_m-390" accid="n"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-391" oct="4" pname="g"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-392" n="2">
+                                <layer xml:id="kitzler_129_m-393" n="1">
+                                    <beam xml:id="kitzler_129_m-395">
+                                        <note xml:id="kitzler_129_m-394"
+                                    dur="8"
+                                    oct="4"
+                                    pname="c"
+                                    tstamp="1"
+                                    tstamp2="1.5"/>
+                                        <note xml:id="kitzler_129_m-396"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-397" accid="n"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-398"
+                                    dur="8"
+                                    oct="4"
+                                    pname="c"
+                                    tstamp="2"
+                                    tstamp2="2.5"/>
+                                        <note xml:id="kitzler_129_m-399"
+                                    dur="8"
+                                    oct="4"
+                                    pname="d"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-400" accid="f" func="caution"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-401"
+                                    dur="8"
+                                    oct="4"
+                                    pname="c"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-402"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-403" accid="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">1.5-0.5-0-0-3-0-0-3-0-0-0.5-0.5</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-404"
+                           n="18">
+                            <staff xml:id="kitzler_129_m-405" n="1">
+                                <layer xml:id="kitzler_129_m-406" n="1">
+                                    <chord xml:id="kitzler_129_m-407" dur="4" tstamp="1" tstamp2="2">
+                                        <note xml:id="kitzler_129_m-408" oct="4" pname="f"/>
+                                        <note xml:id="kitzler_129_m-409" oct="4" pname="a">
+                                            <accid xml:id="kitzler_129_m-410" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-411" dur="2" tstamp="2" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-412" oct="4" pname="g"/>
+                                        <note xml:id="kitzler_129_m-413" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-414" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-415" n="2">
+                                <layer xml:id="kitzler_129_m-416" n="1">
+                                    <beam xml:id="kitzler_129_m-419">
+                                        <note xml:id="kitzler_129_m-417"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-418" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-420"
+                                    dur="8"
+                                    oct="4"
+                                    pname="f"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-421"
+                                    dur="8"
+                                    oct="4"
+                                    pname="e"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-422" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-423"
+                                    dur="8"
+                                    oct="4"
+                                    pname="d"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-424" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-425"
+                                    dur="8"
+                                    oct="4"
+                                    pname="c"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-426"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-427" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0.5-0.5-0-0.5-0-1.5-0-2-1.5-0-2.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-428"
+                           n="19">
+                            <staff xml:id="kitzler_129_m-429" n="1">
+                                <layer xml:id="kitzler_129_m-430" n="1">
+                                    <chord xml:id="kitzler_129_m-431" dur="4" tstamp="1" tstamp2="2">
+                                        <note xml:id="kitzler_129_m-432" oct="4" pname="a">
+                                            <accid xml:id="kitzler_129_m-433" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-434" oct="5" pname="c"/>
+                                    </chord>
+                                    <note xml:id="kitzler_129_m-435"
+                                 dur="2"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-436" accid="n"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-437" n="2">
+                                <layer xml:id="kitzler_129_m-438" n="1">
+                                    <beam xml:id="kitzler_129_m-441">
+                                        <note xml:id="kitzler_129_m-439"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-440" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-442"
+                                    dur="8"
+                                    oct="3"
+                                    pname="f"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-443"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-444" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-445"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-446" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-447"
+                                    dur="8"
+                                    oct="3"
+                                    pname="g"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-448"
+                                    dur="8"
+                                    oct="3"
+                                    pname="f"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">1-0-2-0-0-1-0-0.5-2-0-0.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-449"
+                           n="20">
+                            <staff xml:id="kitzler_129_m-450" n="1">
+                                <layer xml:id="kitzler_129_m-451" n="1">
+                                    <note xml:id="kitzler_129_m-452"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler_129_m-453" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-454"
+                                 dur="4"
+                                 oct="5"
+                                 pname="f"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_129_m-455"
+                                 dur="4"
+                                 oct="5"
+                                 pname="g"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-456" n="2">
+                                <layer xml:id="kitzler_129_m-457" n="1">
+                                    <beam xml:id="kitzler_129_m-460">
+                                        <note xml:id="kitzler_129_m-458"
+                                    dur="8"
+                                    oct="3"
+                                    pname="e"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-459" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-461"
+                                    dur="8"
+                                    oct="3"
+                                    pname="d"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-462" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-463"
+                                    dur="8"
+                                    oct="3"
+                                    pname="c"
+                                    tstamp="2"
+                                    tstamp2="2.5"/>
+                                        <note xml:id="kitzler_129_m-464"
+                                    dur="8"
+                                    oct="2"
+                                    pname="b"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-465" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-466"
+                                    dur="8"
+                                    oct="2"
+                                    pname="a"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-467" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-468"
+                                    dur="8"
+                                    oct="2"
+                                    pname="g"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0.5-0.5-0-1.5-0-1-0-1.5-0.5-0-0.5-0</harm>
+                  </measure>
+                        <sb xml:id="kitzler_129_m-470"/>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-469"
+                           n="21">
+                            <staff xml:id="kitzler_129_m-471" n="1">
+                                <layer xml:id="kitzler_129_m-472" n="1">
+                                    <note xml:id="kitzler_129_m-473"
+                                 dur="2"
+                                 oct="5"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler_129_m-474" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-475"
+                                 dur="4"
+                                 oct="5"
+                                 pname="g"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-476" n="2">
+                                <layer xml:id="kitzler_129_m-477" n="1">
+                                    <beam xml:id="kitzler_129_m-479">
+                                        <note xml:id="kitzler_129_m-478"
+                                    dur="8"
+                                    oct="2"
+                                    pname="f"
+                                    tstamp="1"
+                                    tstamp2="1.5"/>
+                                        <note xml:id="kitzler_129_m-480"
+                                    dur="8"
+                                    oct="2"
+                                    pname="g"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-481"
+                                    dur="8"
+                                    oct="2"
+                                    pname="a"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-482" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-483"
+                                    dur="8"
+                                    oct="2"
+                                    pname="b"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-484" accid.ges="f"/>
+                                        </note>
+                                        
+                                            <note xml:id="kitzler_129_m-485"
+                                    dur="8"
+                                    oct="3"
+                                    pname="c"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                            <note xml:id="kitzler_129_m-486"
+                                    dur="8"
+                                    oct="2"
+                                    pname="b"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                               <accid xml:id="kitzler_129_m-487" accid="n"/>
+                                            </note>
+                                                                                
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0.5-0-0-0-0-0.5-0-1.5-2.5-0-0.5-0.5</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-488"
+                           n="22">
+                            <staff xml:id="kitzler_129_m-489" n="1">
+                                <layer xml:id="kitzler_129_m-490" n="1">
+                                    <beam xml:id="kitzler_129_m-492">
+                                        <note xml:id="kitzler_129_m-491"
+                                    dur="8"
+                                    oct="5"
+                                    pname="g"
+                                    tstamp="1"
+                                    tstamp2="1.5"/>
+                                        <note xml:id="kitzler_129_m-493"
+                                    dur="8"
+                                    oct="5"
+                                    pname="f"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                    </beam>
+                                    <note xml:id="kitzler_129_m-494"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="2"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler_129_m-495" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_129_m-496"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_129_m-497" accid="n"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-498" n="2">
+                                <layer xml:id="kitzler_129_m-499" n="1">
+                                    <beam xml:id="kitzler_129_m-502">
+                                        <note xml:id="kitzler_129_m-500"
+                                    dur="8"
+                                    oct="2"
+                                    pname="a"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-501" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-503"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-504" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                    <beam xml:id="kitzler_129_m-507">
+                                        <note xml:id="kitzler_129_m-505"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-506" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-508"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-509" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-510"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-511" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-512"
+                                    dur="8"
+                                    oct="2"
+                                    pname="b"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-513" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-1-1-0-0.5-0-0.5-1.5-0-1.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-514"
+                           n="23">
+                            <staff xml:id="kitzler_129_m-515" n="1">
+                                <layer xml:id="kitzler_129_m-516" n="1">
+                                    <note xml:id="kitzler_129_m-517"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler_129_m-518" accid.ges="f"/>
+                                    </note>
+                                    <rest xml:id="kitzler_129_m-519" dur="4" tstamp="2" tstamp2="3"/>
+                                    <rest xml:id="kitzler_129_m-520" dur="4" tstamp="3" tstamp2="4"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-521" n="2">
+                                <layer xml:id="kitzler_129_m-522" n="1">
+                                    <beam xml:id="kitzler_129_m-525">
+                                        <note xml:id="kitzler_129_m-523"
+                                    dur="8"
+                                    oct="3"
+                                    pname="e"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-524" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-526"
+                                    dur="8"
+                                    oct="3"
+                                    pname="g"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-527"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-528" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-529"
+                                    dur="8"
+                                    oct="4"
+                                    pname="d"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-530" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                    <note xml:id="kitzler_129_m-531"
+                                 dur="8"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="3.5">
+                                        <accid xml:id="kitzler_129_m-532" accid.ges="f"/>
+                                    </note>
+                                    <rest xml:id="kitzler_129_m-533" dur="8" tstamp="3.5" tstamp2="4"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0.5-0-2-0-0-0-0.5-0-0-0.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-534"
+                           left="rptstart"
+                           n="24">
+                            <annot n="2"
+                            xml:id="k129-annot-idm635"
+                            type="description"
+                            staff="2"
+                            place="below"
+                            plist="#kitzler_129_m-534">
+                        <p xml:id="k129-p-idm636">Corni</p>
+                     </annot>
+                            <staff xml:id="kitzler_129_m-535" n="1">
+                                <layer xml:id="kitzler_129_m-536" n="1">
+                                    <beam xml:id="kitzler_129_m-539">
+                                        <note xml:id="kitzler_129_m-537"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-538" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-540"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-541"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-542" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-543"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-544" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-545"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="5"
+                                    pname="f"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-546"
+                                    artic="stacciss"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-547" accid="n"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-548" n="2">
+                                <layer xml:id="kitzler_129_m-549" n="1">
+                                    
+                                    <chord xml:id="kitzler_129_m-550" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-551" oct="4" pname="d">
+                                            <accid xml:id="kitzler_129_m-552" accid="f" func="caution"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-554" oct="4" pname="f"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-557" dur="8" tstamp="3" tstamp2="3.5">
+                                        <note xml:id="kitzler_129_m-558" oct="4" pname="d">
+                                            <accid xml:id="kitzler_129_m-559" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-560" oct="4" pname="f"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-561" dur="8" tstamp="3.5" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-562" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-563" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-564" oct="4" pname="d">
+                                            <accid xml:id="kitzler_129_m-565" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_129_m-553"
+                          endid="#kitzler_129_m-558"
+                          startid="#kitzler_129_m-551"
+                          staff="2"/>
+                            <tie xml:id="kitzler_129_m-556"
+                          endid="#kitzler_129_m-560"
+                          startid="#kitzler_129_m-554"
+                          staff="2"/>
+                        <harm type="histogram">0.5-3.5-0-0.5-0.5-3-0-0-0-0-1-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-566"
+                           n="25">
+                            <staff xml:id="kitzler_129_m-567" n="1">
+                                <layer xml:id="kitzler_129_m-568" n="1">
+                                    <beam xml:id="kitzler_129_m-570">
+                                        <note xml:id="kitzler_129_m-569"
+                                    dur="8"
+                                    oct="5"
+                                    pname="f"
+                                    tstamp="1"
+                                    tstamp2="1.5"/>
+                                        <note xml:id="kitzler_129_m-571"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-572" accid="f" func="caution"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-573"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-574" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-575"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                        <note xml:id="kitzler_129_m-576"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-577" accid.ges="f"/>
+                                        </note>
+                                        
+                                            <note xml:id="kitzler_129_m-578"
+                                    dur="8"
+                                    oct="4"
+                                    pname="e"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-579" accid.ges="f"/>
+                                        </note>
+                                        
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-580" n="2">
+                                <layer xml:id="kitzler_129_m-581" n="1">
+                                    <chord xml:id="kitzler_129_m-582"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-583" oct="3" pname="g"/>
+                                        <note xml:id="kitzler_129_m-584" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-585" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0.5-0.5-0-1-0-0.5-0-3-0-0-3.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-586"
+                           n="26">
+                            <staff xml:id="kitzler_129_m-587" n="1">
+                                <layer xml:id="kitzler_129_m-588" n="1">
+                                    <beam xml:id="kitzler_129_m-591">
+                                        <note xml:id="kitzler_129_m-589"
+                                    dur="8"
+                                    oct="4"
+                                    pname="a"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-590" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-592"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-593"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-594" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-595"
+                                    dur="8"
+                                    oct="5"
+                                    pname="g"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                    </beam>
+                                    <beam xml:id="kitzler_129_m-598">
+                                        <note xml:id="kitzler_129_m-596"
+                                    dur="8"
+                                    oct="5"
+                                    pname="a"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-597" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-599"
+                                    dur="8"
+                                    oct="5"
+                                    pname="b"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-600" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-601" n="2">
+                                <layer xml:id="kitzler_129_m-602" n="1">
+                                    <chord xml:id="kitzler_129_m-603" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-604" oct="4" pname="c"/>
+                                        <note xml:id="kitzler_129_m-606" oct="4" pname="e">
+                                            <accid xml:id="kitzler_129_m-607" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-609" dur="8" tstamp="3" tstamp2="3.5">
+                                        <note xml:id="kitzler_129_m-610" oct="4" pname="c"/>
+                                        <note xml:id="kitzler_129_m-611" oct="4" pname="e">
+                                            <accid xml:id="kitzler_129_m-612" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-613" dur="8" tstamp="3.5" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-614" oct="3" pname="a">
+                                            <accid xml:id="kitzler_129_m-615" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-616" oct="4" pname="c"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_129_m-605"
+                          endid="#kitzler_129_m-610"
+                          startid="#kitzler_129_m-604"
+                          staff="2"/>
+                            <tie xml:id="kitzler_129_m-608"
+                          endid="#kitzler_129_m-611"
+                          startid="#kitzler_129_m-606"
+                          staff="2"/>
+                        <harm type="histogram">3.5-0-0-3-0-0-0-0.5-1.5-0-0.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-617"
+                           n="27">
+                            <staff xml:id="kitzler_129_m-618" n="1">
+                                <layer xml:id="kitzler_129_m-619" n="1">
+                                    <beam xml:id="kitzler_129_m-621">
+                                        <note xml:id="kitzler_129_m-620"
+                                    dur="8"
+                                    oct="6"
+                                    pname="c"
+                                    tstamp="1"
+                                    tstamp2="1.5"/>
+                                        <note xml:id="kitzler_129_m-622"
+                                    dur="8"
+                                    oct="5"
+                                    pname="b"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-623" accid="n"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-624"
+                                    dur="8"
+                                    oct="5"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-625" accid="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-626"
+                                    dur="8"
+                                    oct="5"
+                                    pname="a"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-627" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-628"
+                                    dur="8"
+                                    oct="5"
+                                    pname="g"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-629"
+                                    dur="8"
+                                    oct="5"
+                                    pname="f"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-630" n="2">
+                                <layer xml:id="kitzler_129_m-631" n="1">
+                                    <chord xml:id="kitzler_129_m-632"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-633" oct="3" pname="f"/>
+                                        <note xml:id="kitzler_129_m-634" oct="3" pname="a">
+                                            <accid xml:id="kitzler_129_m-635" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0.5-0-0-0-0-3.5-0-0.5-3.5-0-0.5-0.5</harm>
+                  </measure>
+                        <sb xml:id="kitzler_129_m-637"/>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-636"
+                           n="28">
+                            <staff xml:id="kitzler_129_m-638" n="1">
+                                <layer xml:id="kitzler_129_m-639" n="1">
+                                    <beam xml:id="kitzler_129_m-642">
+                                        <note xml:id="kitzler_129_m-640"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-641" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-643"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-644" accid="n"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-645"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-646" accid="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-647"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                        <note xml:id="kitzler_129_m-648"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-649" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-650"
+                                    dur="8"
+                                    oct="4"
+                                    pname="a"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-651" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-652" n="2">
+                                <layer xml:id="kitzler_129_m-653" n="1">
+                                    <chord xml:id="kitzler_129_m-654" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-655" oct="3" pname="g"/>
+                                        <note xml:id="kitzler_129_m-657" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-658" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-660" dur="8" tstamp="3" tstamp2="3.5">
+                                        <note xml:id="kitzler_129_m-661" oct="3" pname="g"/>
+                                        <note xml:id="kitzler_129_m-662" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-663" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-664" dur="8" tstamp="3.5" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-665" oct="3" pname="a">
+                                            <accid xml:id="kitzler_129_m-666" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-667" oct="4" pname="c"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_129_m-656"
+                          endid="#kitzler_129_m-661"
+                          startid="#kitzler_129_m-655"
+                          staff="2"/>
+                            <tie xml:id="kitzler_129_m-659"
+                          endid="#kitzler_129_m-662"
+                          startid="#kitzler_129_m-657"
+                          staff="2"/>
+                        <harm type="histogram">1-0.5-0.5-0.5-0-0-0-2.5-1-0-3-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-668"
+                           n="29">
+                            <staff xml:id="kitzler_129_m-669" n="1">
+                                <layer xml:id="kitzler_129_m-670" n="1">
+                                    <beam xml:id="kitzler_129_m-672">
+                                        <note xml:id="kitzler_129_m-671"
+                                    dur="8"
+                                    oct="4"
+                                    pname="g"
+                                    tstamp="1"
+                                    tstamp2="1.5"/>
+                                        <note xml:id="kitzler_129_m-673"
+                                    dur="8"
+                                    oct="4"
+                                    pname="e"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-674" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-675"
+                                    dur="8"
+                                    oct="4"
+                                    pname="g"
+                                    tstamp="2"
+                                    tstamp2="2.5"/>
+                                        <note xml:id="kitzler_129_m-676"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-677" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-678"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    artic="acc"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-679"
+                                    dur="8"
+                                    oct="4"
+                                    pname="a"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-680" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-681" n="2">
+                                <layer xml:id="kitzler_129_m-682" n="1">
+                                    <chord xml:id="kitzler_129_m-683" dur="4" tstamp="1" tstamp2="2">
+                                        <note xml:id="kitzler_129_m-684" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-685" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-686" oct="4" pname="d">
+                                            <accid xml:id="kitzler_129_m-687" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-688" dur="4" tstamp="2" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-689" oct="3" pname="e">
+                                            <accid xml:id="kitzler_129_m-690" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-691" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-692" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    <beam xml:id="kitzler_129_m-697">
+                                        <chord xml:id="kitzler_129_m-693" dur="8" tstamp="3" tstamp2="3.5">
+                                            <note xml:id="kitzler_129_m-694" oct="3" pname="a">
+                                                <accid xml:id="kitzler_129_m-695" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="kitzler_129_m-696" oct="4" pname="c"/>
+                                        </chord>
+                                        <chord xml:id="kitzler_129_m-698" dur="8" tstamp="3.5" tstamp2="4">
+                                            <note xml:id="kitzler_129_m-699" oct="3" pname="c"/>
+                                            <note xml:id="kitzler_129_m-700" oct="3" pname="a">
+                                                <accid xml:id="kitzler_129_m-701" accid.ges="f"/>
+                                            </note>
+                                        </chord>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">1.5-1-0-1.5-0-0-0-1-1.5-0-2.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-702"
+                           n="30">
+                            <staff xml:id="kitzler_129_m-703" n="1">
+                                <layer xml:id="kitzler_129_m-704" n="1">
+                                    <beam xml:id="kitzler_129_m-706">
+                                        <note xml:id="kitzler_129_m-705"
+                                    dur="8"
+                                    oct="4"
+                                    pname="g"
+                                    tstamp="1"
+                                    tstamp2="1.5"/>
+                                        <note xml:id="kitzler_129_m-707"
+                                    dur="8"
+                                    oct="4"
+                                    pname="e"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-708" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-709"
+                                    dur="8"
+                                    oct="4"
+                                    pname="g"
+                                    tstamp="2"
+                                    tstamp2="2.5"/>
+                                        <note xml:id="kitzler_129_m-710"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-711" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-712"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-713" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-714"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-715" accid="n"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-716" n="2">
+                                <layer xml:id="kitzler_129_m-717" n="1">
+                                    <chord xml:id="kitzler_129_m-718"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-719" oct="3" pname="e">
+                                            <accid xml:id="kitzler_129_m-720" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-722" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-723" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_129_m-721"
+                          endid="#kitzler_129_m-742"
+                          startid="#kitzler_129_m-719"
+                          staff="2"/>
+                            <tie xml:id="kitzler_129_m-724"
+                          endid="#kitzler_129_m-744"
+                          startid="#kitzler_129_m-722"
+                          staff="2"/>
+                        <harm type="histogram">0-0-0.5-4-0-0-0-1-0-0-3.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-725"
+                           n="31">
+                            <staff xml:id="kitzler_129_m-726" n="1">
+                                <layer xml:id="kitzler_129_m-727" n="1">
+                                    <beam xml:id="kitzler_129_m-730">
+                                        <note xml:id="kitzler_129_m-728"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-729" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-731"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-732" accid="n"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-733"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-734" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-735"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                        <note xml:id="kitzler_129_m-736"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-737" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-738"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-739" n="2">
+                                <layer xml:id="kitzler_129_m-740" n="1">
+                                    <chord xml:id="kitzler_129_m-741" dur="4" tstamp="1" tstamp2="2">
+                                        <note xml:id="kitzler_129_m-742" oct="3" pname="e">
+                                            <accid xml:id="kitzler_129_m-743" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-744" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-745" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                    
+                                           <rest xml:id="kitzler_129_m-746" dur="4" tstamp="2" tstamp2="3"/>
+                                           <rest xml:id="kitzler_129_m-747" dur="4" tstamp="3" tstamp2="4"/>
+                                        
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-1.5-2.5-0-0-0-0-0-0-1-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-748"
+                           n="32">
+                            <annot n="3"
+                            xml:id="k129-annot-idm865"
+                            type="description"
+                            staff="1"
+                            place="below"
+                            plist="#kitzler_129_m-748">
+                        <p xml:id="k129-p-idm866">? Corni</p>
+                     </annot>
+                            <staff xml:id="kitzler_129_m-749" n="1">
+                                <layer xml:id="kitzler_129_m-750" n="1">
+                                    <chord xml:id="kitzler_129_m-751"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-752" oct="5" pname="c"/>
+                                        <note xml:id="kitzler_129_m-753" oct="5" pname="e">
+                                            <accid xml:id="kitzler_129_m-754" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-755" n="2">
+                                <layer xml:id="kitzler_129_m-756" n="1">
+                                    <rest xml:id="kitzler_129_m-757" dur="8" tstamp="1" tstamp2="1.5"/>
+                                    <beam xml:id="kitzler_129_m-760">
+                                        <note xml:id="kitzler_129_m-758"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-759" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-761"
+                                    dur="8"
+                                    oct="4"
+                                    pname="a"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-762" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-763"
+                                    dur="8"
+                                    oct="4"
+                                    pname="g"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                        <note xml:id="kitzler_129_m-764"
+                                    dur="8"
+                                    oct="4"
+                                    pname="f"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-765"
+                                    dur="8"
+                                    oct="4"
+                                    pname="e"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-766" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">3-0-0-3.5-0-0.5-0-0.5-1-0-0-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-767"
+                           n="33">
+                            <staff xml:id="kitzler_129_m-768" n="1">
+                                <layer xml:id="kitzler_129_m-769" n="1">
+                                    <chord xml:id="kitzler_129_m-770" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-771" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-772" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-774" oct="5" pname="f"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-776" dur="8" tstamp="3" tstamp2="3.5">
+                                        <note xml:id="kitzler_129_m-777" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-778" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-779" oct="5" pname="f"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-780" dur="8" tstamp="3.5" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-781" oct="4" pname="b">
+                                            <accid xml:id="kitzler_129_m-782" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-783" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-784" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-785" n="2">
+                                <layer xml:id="kitzler_129_m-786" n="1">
+                                    <beam xml:id="kitzler_129_m-789">
+                                        <note xml:id="kitzler_129_m-787"
+                                    dur="8"
+                                    oct="4"
+                                    pname="d"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-788" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-790"
+                                    dur="8"
+                                    oct="4"
+                                    pname="c"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-791"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-792" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-793"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-794" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-795"
+                                    dur="8"
+                                    oct="3"
+                                    pname="g"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-796"
+                                    dur="8"
+                                    oct="3"
+                                    pname="f"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_129_m-773"
+                          endid="#kitzler_129_m-777"
+                          startid="#kitzler_129_m-771"
+                          staff="1"/>
+                            <tie xml:id="kitzler_129_m-775"
+                          endid="#kitzler_129_m-779"
+                          startid="#kitzler_129_m-774"
+                          staff="1"/>
+                        <harm type="histogram">0.5-3.5-0-0-0-3-0-0.5-0.5-0-1-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-797"
+                           n="34">
+                            <staff xml:id="kitzler_129_m-798" n="1">
+                                <layer xml:id="kitzler_129_m-799" n="1">
+                                    <chord xml:id="kitzler_129_m-800"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-801" oct="5" pname="d">
+                                            <accid xml:id="kitzler_129_m-802" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-803" oct="5" pname="g"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-804" n="2">
+                                <layer xml:id="kitzler_129_m-805" n="1">
+                                    <beam xml:id="kitzler_129_m-808">
+                                        <note xml:id="kitzler_129_m-806"
+                                    dur="8"
+                                    oct="3"
+                                    pname="e"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-807" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-809"
+                                    dur="8"
+                                    oct="3"
+                                    pname="g"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-810"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-811" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-812"
+                                    dur="8"
+                                    oct="4"
+                                    pname="c"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                        <note xml:id="kitzler_129_m-813"
+                                    dur="8"
+                                    oct="4"
+                                    pname="d"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-814" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-815"
+                                    dur="8"
+                                    oct="4"
+                                    pname="e"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-816" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0.5-3.5-0-1-0-0-0-3.5-0-0-0.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-817"
+                           n="35">
+                            <staff xml:id="kitzler_129_m-818" n="1">
+                                <layer xml:id="kitzler_129_m-819" n="1">
+                                    <chord xml:id="kitzler_129_m-820"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-821" oct="5" pname="c"/>
+                                        <note xml:id="kitzler_129_m-822" oct="5" pname="a">
+                                            <accid xml:id="kitzler_129_m-823" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-824" n="2">
+                                <layer xml:id="kitzler_129_m-825" n="1">
+                                    <beam xml:id="kitzler_129_m-827">
+                                        <note xml:id="kitzler_129_m-826"
+                                    dur="8"
+                                    oct="4"
+                                    pname="f"
+                                    tstamp="1"
+                                    tstamp2="1.5"/>
+                                        <note xml:id="kitzler_129_m-828"
+                                    dur="8"
+                                    oct="4"
+                                    pname="e"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-829" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-830"
+                                    dur="8"
+                                    oct="4"
+                                    pname="d"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-831" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-832"
+                                    dur="8"
+                                    oct="4"
+                                    pname="c"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                        <note xml:id="kitzler_129_m-833"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-834" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-835"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-836" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">3.5-0.5-0-0.5-0-0.5-0-0-3.5-0-0.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-837"
+                           n="36">
+                            <annot n="4"
+                            xml:id="k129-annot-idm956"
+                            type="description"
+                            staff="1"
+                            place="above"
+                            plist="#kitzler_129_m-837">
+                        <p xml:id="k129-p-idm957">? Fl Cl.</p>
+                     </annot>
+                            <staff xml:id="kitzler_129_m-838" n="1">
+                                <layer xml:id="kitzler_129_m-839" n="1">
+                                    <beam xml:id="kitzler_129_m-842">
+                                        <note xml:id="kitzler_129_m-840"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="1"
+                                    tstamp2="1.5">
+                                            <accid xml:id="kitzler_129_m-841" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-843"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="1.5"
+                                    tstamp2="2"/>
+                                        <note xml:id="kitzler_129_m-844"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-845" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-846"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler_129_m-847" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-848"
+                                    dur="8"
+                                    oct="5"
+                                    pname="f"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                        <note xml:id="kitzler_129_m-849"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-850" accid="n"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-851" n="2">
+                                <layer xml:id="kitzler_129_m-852" n="1">
+                                    <chord xml:id="kitzler_129_m-853"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler_129_m-854" oct="4" pname="d">
+                                            <accid xml:id="kitzler_129_m-855" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-856" oct="4" pname="f"/>
+                                    </chord>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0.5-3.5-0-0.5-0.5-3.5-0-0-0-0-0.5-0</harm>
+                  </measure>
+                        <measure meter.count="3"
+                           meter.unit="4"
+                           xml:id="kitzler_129_m-857"
+                           n="37">
+                            <staff xml:id="kitzler_129_m-858" n="1">
+                                <layer xml:id="kitzler_129_m-859" n="1">
+                                    <beam xml:id="kitzler_129_m-861">
+                                        <note xml:id="kitzler_129_m-860"
+                                    dur="8"
+                                    oct="5"
+                                    pname="f"
+                                    tstamp="1"
+                                    tstamp2="1.5"/>
+                                        <note xml:id="kitzler_129_m-862"
+                                    dur="8"
+                                    oct="5"
+                                    pname="e"
+                                    tstamp="1.5"
+                                    tstamp2="2">
+                                            <accid xml:id="kitzler_129_m-863" accid="f" func="caution"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-864"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler_129_m-865" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-866"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                        <note xml:id="kitzler_129_m-867"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler_129_m-868" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-869"
+                                    dur="8"
+                                    oct="4"
+                                    pname="e"
+                                    tstamp="3.5"
+                                    tstamp2="4">
+                                            <accid xml:id="kitzler_129_m-870" accid.ges="f"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_129_m-871" n="2">
+                                <layer xml:id="kitzler_129_m-872" n="1">
+                                    <chord xml:id="kitzler_129_m-873" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_129_m-874" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-875" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-877" oct="4" pname="d">
+                                            <accid xml:id="kitzler_129_m-878" accid.ges="f"/>
+                                        </note>
+                                        
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-880" dur="8" tstamp="3" tstamp2="3.5">
+                                        <note xml:id="kitzler_129_m-881" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-882" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-883" oct="4" pname="d">
+                                            <accid xml:id="kitzler_129_m-884" accid.ges="f"/>
+                                        </note>
+                                        
+                                                
+                                            
+                                    </chord>
+                                    <chord xml:id="kitzler_129_m-885" dur="8" tstamp="3.5" tstamp2="4">
+                                        <note xml:id="kitzler_129_m-886" oct="3" pname="e">
+                                            <accid xml:id="kitzler_129_m-887" accid.ges="f"/>
+                                        </note>
+                                        <note xml:id="kitzler_129_m-888" oct="3" pname="b">
+                                            <accid xml:id="kitzler_129_m-889" accid.ges="f"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_129_m-876"
+                          endid="#kitzler_129_m-881"
+                          startid="#kitzler_129_m-874"
+                          staff="2"/>
+                            <tie xml:id="kitzler_129_m-879"
+                          endid="#kitzler_129_m-883"
+                          startid="#kitzler_129_m-877"
+                          staff="2"/>
+                        <harm type="histogram">0.5-3-0-1.5-0-0.5-0-0-0-0-3.5-0</harm>
+                  </measure>
+                      <!--  hier kommen die beiden Takte von 131 bzw. S. 325-->
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
