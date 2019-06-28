@@ -28,6 +28,7 @@ You can find further information on the image viewer by [clicking here](https://
 
 ### Automated Harmonic Analysis
 
+For further information on our harmonic analysis, [please click here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-analysis.md).
 ### Installation of the Image Viewer:
 
 Instructions on installing the image viewer will be included soon. 
