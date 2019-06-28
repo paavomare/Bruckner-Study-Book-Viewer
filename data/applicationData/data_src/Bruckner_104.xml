@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Bruckner_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="kitzler_104_m-1" meiversion="4.0.0">
+    <meiHead xml:id="kitzler_104_m-2" meiversion="4.0.0">
+        <fileDesc xml:id="kitzler_104_m-3">
+            <titleStmt xml:id="kitzler_104_m-4">
+                <title xml:id="kitzler_104_m-10"/>
+                <respStmt xml:id="kitzler_104_m-11">
+                    <persName xml:id="kitzler_104_m-12"/>
+                </respStmt>
+            </titleStmt>
+            <pubStmt xml:id="kitzler_104_m-13">
+                <availability xml:id="kitzler_104_m-14">
+                    <useRestrict xml:id="kitzler_104_m-15"/>
+                </availability>
+            </pubStmt>
+            <sourceDesc xml:id="k104-sourceDesc-idm11">
+                <source xml:id="k104-source-idm12">
+                </source>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xml:id="kitzler_104_m-16">
+            <appInfo xml:id="kitzler_104_m-17">
+                <application xml:id="kitzler_104_sibelius" isodate="2018-2-23T14:35:16Z" version="8510">
+                    <name xml:id="kitzler_104_m-19" type="operating-system">Windows 8</name>
+                </application>
+                <application xml:id="kitzler_104_sibmei" type="plugin" version="2.1.1-beta">
+                    <name xml:id="kitzler_104_m-21">Sibelius to MEI Exporter (2.1.1-beta)</name>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <workList xml:id="kitzler_104_m-5">
+            <work xml:id="kitzler_104_m-6">
+                <title xml:id="kitzler_104_m-8">Cantus firmusartig</title>
+                <title type="desc" xml:id="mcb1ccbf8-2b68-4f8e-9b71-d5ccc20776fe">Choralsatz zur Instrumentierung</title>
+            </work>
+        </workList>
+        <manifestationList>
+            <manifestation>
+                <physDesc>
+                    <handList>
+                        <hand xml:id="Bleistift" medium="pencil"/>
+                    </handList>
+                </physDesc>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc xml:id="k104-revisionDesc-idm27">
+            <change xml:id="k104-change-idm28" n="1">
+                <respStmt xml:id="k104-respStmt-idm29">
+                    <persName xml:id="PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k104-changeDesc-idm31">
+                    <p xml:id="k104-p-idm32">Streichungen, Ergänzungen und Löschungen hinzugefügt.</p>
+                </changeDesc>
+                <date xml:id="k104-date-idm33" isodate="2018-03-05"/>
+            </change>
+            <change xml:id="k104-change-idm34" n="2">
+                <respStmt xml:id="k104-respStmt-idm35">
+                    <persName xml:id="k104-persName-idm36" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k104-changeDesc-idm37">
+                    <p xml:id="k104-p-idm38">Annotationen eingefügt</p>
+                </changeDesc>
+                <date xml:id="k104-date-idm39" isodate="2018-03-20"/>
+            </change>
+            <change xml:id="k104-change-idm40" n="3">
+                <respStmt xml:id="k104-respStmt-idm41">
+                    <persName xml:id="k104-persName-idm42" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k104-changeDesc-idm43">
+                    <p xml:id="k104-p-idm44">Annots mit @plists versehen</p>
+                </changeDesc>
+                <date xml:id="k104-date-idm45" isodate="2018-06-01"/>
+            </change>
+        <change xml:id="k104-change-idm46" n="4">
+            <respStmt xml:id="k104-respStmt-idm47">
+               <persName xml:id="k104-persName-idm48" resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc xml:id="k104-changeDesc-idm49">
+               <p xml:id="k104-p-idm50">cleaned-up files with XSLT: scoreDef adjustment, generete bTrem for stem.mod, harm: @place=above, chord: remove the @dur of the notes to the chord-element</p>
+            </changeDesc>
+            <date xml:id="k104-date-idm51" isodate="2018-07-04+02:00"/>
+         </change>
+         <change xml:id="k104-change-idm52" n="5">
+            <respStmt xml:id="k104-respStmt-idm53">
+               <persName xml:id="k104-persName-idm54" resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc xml:id="k104-changeDesc-idm55">
+               <p xml:id="k104-p-idm56">Changed all @accid und @accid.ges into elements</p>
+            </changeDesc>
+            <date xml:id="k104-date-idm57" isodate="2018-09-04+02:00"/>
+         </change>
+         <change n="6">
+            <respStmt>
+               <persName resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc>
+               <p>add @n to annot </p>
+            </changeDesc>
+            <date isodate="2019-02-18"/>
+         </change>
+      </revisionDesc>
+    </meiHead>
+    <music xml:id="kitzler_104_m-22" meiversion="4.0.0">
+        <body xml:id="kitzler_104_m-23">
+            <mdiv xml:id="kitzler_104_m-24">
+                <score xml:id="kitzler_104_m-25">
+                    <scoreDef xml:id="kitzler_104_m-26" meter.count="2" meter.unit="2" key.sig="3f" key.mode="major" meter.sym="cut">
+                        <staffGrp xml:id="kitzler_104_m-27" symbol="brace" bar.thru="true">
+                            <staffDef multi.number="false" xml:id="kitzler_104_m-28" clef.line="2" clef.shape="G" lines="5" n="1"> </staffDef>
+                            <staffDef multi.number="false" xml:id="kitzler_104_m-31" clef.line="4" clef.shape="F" lines="5" n="2"> </staffDef>
+                        </staffGrp>
+                    </scoreDef>
+                    <section xml:id="kitzler_104_m-34">
+                        <sb xml:id="kitzler_104_m-36"/>
+                        <measure xml:id="kitzler_104_m-35" label="1" n="1">
+                            <annot n="1" xml:id="k104-annot-idm69" type="section" staff="1" place="margin" plist="#kitzler_104_m-35">
+                        <p xml:id="k104-p-idm70">Cantus firmus<lb xml:id="k104-lb-idm71"/>artig</p>
+                     </annot>
+                            <staff xml:id="kitzler_104_m-37" n="1">
+                                <layer xml:id="kitzler_104_m-38" n="1">
+                                    <note xml:id="kitzler_104_m-39" dur="2" oct="4" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-40" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-44" dur="2" oct="4" pname="g" tstamp="2"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-41" n="2">
+                                    <note xml:id="kitzler_104_m-42" dur="2" oct="3" pname="b" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-43" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-45" dur="2" oct="4" pname="e" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-46" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-48" n="2">
+                                <layer xml:id="kitzler_104_m-49" n="1">
+                                    <note xml:id="kitzler_104_m-50" dur="2" oct="3" pname="g" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-55" dur="2" oct="3" pname="b" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-56" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-51" n="2">
+                                    <note xml:id="kitzler_104_m-52" dur="1" oct="3" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-53" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <dir xml:id="k104-annot-idm69r" staff="1" place="above" tstamp="0">
+                                Cantus firmus<lb xml:id="k104-lb-idm71r"/>artig
+                            </dir>
+                            <tie xml:id="kitzler_104_m-47" endid="#kitzler_104_m-63" startid="#kitzler_104_m-45" staff="1" layer="2"/>
+                            <tie xml:id="kitzler_104_m-54" endid="#kitzler_104_m-70" startid="#kitzler_104_m-52" staff="2" layer="2"/>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-57" n="2">
+                            <staff xml:id="kitzler_104_m-58" n="1">
+                                <layer xml:id="kitzler_104_m-59" n="1">
+                                    <note xml:id="kitzler_104_m-60" dur="1" oct="4" pname="b" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-61" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-62" n="2">
+                                    <note xml:id="kitzler_104_m-63" dur="2" oct="4" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-64" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-65" dur="2" oct="4" pname="f" tstamp="2"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-66" n="2">
+                                <layer xml:id="kitzler_104_m-67" n="1">
+                                    <note xml:id="kitzler_104_m-68" dur="2" oct="3" pname="g" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-72" dur="2" oct="3" pname="f" tstamp="2"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-69" n="2">
+                                    <note xml:id="kitzler_104_m-70" dur="2" oct="3" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-71" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-73" dur="2" oct="3" pname="d" tstamp="2"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-74" n="3">
+                            <staff xml:id="kitzler_104_m-75" n="1">
+                                <layer xml:id="kitzler_104_m-76" n="1">
+                                    <subst xml:id="k104-subst-idm112">
+                                        <del xml:id="k104-del-idm113" rend="strike" hand="#Bleistift">
+                                            <!-- Streichung -->
+                                            <note xml:id="kitzler_104_m-77" dur="2" oct="5" pname="e">
+                                                <accid xml:id="kitzler_104_m-78" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="kitzler_104_m-82" dur="2" oct="5" pname="e">
+                                                <accid xml:id="kitzler_104_m-83" accid.ges="f"/>
+                                            </note>
+                                        </del>
+                                        <add xml:id="k104-add-idm118" hand="#Bleistift">
+                                            <note xml:id="kitzler_104_m-a77" dur="2" oct="4" pname="e" tstamp="1">
+                                                <accid xml:id="kitzler_104_m-a78" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="kitzler_104_m-82a" dur="2" oct="4" pname="e" tstamp="2">
+                                                <accid xml:id="kitzler_104_m-a83" accid.ges="f"/>
+                                            </note>
+                                        </add>
+                                    </subst>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-79" n="2">
+                                    <note xml:id="kitzler_104_m-80" dur="2" oct="4" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-81" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-84" dur="2" oct="4" pname="a" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-85" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-86" n="2">
+                                <layer xml:id="kitzler_104_m-87" n="1">
+                                    <note xml:id="kitzler_104_m-88" dur="2" oct="3" pname="g" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-91" dur="2" oct="4" pname="c" tstamp="2"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-89" n="2">
+                                    <note xml:id="kitzler_104_m-90" dur="2" oct="3" pname="c" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-92" dur="2" oct="2" pname="a" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-93" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-94" n="4">
+                            <staff xml:id="kitzler_104_m-95" n="1">
+                                <layer xml:id="kitzler_104_m-96" n="1">
+                                    <subst xml:id="k104-subst-idm139">
+                                        <del xml:id="k104-del-idm140" rend="strike" hand="#Bleistift">
+                                            <!-- Streichung -->
+                                            <note pname="e" oct="5" dur="1" xml:id="kitzler104tlkvo">
+                                    <accid xml:id="k104-accid-idm142" accid.ges="f"/>
+                                 </note>
+                                        </del>
+                                        <add xml:id="k104-add-idm143" hand="#Bleistift">
+                                            <note xml:id="kitzler_104_m-97" dur="1" oct="4" pname="e" tstamp="1">
+                                                <accid xml:id="kitzler_104_m-98" accid.ges="f"/>
+                                            </note>
+                                        </add>
+                                    </subst>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-100" n="2">
+                                    <note xml:id="kitzler_104_m-101" dur="1" oct="4" pname="g" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-102" n="2">
+                                <layer xml:id="kitzler_104_m-103" n="1">
+                                    <note xml:id="kitzler_104_m-104" dur="1" oct="3" pname="b" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-105" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-106" n="2">
+                                    <note xml:id="kitzler_104_m-107" dur="1" oct="3" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-108" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <fermata xml:id="kitzler_104_m-99" form="norm" layer="1" shape="curved" staff="1" startid="#kitzler_104_m-97"/>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-109" n="5">
+                            <staff xml:id="kitzler_104_m-110" n="1">
+                                <layer xml:id="kitzler_104_m-111" n="1">
+                                    <note xml:id="kitzler_104_m-112" dur="2" oct="5" pname="c" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-115" dur="2" oct="5" pname="d" tstamp="2"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-113" n="2">
+                                    <note xml:id="kitzler_104_m-114" dur="2" oct="4" pname="g" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-116" dur="2" oct="4" pname="f" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-117" accid="s"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-118" n="2">
+                                <layer xml:id="kitzler_104_m-119" n="1">
+                                    <note xml:id="kitzler_104_m-120" dur="2" oct="3" pname="g" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-124" dur="2" oct="3" pname="a" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-125" accid="n"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-121" n="2">
+                                    <note xml:id="kitzler_104_m-122" dur="2" oct="3" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-123" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-126" dur="2" oct="3" pname="d" tstamp="2"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-127" n="6">
+                            <staff xml:id="kitzler_104_m-128" n="1">
+                                <layer xml:id="kitzler_104_m-129" n="1">
+                                    <subst xml:id="k104-subst-idm177">
+                                        <del xml:id="k104-del-idm178" rend="erased">
+                                            <!-- Löschung -->
+                                            <note xml:id="kitzler_104_m-130z" dur="2" oct="4" pname="b">
+                                    <accid xml:id="k104-accid-idm180" accid.ges="f"/>
+                                 </note>
+                                            <note xml:id="kitzler_104_m-133z" dur="2" oct="4" pname="e">
+                                    <accid xml:id="k104-accid-idm182" accid.ges="f"/>
+                                 </note>
+                                        </del>
+                                        <add xml:id="k104-add-idm183">
+                                            <note xml:id="kitzler_104_m-130" dur="2" oct="5" pname="d" tstamp="1"/>
+                                            <note xml:id="kitzler_104_m-133" dur="2" oct="4" pname="g" tstamp="2"/>
+                                        </add>
+                                    </subst>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-131" n="2">
+                                    <note xml:id="kitzler_104_m-132" dur="2" oct="4" pname="g" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-134" dur="4" oct="4" pname="g" tstamp="2"/>
+                                    <note xml:id="kitzler_104_m-135" dur="4" oct="4" pname="f" tstamp="2.5"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-136" n="2">
+                                <layer xml:id="kitzler_104_m-137" n="1">
+                                    <subst xml:id="k104-subst-idm192">
+                                        <del xml:id="k104-del-idm193" rend="erased">
+                                            <!-- Löschung -->
+                                            <note pname="e" oct="3" dur="1" xml:id="kitzler104pivol">
+                                    <accid xml:id="k104-accid-idm195" accid.ges="f"/>
+                                 </note>
+                                        </del>
+                                        <add xml:id="k104-add-idm196">
+                                            <subst xml:id="k104-subst-idm197">
+                                                <del xml:id="k104-del-idm198" rend="erased"> <!-- Löschung -->
+                                                    <note pname="g" oct="3" dur="2" xml:id="kitzler104aeco"/>
+                                                </del>
+                                                <add xml:id="k104-add-idm200">
+                                                <note xml:id="kitzler_104_m-138" dur="2" oct="3" pname="b" tstamp="1">
+                                                <accid xml:id="kitzler_104_m-139" accid.ges="f"/>
+                                            </note>
+                                                </add>
+                                            </subst>
+                                            <note xml:id="kitzler_104_m-142" dur="2" oct="3" pname="b" tstamp="2">
+                                                <accid xml:id="kitzler_104_m-143" accid.ges="f"/>
+                                            </note>
+                                        </add>
+                                    </subst>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-140" n="2">
+                                    <subst xml:id="k104-subst-idm206">
+                                        <del xml:id="k104-del-idm207" rend="erased"> <!-- Löschung -->
+                                            <note pname="g" oct="2" dur="2" xml:id="kitzler104suamo"/>
+                                            <note pname="e" oct="3" dur="2" xml:id="kitzler104suaklmo">
+                                    <accid xml:id="k104-accid-idm210" accid.ges="f"/>
+                                 </note>
+                                        </del>
+                                        <add xml:id="k104-add-idm211">
+                                        <note xml:id="kitzler_104_m-141" dur="2" oct="2" pname="g" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-144" dur="4" oct="3" pname="e" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-145" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-146" dur="4" oct="3" pname="d" tstamp="2.5"/>
+                                        </add>
+                                    </subst>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-147" n="7">
+                            <staff xml:id="kitzler_104_m-148" n="1">
+                                <layer xml:id="kitzler_104_m-149" n="1">
+                                    <note xml:id="kitzler_104_m-150" dur="2" oct="4" pname="g" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-154" dur="2" oct="4" pname="f" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-155" accid="s"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-151" n="2">
+                                    <note xml:id="kitzler_104_m-152" dur="2" oct="4" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-153" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-156" dur="2" oct="4" pname="d" tstamp="2"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-157" n="2">
+                                <layer xml:id="kitzler_104_m-158" n="1">
+                                    <subst xml:id="k104-subst-idm228">
+                                        <del xml:id="k104-del-idm229" rend="overwritten"> <!-- Überschreibung -->
+                                            <note pname="c" oct="4" dur="2" xml:id="kitzler104canonib"/>
+                                            <note pname="a" oct="3" dur="2" xml:id="kitzler104canonibx">
+                                    <accid xml:id="k104-accid-idm232" accid="n"/>
+                                 </note> 
+                                        </del>
+                                        <add xml:id="k104-add-idm233">
+                                        <note xml:id="kitzler_104_m-159" dur="4" oct="4" pname="c" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-162" dur="4" oct="3" pname="b" tstamp="1.5">
+                                        <accid xml:id="kitzler_104_m-163" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-164" dur="4" oct="3" pname="a" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-165" accid="n"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-167" dur="4" oct="4" pname="c" tstamp="2.5"/>
+                                        </add>
+                                    </subst>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-160" n="2">
+                                    <note xml:id="kitzler_104_m-161" dur="2" oct="3" pname="c" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-166" dur="2" oct="3" pname="d" tstamp="2"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-168" n="8">
+                            <staff xml:id="kitzler_104_m-169" n="1">
+                                <layer xml:id="kitzler_104_m-170" n="1">
+                                    <note xml:id="kitzler_104_m-171" dur="1" oct="4" pname="g" tstamp="1"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-173" n="2">
+                                    <note xml:id="kitzler_104_m-174" dur="1" oct="4" pname="d" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-175" n="2">
+                                <layer xml:id="kitzler_104_m-176" n="1">
+                                    <note xml:id="kitzler_104_m-177" dur="1" oct="3" pname="b" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-178" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-179" n="2">
+                                    <note xml:id="kitzler_104_m-180" dur="1" oct="2" pname="g" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <fermata xml:id="kitzler_104_m-172" form="norm" layer="1" shape="curved" staff="1" startid="#kitzler_104_m-171"/>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-181" n="9">
+                            <staff xml:id="kitzler_104_m-182" n="1">
+                                <layer xml:id="kitzler_104_m-183" n="1">
+                                    <note xml:id="kitzler_104_m-184" dur="2" oct="4" pname="g" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-188" dur="2" oct="4" pname="b" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-189" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-185" n="2">
+                                    <subst xml:id="k104-subst-idm263">
+                                        <del xml:id="k104-del-idm264" rend="erased"> <!-- Löschung -->
+                                            <note pname="e" oct="4" dur="2" xml:id="kitzler104goaou">
+                                    <accid xml:id="k104-accid-idm266" accid.ges="f"/>
+                                 </note>
+                                            <note pname="e" oct="4" dur="2" xml:id="kitzler104goaxou">
+                                    <accid xml:id="k104-accid-idm268" accid.ges="f"/>
+                                 </note>
+                                        </del>
+                                        <add xml:id="k104-add-idm269">
+                                        <note xml:id="kitzler_104_m-186" dur="1" oct="4" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-187" accid.ges="f"/>
+                                    </note>
+                                        </add>
+                                    </subst>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-190" n="2">
+                                <layer xml:id="kitzler_104_m-191" n="1">
+                                    <subst xml:id="k104-subst-idm274">
+                                        <del xml:id="k104-del-idm275" rend="erased"> <!-- Löschung -->
+                                            <note pname="g" oct="3" dur="1" xml:id="kitzler104duvm"/>
+                                        </del>
+                                        <add xml:id="k104-add-idm277">
+                                        <note xml:id="kitzler_104_m-192" dur="1" oct="3" pname="b" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-193" accid.ges="f"/>
+                                    </note>
+                                        </add>
+                                    </subst>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-194" n="2">
+                                    <note xml:id="kitzler_104_m-195" dur="1" oct="2" pname="g" tstamp="1"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <sb xml:id="kitzler_104_m-197"/>
+                        <measure xml:id="kitzler_104_m-196" n="10">
+                            <staff xml:id="kitzler_104_m-198" n="1">
+                                <layer xml:id="kitzler_104_m-199" n="1">
+                                    <note xml:id="kitzler_104_m-200" dur="2" oct="5" pname="d" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-201" accid="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-204" dur="2" oct="5" pname="c" tstamp="2"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-202" n="2">
+                                    <note xml:id="kitzler_104_m-203" dur="2" oct="4" pname="f" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-205" dur="2" oct="4" pname="g" tstamp="2"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-206" n="2">
+                                <layer xml:id="kitzler_104_m-207" n="1">
+                                    <subst xml:id="k104-subst-idm294">
+                                        <del xml:id="k104-del-idm295" rend="erased"> <!-- Löschung -->
+                                            <note pname="f" oct="3" dur="2" xml:id="kitzler104nenvup"/>
+                                            <note pname="e" oct="3" dur="2" xml:id="kitzler104nenvaup">
+                                    <accid xml:id="k104-accid-idm298" accid="n"/>
+                                 </note>
+                                        </del>
+                                        <add xml:id="k104-add-idm299">
+                                        <note xml:id="kitzler_104_m-208" dur="2" oct="3" pname="a" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-209" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-212" dur="2" oct="3" pname="g" tstamp="2"/>
+                              </add>
+                           </subst>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-210" n="2">
+                                    <note xml:id="kitzler_104_m-211" dur="2" oct="2" pname="f" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-214" dur="2" oct="2" pname="e" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-215" accid="n"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_104_m-213" endid="#kitzler_104_m-225" startid="#kitzler_104_m-212" staff="2" layer="1"/>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-216" n="11">
+                            <staff xml:id="kitzler_104_m-217" n="1">
+                                <layer xml:id="kitzler_104_m-218" n="1">
+                                    <note xml:id="kitzler_104_m-219" dur="1" oct="4" pname="a" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-220" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-221" n="2">
+                                    <subst xml:id="k104-subst-idm314">
+                                        <del xml:id="k104-del-idm315" rend="erased"> <!-- Löschung -->
+                                            <note xml:id="kitzler_104_m-22a2" dur="2" oct="4" pname="g"/>
+                                            <note xml:id="kitzler_104_m-222s" dur="2" oct="4" pname="f"/>
+                                        </del>
+                                        <add xml:id="k104-add-idm318">
+                                        <note xml:id="kitzler_104_m-222" dur="1" oct="4" pname="c" tstamp="1"/>
+                                        </add>
+                                    </subst>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-223" n="2">
+                                <layer xml:id="kitzler_104_m-224" n="1">
+                                    <note xml:id="kitzler_104_m-225" dur="2" oct="3" pname="g" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-228" dur="2" oct="3" pname="f" tstamp="2"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-226" n="2">
+                                    <note xml:id="kitzler_104_m-227" dur="1" oct="2" pname="f" tstamp="1"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-229" n="12">
+                            <staff xml:id="kitzler_104_m-230" n="1">
+                                <layer xml:id="kitzler_104_m-231" n="1">
+                                    <subst xml:id="k104-subst-idm329">
+                                        <del xml:id="k104-del-idm330" rend="erased"> <!-- Löschung -->
+                                            <note xml:id="kitzler_104_m-232a" dur="1" oct="4" pname="e">
+                                    <accid xml:id="k104-accid-idm332" accid="n"/>
+                                 </note>
+                                        </del>
+                                        <add xml:id="k104-add-idm333">
+                                        <note xml:id="kitzler_104_m-232" dur="1" oct="4" pname="g" tstamp="1"/>
+                              </add>
+                           </subst>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-234" n="2">
+                                    <note xml:id="kitzler_104_m-235" dur="1" oct="4" pname="c" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-236" n="2">
+                                <layer xml:id="kitzler_104_m-237" n="1">
+                                    <note xml:id="kitzler_104_m-238" dur="1" oct="3" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-239" accid="n"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-240" n="2">
+                                    <note xml:id="kitzler_104_m-241" dur="1" oct="3" pname="c" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <fermata xml:id="kitzler_104_m-233" form="norm" layer="1" shape="curved" staff="1" startid="#kitzler_104_m-232"/>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-242" n="13">
+                            <staff xml:id="kitzler_104_m-243" n="1">
+                                <layer xml:id="kitzler_104_m-244" n="1">
+                                    <note xml:id="kitzler_104_m-245" dur="2" oct="4" pname="a" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-246" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-249" dur="2" oct="5" pname="c" tstamp="2"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-247" n="2">
+                                    <note xml:id="kitzler_104_m-248" dur="2" oct="4" pname="c" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-250" dur="2" oct="4" pname="f" tstamp="2"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-251" n="2">
+                                <layer xml:id="kitzler_104_m-252" n="1">
+                                    <note xml:id="kitzler_104_m-253" dur="2" oct="3" pname="f" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-256" dur="2" oct="3" pname="a" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-257" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-254" n="2">
+                                    <note xml:id="kitzler_104_m-255" dur="2" oct="2" pname="f" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-258" dur="2" oct="2" pname="f" tstamp="2"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-259" n="14">
+                            <staff xml:id="kitzler_104_m-260" n="1">
+                                <layer xml:id="kitzler_104_m-261" n="1">
+                                    <note xml:id="kitzler_104_m-262" dur="1" oct="4" pname="b" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-263" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-265" n="2">
+                                    <note xml:id="kitzler_104_m-266" dur="2" oct="4" pname="d" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-267" dur="2" oct="4" pname="e" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-268" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-270" n="2">
+                                <layer xml:id="kitzler_104_m-271" n="1">
+                                    <note xml:id="kitzler_104_m-272" dur="2" oct="3" pname="f" tstamp="1"/>
+                                    <note xml:id="kitzler_104_m-276" dur="2" oct="3" pname="g" tstamp="2"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-273" n="2">
+                                    <note xml:id="kitzler_104_m-274" dur="2" oct="2" pname="b" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-275" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-277" dur="2" oct="2" pname="e" tstamp="2">
+                                        <accid xml:id="kitzler_104_m-278" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_104_m-264" endid="#kitzler_104_m-282" startid="#kitzler_104_m-262" staff="1" layer="1"/>
+                            <tie xml:id="kitzler_104_m-269" endid="#kitzler_104_m-286" startid="#kitzler_104_m-267" staff="1" layer="2"/>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-279" n="15">
+                            <staff xml:id="kitzler_104_m-280" n="1">
+                                <layer xml:id="kitzler_104_m-281" n="1">
+                                    <note xml:id="kitzler_104_m-282" dur="1" oct="4" pname="b" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-283" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-285" n="2">
+                                    <note xml:id="kitzler_104_m-286" dur="2" oct="4" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-287" accid.ges="f"/>
+                                    </note>
+                                    <note xml:id="kitzler_104_m-288" dur="2" oct="4" pname="d" tstamp="2"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-289" n="2">
+                                <layer xml:id="kitzler_104_m-290" n="1">
+                                    <note xml:id="kitzler_104_m-291" dur="1" oct="3" pname="f" tstamp="1"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-292" n="2">
+                                    <note xml:id="kitzler_104_m-293" dur="1" oct="2" pname="b" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-294" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <tie xml:id="kitzler_104_m-284" endid="#kitzler_104_m-298" startid="#kitzler_104_m-282" staff="1" layer="1"/>
+                        </measure>
+                        <measure xml:id="kitzler_104_m-295" n="16" right="dbl">
+                            <staff xml:id="kitzler_104_m-296" n="1">
+                                <layer xml:id="kitzler_104_m-297" n="1">
+                                    <note xml:id="kitzler_104_m-298" dur="1" oct="4" pname="b" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-299" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-300" n="2">
+                                    <note xml:id="kitzler_104_m-301" dur="1" oct="4" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-302" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_104_m-303" n="2">
+                                <layer xml:id="kitzler_104_m-304" n="1">
+                                    <note xml:id="kitzler_104_m-305" dur="1" oct="3" pname="g" tstamp="1"/>
+                                </layer>
+                                <layer xml:id="kitzler_104_m-306" n="2">
+                                    <note xml:id="kitzler_104_m-307" dur="1" oct="2" pname="e" tstamp="1">
+                                        <accid xml:id="kitzler_104_m-308" accid.ges="f"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
