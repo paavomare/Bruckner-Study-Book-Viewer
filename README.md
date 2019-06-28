@@ -18,13 +18,13 @@ and formalized rules for non-chord tones via XSLT.
 
 ### Encoding Documentation
 
-For further information on our encoding guidelines, [please click here](https://github.com/paavomare/Kitzler-Studienbuch-Viewer/blob/master/documentation-encoding.md).
+For further information on our encoding guidelines, [please click here](https://github.com/paavomare/Kitzler-Studienbuch-Viewer/blob/master/documentation/documentation-encoding.md).
 
 ### The Image Viewer: Facsimile and Analysis mode
 
 To visualize the MEI data, we created an image viewer, which comprises two main modes: the Facsimile mode to explore the original manuscript in comparison with a digital in a synoptical view, and the Analysis mode to examine chord progressions using an automated analysis program.
 
-You can find further information on the image viewer by [clicking here](https://github.com/paavomare/Kitzler-Studienbuch-Viewer/blob/master/documentation-image-viewer.md).
+You can find further information on the image viewer by [clicking here](https://github.com/paavomare/Kitzler-Studienbuch-Viewer/blob/master/documentation/documentation-image-viewer.md).
 
 ### Automated Harmonic Analysis
 
