@@ -1,0 +1,3025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xml:id="kitzler-024_m-1"
+     meiversion="4.0.0">
+    <meiHead xml:id="kitzler-024_m-2" meiversion="4.0.0">
+        <fileDesc xml:id="kitzler-024_m-3">
+            <titleStmt xml:id="kitzler-024_m-4">
+                <title xml:id="kitzler-024_m-10"/>
+                <respStmt xml:id="kitzler-024_m-11">
+                    <persName xml:id="kitzler-024_m-12"/>
+                </respStmt>
+            </titleStmt>
+            <pubStmt xml:id="kitzler-024_m-13">
+                <availability xml:id="kitzler-024_m-14">
+                    <useRestrict xml:id="kitzler-024_m-15"/>
+                </availability>
+            </pubStmt>
+        </fileDesc>
+        <encodingDesc xml:id="kitzler-024_m-16">
+            <appInfo xml:id="kitzler-024_m-17">
+                <application xml:id="kitzler-024_sibelius"
+                         isodate="2017-7-19T12:48:35Z"
+                         version="8510">
+                    <name xml:id="kitzler-024_m-19" type="operating-system">Windows 8</name>
+                </application>
+                <application xml:id="kitzler-024_sibmei" type="plugin" version="2.1.1-beta">
+                    <name xml:id="kitzler-024_m-21">Sibelius to MEI Exporter (2.1.1-beta)</name>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <workList xml:id="kitzler-024_m-5">
+            <work xml:id="kitzler-024_m-6">
+                <title xml:id="kitzler-024_m-8" type="uniform">Dreitheilige Liedform Des Baches Frühlingsfeier</title>
+                <title type="desc" xml:id="m55612c8e-78ac-49b3-beb6-72a9fa11b26a">Dreiteilige Liedformen mit 8-taktigen Perioden</title>
+            </work>
+        </workList>
+        <revisionDesc xml:id="k024-revisionDesc-idm22">
+            <change xml:id="k024-change-idm23" n="1">
+                <respStmt xml:id="k024-respStmt-idm24">
+                    <persName xml:id="PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k024-changeDesc-idm26">
+                    <p xml:id="k024-p-idm27">Streichungen, Ergänzungen und Löschungen hinzugefügt</p>
+                </changeDesc>
+                <date xml:id="k024-date-idm28" isodate="2017-10-08"/>
+            </change>
+            <change xml:id="k024-change-idm29" n="2">
+                <respStmt xml:id="k024-respStmt-idm30">
+                    <persName xml:id="k024-persName-idm31" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k024-changeDesc-idm32">
+                    <p xml:id="k024-p-idm33">mRests auf space ausgebessert</p>
+                </changeDesc>
+                <date xml:id="k024-date-idm34" isodate="2017-10-23"/>
+            </change>
+            <change xml:id="k024-change-idm35" n="3">
+                <respStmt xml:id="k024-respStmt-idm36">
+                    <persName xml:id="k024-persName-idm37" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k024-changeDesc-idm38">
+                    <p xml:id="k024-p-idm39">Annotationen eingefügt</p>
+                </changeDesc>
+                <date xml:id="k024-date-idm40" isodate="2018-02-19"/>
+            </change>
+            <change xml:id="k024-change-idm41" n="4">
+                <respStmt xml:id="k024-respStmt-idm42">
+                    <persName xml:id="k024-persName-idm43" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k024-changeDesc-idm44">
+                    <p xml:id="k024-p-idm45">Annots mit @plists versehen</p>
+                </changeDesc>
+                <date xml:id="k024-date-idm46" isodate="2018-05-08"/>
+            </change>
+            <change xml:id="k024-change-idm47" n="5">
+                <respStmt xml:id="k024-respStmt-idm48">
+                    <persName xml:id="k024-persName-idm49">Peter Provaznik</persName>
+                </respStmt>
+                <changeDesc xml:id="k024-changeDesc-idm50">
+                    <p xml:id="k024-p-idm51">Setzen von pb laut Inhaltsverzeichnis am Anfang der ersten section.</p>
+                </changeDesc>
+                <date xml:id="k024-date-idm52" isodate="2018-06-06">6.6.2018</date>
+            </change>
+            <change xml:id="k024-change-idm53" n="6">
+                <respStmt xml:id="k024-respStmt-idm54">
+                    <persName xml:id="k024-persName-idm55" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k024-changeDesc-idm56">
+                    <p xml:id="k024-p-idm57">cleaned-up files with XSLT: scoreDef adjustment, generete bTrem for stem.mod, harm: @place=above, chord: remove the @dur of the notes
+                        to the chord-element</p>
+                </changeDesc>
+                <date xml:id="k024-date-idm58" isodate="2018-07-04+02:00"/>
+            </change>
+            <change xml:id="k024-change-idm59" n="7">
+                <respStmt xml:id="k024-respStmt-idm60">
+                    <persName xml:id="k024-persName-idm61" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k024-changeDesc-idm62">
+                    <p xml:id="k024-p-idm63">@dots-Attribute aus notes gelöscht, die in chord-Elementen stehen</p>
+                </changeDesc>
+                <date xml:id="k024-date-idm64" isodate="2018-07-17+02:00"/>
+            </change>
+            <change xml:id="k024-change-idm65" n="8">
+                <respStmt xml:id="k024-respStmt-idm66">
+                    <persName xml:id="k024-persName-idm67" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k024-changeDesc-idm68">
+                    <p xml:id="k024-p-idm69">@key.sig-Werte in den inneren scoreDef's wieder hergestellt und wertelose @key.sig und @key.mode gelöscht</p>
+                </changeDesc>
+                <date xml:id="k024-date-idm70" isodate="2018-07-18"/>
+            </change>
+            <change xml:id="k024-change-idm71" n="9">
+                <respStmt xml:id="k024-respStmt-idm72">
+                    <persName xml:id="k024-persName-idm73" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k024-changeDesc-idm74">
+                    <p xml:id="k024-p-idm75">Changed all @accid und @accid.ges into elements</p>
+                </changeDesc>
+                <date xml:id="k024-date-idm76" isodate="2018-09-03+02:00"/>
+            </change>
+        <change xml:id="k44bcdd94-d830-427d-97be-39102e26a30d" n="10">
+            <respStmt xml:id="ked07920c-89d1-4fa5-9c99-9938128ef239">
+               <persName xml:id="k740d7fe3-df0c-438a-9314-1c477b91aa9a" resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc xml:id="k43c10dd6-14c1-430f-902c-4b8c5a760320">
+               <p xml:id="k6195928d-ab9f-482e-b48b-c34d138da3f8">add @n to annot </p>
+            </changeDesc>
+            <date xml:id="k2020bef6-0781-4d60-a68e-e33bb0df70eb" isodate="2019-02-18"/>
+         </change>
+            <change xml:id="ka2c3deb3-3980-40b9-a334-0d9507069548" n="11">
+                <respStmt xml:id="kf20d7b29-7d36-4d44-9271-4434dd54bcc4"> 
+                    <persName xml:id="kebd57b78-a4db-4a5e-8306-b61fd93ebbc3" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k630b72d3-6da7-48a8-a54f-e65c8ba12d56">
+                    <p xml:id="kf9838bec-a85c-4a1f-bcdb-1345d77af2f9">Final proofreading</p>
+                </changeDesc>
+                <date xml:id="k14b640d4-17dc-46dd-aecf-1c4f561eadd6" isodate="2019-03-13"/> 
+            </change>
+      </revisionDesc>
+    </meiHead>
+    <music xml:id="kitzler-024_m-22" meiversion="4.0.0">
+        <body xml:id="kitzler-024_m-23">
+            <mdiv xml:id="kitzler-024_m-24">
+                <score xml:id="kitzler-024_m-25">
+                    <scoreDef xml:id="kitzler-024_m-26"
+                         meter.count="4"
+                         meter.unit="4"
+                         key.sig="1f"
+                         key.mode="minor">
+                        <staffGrp xml:id="kitzler-024_m-27" symbol="brace" bar.thru="true">
+                            <staffDef multi.number="false"
+                               xml:id="kitzler-024_m-28"
+                               clef.line="2"
+                               clef.shape="G"
+                               lines="5"
+                               n="1"> </staffDef>
+                            <staffDef multi.number="false"
+                               xml:id="kitzler-024_m-31"
+                               clef.line="2"
+                               clef.shape="G"
+                               lines="5"
+                               n="2"> </staffDef>
+                            <staffDef multi.number="false"
+                               xml:id="kitzler-024_m-34"
+                               clef.line="4"
+                               clef.shape="F"
+                               lines="5"
+                               n="3"> </staffDef>
+                        </staffGrp>
+                    </scoreDef>
+                    <section xml:id="kitzler-024_m-37">
+                        <pb n="23" xml:id="kitzler-024_m-1035"/>
+                        <sb xml:id="kitzler-024_m-39"/>
+                        <annot n="1"
+                         xml:id="k024-annot-idm89"
+                         type="description"
+                         staff="1"
+                         place="above"
+                         plist="#kitzler-024_m-38">
+                            <p xml:id="k024-p-idm90">Dreitheilige Liedform.</p>
+                        </annot>
+                        <annot n="2"
+                         xml:id="k024-annot-idm91"
+                         type="description"
+                         staff="1"
+                         place="above"
+                         plist="#kitzler-024_m-38">
+                            <p xml:id="k024-p-idm92">1. Periode für sich ein Ganzes<lb xml:id="k024-lb-idm93"/>2. = neu<lb xml:id="k024-lb-idm94"/>3. = Wiederholung der 1<rend xml:id="k024-rend-idm95" rend="sup">ten</rend> Periode.</p>
+                        </annot>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-38"
+                           label="1"
+                           metcon="false"
+                           n="1">
+                            <annot n="3"
+                            xml:id="k024-annot-idm97"
+                            type="title"
+                            staff="1"
+                            place="above"
+                            plist="#kitzler-024_m-38">
+                                <p xml:id="k024-p-idm98">Des Baches Frühlingsfeier.</p>
+                            </annot>
+                            <annot n="4"
+                            xml:id="k024-annot-idm109"
+                            type="description"
+                            staff="1"
+                            place="above"
+                            plist="#kitzler-024_m-38">
+                                <p xml:id="k024-p-idm110">
+                                    
+                                </p>
+                            </annot>
+                            <annot n="5"
+                            xml:id="k024-annot-idm99"
+                            type="description"
+                            staff="2"
+                            place="margin"
+                            plist="#kitzler-024_m-38">
+                                <p xml:id="k024-p-idm100">NB<lb xml:id="k024-lb-idm101"/>3<rend xml:id="k024-rend-idm102" rend="sup">te</rend>
+                                    <lb xml:id="k024-lb-idm103"/>Strophe<lb xml:id="k024-lb-idm104"/>in Dur<lb xml:id="k024-lb-idm105"/>
+                                    nachcomponirt
+                                </p>
+                            </annot>
+                            
+                            
+                            <dir xml:id="k1b2954de-ed79-406d-9f3d-e28246368a1c"
+                          type="title"
+                          staff="1"
+                          place="above"
+                          tstamp="0">Des Baches Frühlingsfeier.</dir>
+                            <dir xml:id="kcacf8729-57fa-4858-a21a-0dff626c1e78"
+                          type="title"
+                          staff="1"
+                          place="above"
+                          tstamp="1">Dreitheilige Liedform.</dir>
+                            <staff xml:id="kitzler-024_m-40" n="1">
+                                <layer xml:id="kitzler-024_m-41" n="1">
+                                    <note xml:id="kitzler-024_m-42"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <verse xml:id="kitzler-024_m-43" n="1">
+                                            <syl xml:id="kitzler-024_m-44" wordpos="i">Was</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-45" n="2">
+                                            <syl xml:id="kitzler-024_m-46" wordpos="i">Auch</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-47" n="2">
+                                <layer xml:id="kitzler-024_m-48" n="1">
+                                    <space dur="4" xml:id="kitzler-024_m-49" tstamp="1" tstamp2="2"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-50" n="3">
+                                <layer xml:id="kitzler-024_m-51" n="1">
+                                    <space dur="4" xml:id="kitzler-024_m-52" tstamp="1" tstamp2="2"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-0-0-0-0-0-0-0-1-0-0</harm>
+                  </measure>
+                        <measure meter.count="4" meter.unit="4" xml:id="kitzler-024_m-53" n="2">
+                            <staff xml:id="kitzler-024_m-54" n="1">
+                                <layer xml:id="kitzler-024_m-55" n="1">
+                                    <note xml:id="kitzler-024_m-56"
+                                 dots="1"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="2.5">
+                                        <verse xml:id="kitzler-024_m-60" n="1">
+                                            <syl xml:id="kitzler-024_m-61" wordpos="i">solls</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-62" n="2">
+                                            <syl xml:id="kitzler-024_m-63" wordpos="i">du</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-57"
+                                 dur="8"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-64" n="1">
+                                            <syl xml:id="kitzler-024_m-65" wordpos="i">mit</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-66" n="2">
+                                            <syl xml:id="kitzler-024_m-67" wordpos="i">fing</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-58"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-68" n="1">
+                                            <syl xml:id="kitzler-024_m-69" con="d" wordpos="i">dei</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-72" n="2">
+                                            <syl xml:id="kitzler-024_m-73" con="d" wordpos="i">dei</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-59"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-70" n="1">
+                                            <syl xml:id="kitzler-024_m-71" wordpos="t">nem</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-74" n="2">
+                                            <syl xml:id="kitzler-024_m-75" wordpos="t">ne</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-76" n="2">
+                                <layer xml:id="kitzler-024_m-77" n="1">
+                                    <mSpace xml:id="kitzler-024_m-78" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-79" n="3">
+                                <layer xml:id="kitzler-024_m-80" n="1">
+                                    <fTrem xml:id="k024-fTrem-idm156"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-81" dur="2">
+                                            <note xml:id="kitzler-024_m-82" oct="3" pname="f"/>
+                                            <note xml:id="kitzler-024_m-83" oct="3" pname="a"/>
+                                            <note xml:id="kitzler-024_m-84" oct="4" pname="d"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-89" dur="2" oct="4" pname="f"/>
+                                    </fTrem>
+                                    
+                                 <fTrem xml:id="r9ecb9f44-3d92-4569-972a-034eb8ac0216"
+                                  corresp="#k024-fTrem-idm156"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="rf8b71418-d584-4898-b900-f290d9ebe4e7"
+                                     corresp="#kitzler-024_m-81"
+                                     dur="2">
+                                            <note xml:id="rce10dd14-d414-4b78-8ff5-68a2dd115ba7"
+                                       corresp="#kitzler-024_m-82"
+                                       oct="3"
+                                       pname="f"/>
+                                            <note xml:id="r3cd68ab1-3f39-4ab5-af4b-933be94d707c"
+                                       corresp="#kitzler-024_m-83"
+                                       oct="3"
+                                       pname="a"/>
+                                            <note xml:id="rb07e340a-4f8a-4bda-81c5-31496e854386"
+                                       corresp="#kitzler-024_m-84"
+                                       oct="4"
+                                       pname="d"/>
+                                        </chord>
+                                        <note xml:id="rd21427a0-c7a7-420d-ac69-21bffdcb5602"
+                                    corresp="#kitzler-024_m-89"
+                                    dur="2"
+                                    oct="4"
+                                    pname="f"/>
+                                    </fTrem>
+                              
+                                </layer>
+                                <layer xml:id="kitzler-024_m-85" n="2">
+                                    <fTrem xml:id="k024-fTrem-idm164"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-86" dur="2">
+                                            <note xml:id="kitzler-024_m-87" oct="2" pname="d"/>
+                                            <note xml:id="kitzler-024_m-88" oct="2" pname="a"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-90" dur="2" oct="3" pname="d"/>
+                                    </fTrem>
+                                    
+                                 <fTrem xml:id="r4e6f5610-dc42-44bc-829c-a1a288740321"
+                                  corresp="#k024-fTrem-idm164"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="r6302c3da-54a2-4640-92f0-c7eecf412ca8"
+                                     corresp="#kitzler-024_m-86"
+                                     dur="2">
+                                            <note xml:id="r4a98594e-cf54-46a4-a268-300ea2853275"
+                                       corresp="#kitzler-024_m-87"
+                                       oct="2"
+                                       pname="d"/>
+                                            <note xml:id="r7cb3c481-1114-482d-9799-0d03f9a41c8b"
+                                       corresp="#kitzler-024_m-88"
+                                       oct="2"
+                                       pname="a"/>
+                                        </chord>
+                                        <note xml:id="r7048a334-1894-452d-aeca-2383fcaed9e4"
+                                    corresp="#kitzler-024_m-90"
+                                    dur="2"
+                                    oct="3"
+                                    pname="d"/>
+                                    </fTrem>
+                              
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-14-0-0-8-0-0-0-10-0-0</harm>
+                  </measure>
+                        <measure meter.count="4" meter.unit="4" xml:id="kitzler-024_m-100" n="3">
+                            <staff xml:id="kitzler-024_m-101" n="1">
+                                <layer xml:id="kitzler-024_m-102" n="1">
+                                    <note xml:id="kitzler-024_m-103"
+                                 dur="2"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-106" n="1">
+                                            <syl xml:id="kitzler-024_m-107" con="d" wordpos="i">Brau</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-110" n="2">
+                                            <syl xml:id="kitzler-024_m-111" con="d" wordpos="i">Lie</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-104"
+                                 dur="4"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-108" n="1">
+                                            <syl xml:id="kitzler-024_m-109" wordpos="t">sen,</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-112" n="2">
+                                            <syl xml:id="kitzler-024_m-113" wordpos="t">der</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-105"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-114" n="1">
+                                            <syl xml:id="kitzler-024_m-115" wordpos="i">Mit</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-149" n="2">
+                                            <syl xml:id="kitzler-024_m-150" con="d" wordpos="i">Hin</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-116" n="2">
+                                <layer xml:id="kitzler-024_m-117" n="1">
+                                    <mSpace xml:id="kitzler-024_m-118" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-119" n="3">
+                                <layer xml:id="kitzler-024_m-120" n="1">
+                                    
+                                 <fTrem xml:id="r6f19fea9-e3ab-4eac-858d-ecdd81c93c2f"
+                                  corresp="#k024-fTrem-idm156"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="r229f1733-d46c-4a86-a7ff-6bea4026bec8"
+                                     corresp="#kitzler-024_m-81"
+                                     dur="2">
+                                            <note xml:id="r1e3d5cd3-d8fa-4e33-b150-1eadef9ab5cf"
+                                       corresp="#kitzler-024_m-82"
+                                       oct="3"
+                                       pname="f"/>
+                                            <note xml:id="rd37d7045-136e-4cec-81ff-1e7ca9f8c4e7"
+                                       corresp="#kitzler-024_m-83"
+                                       oct="3"
+                                       pname="a"/>
+                                            <note xml:id="rfe5ed330-a241-4b53-87a7-85f99d79d0ed"
+                                       corresp="#kitzler-024_m-84"
+                                       oct="4"
+                                       pname="d"/>
+                                        </chord>
+                                        <note xml:id="reffadb4b-5b41-4f6a-8079-a44ef8b83712"
+                                    corresp="#kitzler-024_m-89"
+                                    dur="2"
+                                    oct="4"
+                                    pname="f"/>
+                                    </fTrem>
+                                 <fTrem xml:id="r951ba7ac-dfd3-497f-98d6-3de54ff5d8f7"
+                                  corresp="#k024-fTrem-idm156"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="r15031aba-265f-402c-bceb-feb4222add2e"
+                                     corresp="#kitzler-024_m-81"
+                                     dur="2">
+                                            <note xml:id="rcf6275d4-e9f8-43fd-a45c-b18dda8fe090"
+                                       corresp="#kitzler-024_m-82"
+                                       oct="3"
+                                       pname="f"/>
+                                            <note xml:id="r21f08034-80db-44e9-a1cd-8e06f3734484"
+                                       corresp="#kitzler-024_m-83"
+                                       oct="3"
+                                       pname="a"/>
+                                            <note xml:id="r66326cad-693c-401d-8fc7-1155587a2f98"
+                                       corresp="#kitzler-024_m-84"
+                                       oct="4"
+                                       pname="d"/>
+                                        </chord>
+                                        <note xml:id="r4e543082-50c8-472f-8106-85a29b8ba5b8"
+                                    corresp="#kitzler-024_m-89"
+                                    dur="2"
+                                    oct="4"
+                                    pname="f"/>
+                                    </fTrem>
+                              
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-6-0-0-10-0-0-0-4-0-0</harm>
+                  </measure>
+                        <measure meter.count="4" meter.unit="4" xml:id="kitzler-024_m-140" n="4">
+                            <staff xml:id="kitzler-024_m-141" n="1">
+                                <layer xml:id="kitzler-024_m-142" n="1">
+                                    <note xml:id="kitzler-024_m-143"
+                                 dots="1"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="2.5">
+                                        <accid xml:id="kitzler-024_m-144" accid.ges="f"/>
+                                        <verse xml:id="kitzler-024_m-151" n="2">
+                                            <syl xml:id="kitzler-024_m-152" wordpos="t">aus</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-153" n="1">
+                                            <syl xml:id="kitzler-024_m-154" con="d" wordpos="i">dei</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-145"
+                                 dur="8"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-155" n="1">
+                                            <syl xml:id="kitzler-024_m-156" wordpos="t">nem</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-157" n="2">
+                                            <syl xml:id="kitzler-024_m-158" wordpos="i">mit</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-146"
+                                 dur="4"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-159" n="1">
+                                            <syl xml:id="kitzler-024_m-160" con="d" wordpos="i">Don</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-201" n="2">
+                                            <syl xml:id="kitzler-024_m-202" con="d" wordpos="i">Don</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-147"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-148" accid.ges="f"/>
+                                        <verse xml:id="kitzler-024_m-161" n="1">
+                                            <syl xml:id="kitzler-024_m-162" wordpos="t">nern,</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-203" n="2">
+                                            <syl xml:id="kitzler-024_m-204" con="d" wordpos="m">ner</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-163" n="2">
+                                <layer xml:id="kitzler-024_m-164" n="1">
+                                    <mSpace xml:id="kitzler-024_m-165" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-166" n="3">
+                                <layer xml:id="kitzler-024_m-167" n="1">
+                                    <fTrem xml:id="k024-fTrem-idm224"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-168" dur="2">
+                                            <note xml:id="kitzler-024_m-169" oct="3" pname="g"/>
+                                            <note xml:id="kitzler-024_m-170" oct="3" pname="b">
+                                                <accid xml:id="kitzler-024_m-171" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-172" oct="4" pname="d"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-179" dur="2" oct="4" pname="g"/>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm231"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="kitzler-024_m-181" dur="2">
+                                            <note xml:id="kitzler-024_m-182" oct="3" pname="g"/>
+                                            <note xml:id="kitzler-024_m-183" oct="3" pname="b">
+                                                <accid xml:id="kitzler-024_m-184" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-185" oct="4" pname="e"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-191" dur="2" oct="4" pname="g"/>
+                                    </fTrem>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-173" n="2">
+                                    <fTrem xml:id="k024-fTrem-idm239"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-174" dur="2">
+                                            <note xml:id="kitzler-024_m-175" oct="2" pname="d"/>
+                                            <note xml:id="kitzler-024_m-176" oct="2" pname="g"/>
+                                            <note xml:id="kitzler-024_m-177" oct="2" pname="b">
+                                                <accid xml:id="kitzler-024_m-178" accid.ges="f"/>
+                                            </note>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-180" dur="2" oct="3" pname="d"/>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm246"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="kitzler-024_m-186" dur="2">
+                                            <note xml:id="kitzler-024_m-187" oct="2" pname="d"/>
+                                            <note xml:id="kitzler-024_m-188" oct="2" pname="g"/>
+                                            <note xml:id="kitzler-024_m-189" oct="2" pname="b">
+                                                <accid xml:id="kitzler-024_m-190" accid.ges="f"/>
+                                            </note>
+                                            
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-192" dur="2" oct="3" pname="d"/>
+                                    </fTrem>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-10-0-3-0-0-12.5-0-0-10.5-0</harm>
+                  </measure>
+                        <measure meter.count="4" meter.unit="4" xml:id="kitzler-024_m-193" n="5">
+                            <staff xml:id="kitzler-024_m-194" n="1">
+                                <layer xml:id="kitzler-024_m-195" n="1">
+                                    <note xml:id="kitzler-024_m-196"
+                                 dur="2"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-199" n="1">
+                                            <syl xml:id="kitzler-024_m-200" wordpos="i">Bach?</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-205" n="2">
+                                            <syl xml:id="kitzler-024_m-206" con="b" wordpos="t">kraft</syl>
+                                            <syl xml:id="kitzler-024_m-207"/>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="kitzler-024_m-197" dur="4" tstamp="3" tstamp2="4"/>
+                                    <note xml:id="kitzler-024_m-198"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-208" n="1">
+                                            <syl xml:id="kitzler-024_m-209" wordpos="i">Du</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-210" n="2">
+                                            <syl xml:id="kitzler-024_m-211" wordpos="i">Der</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-212" n="2">
+                                <layer xml:id="kitzler-024_m-213" n="1">
+                                    <mSpace xml:id="kitzler-024_m-214" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-215" n="3">
+                                <layer xml:id="kitzler-024_m-216" n="1">
+                                    <fTrem xml:id="k024-fTrem-idm275"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-217" dur="2">
+                                            <note xml:id="kitzler-024_m-218" oct="3" pname="g"/>
+                                            <note xml:id="kitzler-024_m-219" oct="3" pname="a"/>
+                                            <note xml:id="kitzler-024_m-220" oct="4" pname="e"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-227" dur="2" oct="4" pname="g"/>
+                                    </fTrem>
+                                    
+                                 <fTrem xml:id="r40f0e40d-49ab-490e-bd17-b93e5fed53ee"
+                                  corresp="#k024-fTrem-idm275"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="rd8fdd744-2658-4479-8668-54be26d2e4ac"
+                                     corresp="#kitzler-024_m-217"
+                                     dur="2">
+                                            <note xml:id="r80119be0-0d37-4866-bb36-b4414230d084"
+                                       corresp="#kitzler-024_m-218"
+                                       oct="3"
+                                       pname="g"/>
+                                            <note xml:id="r831f8093-ef8e-44a3-ad64-90a0963050c6"
+                                       corresp="#kitzler-024_m-219"
+                                       oct="3"
+                                       pname="a"/>
+                                            <note xml:id="r4b39a5b3-ce3a-4913-95d4-b22d4bc2eefc"
+                                       corresp="#kitzler-024_m-220"
+                                       oct="4"
+                                       pname="e"/>
+                                        </chord>
+                                        <note xml:id="r9120c582-488d-405d-b9fd-7c68b3ba09f9"
+                                    corresp="#kitzler-024_m-227"
+                                    dur="2"
+                                    oct="4"
+                                    pname="g"/>
+                                    </fTrem>
+                              
+                                </layer>
+                                <layer xml:id="kitzler-024_m-221" n="2">
+                                    <fTrem xml:id="k024-fTrem-idm283"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-222" dur="2">
+                                            <note xml:id="kitzler-024_m-223" oct="2" pname="c">
+                                                <accid xml:id="kitzler-024_m-224" accid="s"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-225" oct="2" pname="e"/>
+                                            <note xml:id="kitzler-024_m-226" oct="2" pname="a"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-228" dur="2" oct="3" pname="c">
+                                            <accid xml:id="kitzler-024_m-229" accid="s"/>
+                                        </note>
+                                    </fTrem>
+                                    
+                                 <fTrem xml:id="rf89aa92a-71ff-4a44-9c16-e0ffcf001f94"
+                                  corresp="#k024-fTrem-idm283"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="r4de52ee4-c1dc-4e4a-b719-757c4087afb0"
+                                     corresp="#kitzler-024_m-222"
+                                     dur="2">
+                                            <note xml:id="r0228382b-a8ce-4c04-ae32-17e777f9bbb0"
+                                       corresp="#kitzler-024_m-223"
+                                       oct="2"
+                                       pname="c">
+                                                <accid xml:id="rf4e8cde8-5f2f-41aa-bd5b-2992ddbf0219"
+                                           corresp="#kitzler-024_m-224"
+                                           accid="s"/>
+                                            </note>
+                                            <note xml:id="r84ba35d9-6f24-4f17-b177-e4f373be92da"
+                                       corresp="#kitzler-024_m-225"
+                                       oct="2"
+                                       pname="e"/>
+                                            <note xml:id="r7821504a-7725-4564-94cb-d4b2f0a95b2f"
+                                       corresp="#kitzler-024_m-226"
+                                       oct="2"
+                                       pname="a"/>
+                                        </chord>
+                                        <note xml:id="ra0b74ab6-3eeb-4010-b5d0-2219a438a9c9"
+                                    corresp="#kitzler-024_m-228"
+                                    dur="2"
+                                    oct="3"
+                                    pname="c">
+                                            <accid xml:id="r6d7428a5-b3f1-4d90-a553-425daaf07b52"
+                                        corresp="#kitzler-024_m-229"
+                                        accid="s"/>
+                                        </note>
+                                    </fTrem>
+                              
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-8-0-0-9-0-0-8-0-10-0-0</harm>
+                  </measure>
+                        <measure meter.count="4" meter.unit="4" xml:id="kitzler-024_m-242" n="6">
+                            <staff xml:id="kitzler-024_m-243" n="1">
+                                <layer xml:id="kitzler-024_m-244" n="1">
+                                    <note xml:id="kitzler-024_m-245"
+                                 dots="1"
+                                 dur="4"
+                                 oct="5"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="2.5">
+                                        <verse xml:id="kitzler-024_m-249" n="1">
+                                            <syl xml:id="kitzler-024_m-250" wordpos="i">füllst</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-251" n="2">
+                                            <syl xml:id="kitzler-024_m-252" wordpos="i">Lenz</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-246"
+                                 dur="8"
+                                 oct="5"
+                                 pname="f"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-253" n="1">
+                                            <syl xml:id="kitzler-024_m-254" wordpos="i">das</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-255" n="2">
+                                            <syl xml:id="kitzler-024_m-256" wordpos="i">ist</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-247"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-257" n="1">
+                                            <syl xml:id="kitzler-024_m-258" wordpos="i">Ohr</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-261" n="2">
+                                            <syl xml:id="kitzler-024_m-262" con="d" wordpos="i">Kön</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-248"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-259" n="1">
+                                            <syl xml:id="kitzler-024_m-260" wordpos="i">mit</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-263" n="2">
+                                            <syl xml:id="kitzler-024_m-264" wordpos="t">ig</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-265" n="2">
+                                <layer xml:id="kitzler-024_m-266" n="1">
+                                    <mSpace xml:id="kitzler-024_m-267" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-268" n="3">
+                                <layer xml:id="kitzler-024_m-269" n="1">
+                                    <fTrem xml:id="k024-fTrem-idm320"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-270" dur="2">
+                                            <note xml:id="kitzler-024_m-271" oct="3" pname="f"/>
+                                            <note xml:id="kitzler-024_m-272" oct="3" pname="a"/>
+                                            <note xml:id="kitzler-024_m-273" oct="4" pname="d"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-280" dur="2" oct="4" pname="f"/>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm326"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="kitzler-024_m-282" dur="2">
+                                            <note xml:id="kitzler-024_m-283" oct="3" pname="e"/>
+                                            <note xml:id="kitzler-024_m-284" oct="3" pname="a"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-290" dur="2" oct="4" pname="e"/>
+                                    </fTrem>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-274" n="2">
+                                    <fTrem xml:id="k024-fTrem-idm332"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-275" dur="2">
+                                            <note xml:id="kitzler-024_m-276" oct="2" pname="d"/>
+                                            <note xml:id="kitzler-024_m-277" oct="2" pname="f">
+                                                <accid xml:id="kitzler-024_m-278" accid="n" func="caution"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-279" oct="2" pname="a"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-281" dur="2" oct="3" pname="d"/>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm339"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="kitzler-024_m-285" dur="2">
+                                            <note xml:id="kitzler-024_m-286" oct="2" pname="c">
+                                                <accid xml:id="kitzler-024_m-287" accid="n" func="caution"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-288" oct="2" pname="e"/>
+                                            <note xml:id="kitzler-024_m-289" oct="2" pname="a"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-291" dur="2" oct="3" pname="c">
+                                            <accid xml:id="kitzler-024_m-292" accid="n" func="caution"/>
+                                        </note>
+                                    </fTrem>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">4-0-6-0-8-8-0-0-0-8-0-0</harm>
+                  </measure>
+                        <measure meter.count="4" meter.unit="4" xml:id="kitzler-024_m-293" n="7">
+                            <staff xml:id="kitzler-024_m-294" n="1">
+                                <layer xml:id="kitzler-024_m-295" n="1">
+                                    <note xml:id="kitzler-024_m-296"
+                                 dur="2"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler-024_m-297" accid="f"/>
+                                        <verse xml:id="kitzler-024_m-300" n="1">
+                                            <syl xml:id="kitzler-024_m-301" con="d" wordpos="i">Grau</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-304" n="2">
+                                            <syl xml:id="kitzler-024_m-305" con="d" wordpos="i">wie</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-298"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-302" n="1">
+                                            <syl xml:id="kitzler-024_m-303" wordpos="t">sen!</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-306" n="2">
+                                            <syl xml:id="kitzler-024_m-307" wordpos="t">der,</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-299"
+                                 dur="4"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-308" n="1">
+                                            <syl xml:id="kitzler-024_m-309" wordpos="i">Laß</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-310" n="2">
+                                            <syl xml:id="kitzler-024_m-311" wordpos="i">Der</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-312" n="2">
+                                <layer xml:id="kitzler-024_m-313" n="1">
+                                    <mSpace xml:id="kitzler-024_m-314" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-315" n="3">
+                                <layer xml:id="kitzler-024_m-316" n="1">
+                                    <fTrem xml:id="k024-fTrem-idm371"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-317" dur="2">
+                                            <note xml:id="kitzler-024_m-318" oct="3" pname="e">
+                                                <accid xml:id="kitzler-024_m-319" accid="f"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-320" oct="3" pname="f">
+                                                <accid xml:id="kitzler-024_m-321" accid="s"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-322" oct="3" pname="a"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-330" dur="2" oct="4" pname="e">
+                                            <accid xml:id="kitzler-024_m-331" accid="f" func="caution"/>
+                                        </note>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm380"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="kitzler-024_m-333" dur="2">
+                                            <note xml:id="kitzler-024_m-334" oct="3" pname="d"/>
+                                            <note xml:id="kitzler-024_m-335" oct="3" pname="g"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-344" dur="2" oct="4" pname="d"/>
+                                    </fTrem>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-323" n="2">
+                                    <fTrem xml:id="k024-fTrem-idm386"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-324" dur="2">
+                                            <note xml:id="kitzler-024_m-325" oct="2" pname="c"/>
+                                            <note xml:id="kitzler-024_m-326" oct="2" pname="e">
+                                                <accid xml:id="kitzler-024_m-327" accid="f"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-328" oct="2" pname="f">
+                                                <accid xml:id="kitzler-024_m-329" accid="s"/>
+                                            </note>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-332" dur="2" oct="3" pname="c"/>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm394"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="4"
+                                  tstamp2="4">
+                                        <chord xml:id="kitzler-024_m-336" dur="4">
+                                            <note xml:id="kitzler-024_m-337" oct="1" pname="b">
+                                                <accid xml:id="kitzler-024_m-338" accid="n"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-339" oct="2" pname="d"/>
+                                            <note xml:id="kitzler-024_m-340" oct="2" pname="g"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-342" dur="4" oct="2" pname="b">
+                                            <accid xml:id="kitzler-024_m-343" accid="n"/>
+                                        </note>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm402"
+                                  beams="2"
+                                  tstamp="4"
+                                  dur="4"
+                                  tstamp2="5">
+                                        <chord xml:id="kitzler-024_m-345" dur="4">
+                                            <note xml:id="kitzler-024_m-346" oct="1" pname="b">
+                                                <accid xml:id="kitzler-024_m-347" accid="f"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-348" oct="2" pname="d"/>
+                                            <note xml:id="kitzler-024_m-349" oct="2" pname="g"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-350" dur="4" oct="2" pname="b">
+                                            <accid xml:id="kitzler-024_m-351" accid="f"/>
+                                        </note>
+                                    </fTrem>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">4-0-8-8-0-0-4-4-0-2-2-2</harm>
+                  </measure>
+                        <sb xml:id="kitzler-024_m-353"/>
+                        <measure meter.count="4" meter.unit="4" xml:id="kitzler-024_m-352" n="8">
+                            <staff xml:id="kitzler-024_m-354" n="1">
+                                <layer xml:id="kitzler-024_m-355" n="1">
+                                    <note xml:id="kitzler-024_m-356"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <verse xml:id="kitzler-024_m-361" n="1">
+                                            <syl xml:id="kitzler-024_m-362" wordpos="i">ab</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-363" n="2">
+                                            <syl xml:id="kitzler-024_m-364" wordpos="i">Lieb</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="kitzler-024_m-357" dur="8" tstamp="2" tstamp2="2.5"/>
+                                    <note xml:id="kitzler-024_m-358"
+                                 dur="8"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-365" n="1">
+                                            <syl xml:id="kitzler-024_m-366" wordpos="i">Der</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-367" n="2">
+                                            <syl xml:id="kitzler-024_m-368" wordpos="i">und</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-359"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-369" n="1">
+                                            <syl xml:id="kitzler-024_m-370" wordpos="i">Lenz</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-373" n="2">
+                                            <syl xml:id="kitzler-024_m-374" con="d" wordpos="i">Leb</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-360"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-371" n="1">
+                                            <syl xml:id="kitzler-024_m-372" wordpos="i">ist</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-375" n="2">
+                                            <syl xml:id="kitzler-024_m-376" wordpos="t">en</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-377" n="2">
+                                <layer xml:id="kitzler-024_m-378" n="1">
+                                    <mSpace xml:id="kitzler-024_m-379" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-380" n="3">
+                                <layer xml:id="kitzler-024_m-381" n="1">
+                                    <fTrem xml:id="k024-fTrem-idm440"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-382" dur="2">
+                                            <note xml:id="kitzler-024_m-383" oct="3" pname="f"/>
+                                            <note xml:id="kitzler-024_m-384" oct="3" pname="a"/>
+                                            <note xml:id="kitzler-024_m-385" oct="4" pname="d"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-391" dur="2" oct="4" pname="g"/>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm446"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="kitzler-024_m-393" dur="2">
+                                            <note xml:id="kitzler-024_m-394" oct="3" pname="e"/>
+                                            <note xml:id="kitzler-024_m-395" oct="3" pname="a"/>
+                                            <note xml:id="kitzler-024_m-396" oct="4" pname="c">
+                                                <accid xml:id="kitzler-024_m-397" accid="s"/>
+                                            </note>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-403" dur="2" oct="4" pname="e"/>
+                                    </fTrem>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-386" n="2">
+                                    <fTrem xml:id="k024-fTrem-idm454"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-387" dur="2">
+                                            <note xml:id="kitzler-024_m-388" oct="1" pname="a"/>
+                                            <note xml:id="kitzler-024_m-389" oct="2" pname="d"/>
+                                            <note xml:id="kitzler-024_m-390" oct="2" pname="f"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-392" dur="2" oct="2" pname="a"/>
+                                    </fTrem>
+                                    
+                                            <fTrem xml:id="k024-fTrem-idm460_ok"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                                <chord xml:id="kitzler-024_m-398_ok" dur="2">
+                                                    <note xml:id="kitzler-024_m-399_ok" oct="1" pname="g"/>
+                                                    <note xml:id="kitzler-024_m-400_ok" oct="2" pname="c">
+                                                        <accid xml:id="kitzler-024_m-401_ok" accid="s"/>
+                                                    </note>
+                                                    <note xml:id="kitzler-024_m-402_ok" oct="2" pname="e"/>
+                                                </chord>
+                                                <note xml:id="kitzler-024_m-404_ok" dur="2" oct="2" pname="a"/>
+                                            </fTrem>
+                                        
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-4-4-0-6-4-0-4-0-13.5-0-0</harm>
+                  </measure>
+                        <measure meter.count="4" meter.unit="4" xml:id="kitzler-024_m-405" n="9">
+                            <annot n="6"
+                            xml:id="k024-annot-idm474"
+                            type="description"
+                            staff="1"
+                            place="above"
+                            tstamp="1"
+                            plist="#kitzler-024_m-405">
+                                <p xml:id="k024-p-idm475">
+                                    eigentlichFine</p>
+                            </annot>
+                            <annot n="7"
+                            xml:id="k024-annot-idm479"
+                            type="NB"
+                            staff="1"
+                            place="above"
+                            tstamp="3.5"
+                            plist="#kitzler-024_m-405">
+                                <p xml:id="k024-p-idm480">NB</p>
+                            </annot>
+                            <staff xml:id="kitzler-024_m-406" n="1">
+                                <layer xml:id="kitzler-024_m-407" n="1">
+                                    <note xml:id="kitzler-024_m-408"
+                                 dur="2"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-411" n="1">
+                                            <syl xml:id="kitzler-024_m-412" wordpos="i">wach!</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-413" n="2">
+                                            <syl xml:id="kitzler-024_m-414" wordpos="i">schafft</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="kitzler-024_m-409" dur="4" tstamp="3" tstamp2="4"/>
+                                    <note xml:id="kitzler-024_m-410"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-415" n="1">
+                                            <syl xml:id="kitzler-024_m-416" wordpos="i">Laß</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-417" n="2">
+                                            <syl xml:id="kitzler-024_m-418" wordpos="i">Der</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-419" n="2">
+                                <layer xml:id="kitzler-024_m-420" n="1">
+                                    <mSpace xml:id="kitzler-024_m-421" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-422" n="3">
+                                <layer xml:id="kitzler-024_m-423" n="1">
+                                    <fTrem xml:id="k024-fTrem-idm499"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-424" dur="2">
+                                            <note xml:id="kitzler-024_m-425" oct="3" pname="d"/>
+                                            <note xml:id="kitzler-024_m-426" oct="3" pname="a"/>
+                                            <note xml:id="kitzler-024_m-427" oct="4" pname="c">
+                                                <accid xml:id="kitzler-024_m-428" accid="n" func="caution"/>
+                                            </note>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-435" dur="2" oct="4" pname="d"/>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm506"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="4"
+                                  tstamp2="4">
+                                        <chord xml:id="kitzler-024_m-438" dur="4">
+                                            <note xml:id="kitzler-024_m-439" oct="3" pname="d"/>
+                                            <note xml:id="kitzler-024_m-440" oct="3" pname="g"/>
+                                            <note xml:id="kitzler-024_m-441" oct="3" pname="b">
+                                                <accid xml:id="kitzler-024_m-442" accid="n"/>
+                                            </note>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-450" dur="4" oct="4" pname="d"/>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm513"
+                                  beams="2"
+                                  tstamp="4"
+                                  dur="4"
+                                  tstamp2="5">
+                                        <chord xml:id="kitzler-024_m-452" dur="4">
+                                            <note xml:id="kitzler-024_m-453" oct="3" pname="d"/>
+                                            <note xml:id="kitzler-024_m-454" oct="3" pname="g"/>
+                                            <note xml:id="kitzler-024_m-455" oct="3" pname="b">
+                                                <accid xml:id="kitzler-024_m-456" accid="f"/>
+                                            </note>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-462" dur="4" oct="4" pname="d"/>
+                                    </fTrem>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-429" n="2">
+                                    <fTrem xml:id="k024-fTrem-idm521"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-430" dur="2">
+                                            <note xml:id="kitzler-024_m-431" oct="1" pname="f">
+                                                <accid xml:id="kitzler-024_m-432" accid="s"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-433" oct="1" pname="a"/>
+                                            <note xml:id="kitzler-024_m-434" oct="2" pname="d"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-436" dur="2" oct="2" pname="f">
+                                            <accid xml:id="kitzler-024_m-437" accid="s"/>
+                                        </note>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm529"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="4"
+                                  tstamp2="4">
+                                        <chord xml:id="kitzler-024_m-444" dur="4">
+                                            <note xml:id="kitzler-024_m-445" oct="1" pname="g"/>
+                                            <note xml:id="kitzler-024_m-446" oct="1" pname="b">
+                                                <accid xml:id="kitzler-024_m-447" accid="n"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-448" oct="2" pname="d"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-451" dur="4" oct="2" pname="g"/>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm536"
+                                  beams="2"
+                                  tstamp="4"
+                                  dur="4"
+                                  tstamp2="5">
+                                        <chord xml:id="kitzler-024_m-457" dur="4">
+                                            <note xml:id="kitzler-024_m-458" oct="1" pname="g"/>
+                                            <note xml:id="kitzler-024_m-459" oct="1" pname="b">
+                                                <accid xml:id="kitzler-024_m-460" accid="f"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-461" oct="2" pname="d"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-463" dur="4" oct="2" pname="g"/>
+                                    </fTrem>
+                                </layer>
+                            </staff>
+                            <tempo xml:id="kitzler-024_m-464" tstamp="4" staff="1" place="above">ritard.</tempo>
+                        <harm type="histogram">2-0-13-0-0-0-4-6-0-6-2-2</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-466"
+                           n="10">
+                            <staff xml:id="kitzler-024_m-467" n="1">
+                                <layer xml:id="kitzler-024_m-468" n="1">
+                                    <note xml:id="kitzler-024_m-469"
+                                 dots="1"
+                                 dur="4"
+                                 oct="5"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="2.5">
+                                        <verse xml:id="kitzler-024_m-473" n="1">
+                                            <syl xml:id="kitzler-024_m-474" wordpos="i">ab,</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-475" n="2">
+                                            <syl xml:id="kitzler-024_m-476" wordpos="i">Lieb</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-470"
+                                 dur="8"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-477" n="1">
+                                            <syl xml:id="kitzler-024_m-478" wordpos="i">der</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-479" n="2">
+                                            <syl xml:id="kitzler-024_m-480" wordpos="i">und</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-471"
+                                 dur="4"
+                                 oct="5"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-481" n="1">
+                                            <syl xml:id="kitzler-024_m-482" wordpos="i">Lenz</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-485" n="2">
+                                            <syl xml:id="kitzler-024_m-486" con="d" wordpos="i">Leb</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-472"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-483" n="1">
+                                            <syl xml:id="kitzler-024_m-484" wordpos="i">ist</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-487" n="2">
+                                            <syl xml:id="kitzler-024_m-488" wordpos="t">en</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-489" n="2">
+                                <layer xml:id="kitzler-024_m-490" n="1">
+                                    <mSpace xml:id="kitzler-024_m-491" tstamp="1"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-492" n="3">
+                                <layer xml:id="kitzler-024_m-493" n="1">
+                                    <fTrem xml:id="k024-fTrem-idm573"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-494" dur="2">
+                                            
+                                            <note xml:id="kitzler-024_m-495" oct="3" pname="f"/>
+                                            <note xml:id="kitzler-024_m-496" oct="3" pname="a"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-502" dur="2" oct="4" pname="d"/>
+                                    </fTrem>
+                                    
+                                            <fTrem xml:id="k024-fTrem-idm591"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="4"
+                                  tstamp2="4">
+                                                <chord xml:id="kitzler-024_m-504" dur="4">
+                                                    <note xml:id="kitzler-024_m-505" oct="3" pname="e"/>
+                                                    <note xml:id="kitzler-024_m-506" oct="3" pname="a"/>
+                                                </chord>
+                                                <note xml:id="kitzler-024_m-511" dur="4" oct="4" pname="d"/>
+                                            </fTrem>
+                                            <fTrem xml:id="k024-fTrem-idm596"
+                                  beams="2"
+                                  tstamp="4"
+                                  dur="4"
+                                  tstamp2="5">
+                                                <chord xml:id="kitzler-024_m-512" dur="4">
+                                                    <note xml:id="kitzler-024_m-513" oct="3" pname="e"/>
+                                                    <note xml:id="kitzler-024_m-514" oct="3" pname="a"/>
+                                                </chord>
+                                                <note xml:id="kitzler-024_m-516" dur="4" oct="4" pname="c">
+                                                    <accid xml:id="kitzler-024_m-517" accid="s"/>
+                                                </note>
+                                            </fTrem>
+                                        
+                                </layer>
+                                <layer xml:id="kitzler-024_m-497" n="2">
+                                    <fTrem xml:id="k024-fTrem-idm603"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-498" dur="2">
+                                            <note xml:id="kitzler-024_m-499" oct="1" pname="a"/>
+                                            <note xml:id="kitzler-024_m-500" oct="2" pname="d"/>
+                                            <note xml:id="kitzler-024_m-501" oct="2" pname="f"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-503" dur="2" oct="2" pname="a"/>
+                                    </fTrem>
+                                    <fTrem xml:id="k024-fTrem-idm609"
+                                  beams="2"
+                                  tstamp="3"
+                                  dur="2"
+                                  tstamp2="5">
+                                        <chord xml:id="kitzler-024_m-508" dur="2">
+                                            <note xml:id="kitzler-024_m-509" oct="1" pname="a"/>
+                                            <note xml:id="kitzler-024_m-510" oct="2" pname="e"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-515" dur="2" oct="2" pname="a"/>
+                                    </fTrem>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-1-5.5-0-4-5.5-0-0-0-14-0-0</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-518"
+                           n="11">
+                            <staff xml:id="kitzler-024_m-519" n="1">
+                                <layer xml:id="kitzler-024_m-520" n="1">
+                                    <note xml:id="kitzler-024_m-521"
+                                 dur="2"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-525" n="1">
+                                            <syl xml:id="kitzler-024_m-526" wordpos="i">wach</syl>
+                                        </verse>
+                                        <verse xml:id="kitzler-024_m-527" n="2">
+                                            <syl xml:id="kitzler-024_m-528" wordpos="i">schafft!</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="kitzler-024_m-522" dur="4" tstamp="3" tstamp2="4"/>
+                                    
+                                 <note xml:id="kitzler-024_m-524"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-529" n="1">
+                                            <syl xml:id="kitzler-024_m-530" wordpos="i">Nicht</syl>
+                                        </verse>
+                                    </note>
+                              
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-531" n="2">
+                                <layer xml:id="kitzler-024_m-532" n="1">
+                                    <space xml:id="kitzler-024_m-533" dur="2" tstamp="1" tstamp2="3"/>
+                                    <space xml:id="kitzler-024_m-534" dur="4" tstamp="3" tstamp2="4"/>
+                                    
+                                            <chord xml:id="kitzler-024_m-535" dur="4" tstamp="4" tstamp2="5">
+                                                <note xml:id="kitzler-024_m-536" oct="4" pname="f">
+                                                    <accid xml:id="k024-accid-idm640" accid="s"/>
+                                                </note>
+                                                <note xml:id="kitzler-024_m-538" oct="4" pname="a"/>
+                                                <note xml:id="kitzler-024_m-539" oct="5" pname="d"> </note>
+                                            </chord>
+                                        
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-541" n="3">
+                                <layer xml:id="kitzler-024_m-542" n="1">
+                                    <fTrem xml:id="k024-fTrem-idm645"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <chord xml:id="kitzler-024_m-543" dur="2">
+                                            <note xml:id="kitzler-024_m-544" oct="3" pname="d"/>
+                                            <note xml:id="kitzler-024_m-545" oct="3" pname="f">
+                                                <accid xml:id="kitzler-024_m-546" accid="s"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-547" oct="3" pname="a"/>
+                                        </chord>
+                                        <note xml:id="kitzler-024_m-550" dur="2" oct="4" pname="d"/>
+                                    </fTrem>
+                                    <chord xml:id="kitzler-024_m-552" dur="4" tstamp="3" tstamp2="4">
+                                        <note xml:id="kitzler-024_m-553" oct="3" pname="d"/>
+                                        <note xml:id="kitzler-024_m-554" oct="3" pname="f">
+                                            <accid xml:id="kitzler-024_m-555" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-556" oct="3" pname="a"/>
+                                        <note xml:id="kitzler-024_m-557" oct="4" pname="d"/>
+                                    </chord>
+                                    <space xml:id="kitzler-024_m-562" dur="4" tstamp="4" tstamp2="5"/>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-548" n="2">
+                                    <fTrem xml:id="k024-fTrem-idm660"
+                                  beams="2"
+                                  tstamp="1"
+                                  dur="2"
+                                  tstamp2="3">
+                                        <note xml:id="kitzler-024_m-549" dur="2" oct="2" pname="d"/>
+                                        <note xml:id="kitzler-024_m-551" dur="2" oct="2" pname="a"/>
+                                    </fTrem>
+                                    <chord xml:id="kitzler-024_m-559" dur="4" tstamp="3" tstamp2="4">
+                                        <note xml:id="kitzler-024_m-560" oct="2" pname="d"/>
+                                        <note xml:id="kitzler-024_m-561" oct="2" pname="a"/>
+                                    </chord>
+                                    <space xml:id="kitzler-024_m-563" dur="4" tstamp="4" tstamp2="5"/>
+                                </layer>
+                            </staff>
+                            <fermata xml:id="kitzler-024_m-523"
+                              form="norm"
+                              layer="1"
+                              shape="curved"
+                              staff="1"
+                              startid="#kitzler-024_m-522"/>
+                            <fermata xml:id="kitzler-024_m-558"
+                              form="norm"
+                              layer="1"
+                              shape="curved"
+                              staff="3"
+                              startid="#kitzler-024_m-552"/>
+                            <dir xml:id="k024-dir-idm669"
+                          type="description"
+                          staff="1"
+                          place="above"
+                          tstamp="4">Adur</dir>
+                        <harm type="histogram">0-0-13-0-0-0-4-0-0-7-0-0</harm>
+                  </measure>
+                        <scoreDef xml:id="kitzler-024_m-603" key.sig="3s"/>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-564"
+                           n="12">
+                            <staff xml:id="kitzler-024_m-565" n="1">
+                                <layer xml:id="kitzler-024_m-566" n="1">
+                                    <note xml:id="kitzler-024_m-567"
+                                 dots="1"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="1"
+                                 tstamp2="2.5">
+                                        <accid xml:id="kitzler-024_m-568" accid="s" func="caution"/>
+                                        <verse xml:id="kitzler-024_m-578" n="1">
+                                            <syl xml:id="kitzler-024_m-579" con="d" wordpos="i">weck</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-569"
+                                 dur="8"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler-024_m-570" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-580" n="1">
+                                            <syl xml:id="kitzler-024_m-581" wordpos="t">en</syl>
+                                        </verse>
+                                    </note>
+                                    <beam xml:id="kitzler-024_m-572">
+                                        <note xml:id="kitzler-024_m-571"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <verse xml:id="kitzler-024_m-582" n="1">
+                                                <syl xml:id="kitzler-024_m-583" wordpos="i">hab</syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-573"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                    </beam>
+                                    <beam xml:id="kitzler-024_m-576">
+                                        <note xml:id="kitzler-024_m-574"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="4"
+                                    tstamp2="4.5">
+                                            <accid xml:id="kitzler-024_m-575" accid.ges="s"/>
+                                            <verse xml:id="kitzler-024_m-584" n="1">
+                                                <syl xml:id="kitzler-024_m-585" wordpos="i">ich</syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-577"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="4.5"
+                                    tstamp2="5"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-586" n="2">
+                                <layer xml:id="kitzler-024_m-587" n="1">
+                                    <chord xml:id="kitzler-024_m-588" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler-024_m-589" oct="4" pname="e"/>
+                                        <note xml:id="kitzler-024_m-590" oct="4" pname="a"/>
+                                        <note xml:id="kitzler-024_m-591" oct="5" pname="c">
+                                            <accid xml:id="kitzler-024_m-592" accid="s" func="caution"/>
+                                        </note>
+                                        
+                                    </chord>
+                                    
+                                            <chord xml:id="kitzler-024_m-593" dur="2" tstamp="3" tstamp2="5">
+                                                <note xml:id="kitzler-024_m-594" oct="4" pname="d"/>
+                                                <note xml:id="kitzler-024_m-595" oct="4" pname="g">
+                                                    <accid xml:id="kitzler-024_m-596" accid="s" func="caution"/>
+                                                </note>
+                                                <note xml:id="kitzler-024_m-597" oct="4" pname="b"/>
+                                                
+                                            </chord>
+                                        
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-598" n="3">
+                                <layer xml:id="kitzler-024_m-599" n="1">
+                                    <mSpace xml:id="kitzler-024_m-600" tstamp="1"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-4.5-2.5-0-2-0-0-0-2-2-0-3</harm>
+                  </measure>
+                        <sb xml:id="kitzler-024_m-605"/>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-604"
+                           n="13">
+                            <staff xml:id="kitzler-024_m-606" n="1">
+                                <layer xml:id="kitzler-024_m-607" n="1">
+                                    
+                                            <note xml:id="kitzler-024_m-608"
+                                 dur="2"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                                <verse xml:id="kitzler-024_m-612" n="1">
+                                                    <syl xml:id="kitzler-024_m-613" con="d" wordpos="i">wol</syl>
+                                                </verse>
+                                            </note>
+                                        
+                                    <note xml:id="kitzler-024_m-609"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler-024_m-610" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-614" n="1">
+                                            <syl xml:id="kitzler-024_m-615" wordpos="t">len</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-611"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-616" n="1">
+                                            <syl xml:id="kitzler-024_m-617" wordpos="i">Den</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-618" n="2">
+                                <layer xml:id="kitzler-024_m-619" n="1">
+                                    
+                                        <chord xml:id="kitzler-024_m-620x" dur="2" tstamp="1" tstamp2="3">
+                                            <note xml:id="kitzler-024_m-621x" oct="4" pname="a"/>
+                                            <note xml:id="kitzler-024_m-622x" oct="5" pname="e"/>
+                                        </chord>
+                                    
+                                    <chord xml:id="kitzler-024_m-626" dur="4" tstamp="3" tstamp2="4">
+                                        <note xml:id="kitzler-024_m-627" oct="5" pname="c">
+                                            <accid xml:id="kitzler-024_m-628" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-629" oct="5" pname="e"/>
+                                    </chord>
+                                    <chord xml:id="kitzler-024_m-631" dur="4" tstamp="4" tstamp2="5">
+                                        <note xml:id="kitzler-024_m-632" oct="4" pname="b"/>
+                                        <note xml:id="kitzler-024_m-633" oct="5" pname="e"/>
+                                    </chord>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-623" n="2">
+                                    <note xml:id="kitzler-024_m-624"
+                                 dur="2"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler-024_m-625" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-630"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler-024_m-634"
+                                 dur="4"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-635" accid.ges="s"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-636" n="3">
+                                <layer xml:id="kitzler-024_m-637" n="1">
+                                    <mSpace xml:id="kitzler-024_m-638" tstamp="1"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-4-0-0-6-0-0-0-1-3-0-2</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-639"
+                           n="14">
+                            <staff xml:id="kitzler-024_m-640" n="1">
+                                <layer xml:id="kitzler-024_m-641" n="1">
+                                    <note xml:id="kitzler-024_m-642"
+                                 dots="1"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="2.5">
+                                        <verse xml:id="kitzler-024_m-653" n="1">
+                                            <syl xml:id="kitzler-024_m-654" wordpos="i">Lenz</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-643"
+                                 dur="8"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-655" n="1">
+                                            <syl xml:id="kitzler-024_m-656" wordpos="i">der</syl>
+                                        </verse>
+                                    </note>
+                                    <beam xml:id="kitzler-024_m-646">
+                                        <note xml:id="kitzler-024_m-644"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler-024_m-645" accid.ges="s"/>
+                                            <verse xml:id="kitzler-024_m-657" n="1">
+                                                <syl xml:id="kitzler-024_m-658" con="u" wordpos="i">lan</syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-647"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                    </beam>
+                                    <beam xml:id="kitzler-024_m-650">
+                                        <note xml:id="kitzler-024_m-648"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="4"
+                                    tstamp2="4.5">
+                                            <accid xml:id="kitzler-024_m-649" accid.ges="s"/>
+                                            <verse xml:id="kitzler-024_m-659" n="1">
+                                                <syl xml:id="kitzler-024_m-660" con="u" wordpos="t">ge</syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-651"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="4.5"
+                                    tstamp2="5">
+                                            <accid xml:id="kitzler-024_m-652" accid="s"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-661" n="2">
+                                <layer xml:id="kitzler-024_m-667" n="1">
+                                    <note xml:id="kitzler-024_m-668"
+                                 dur="2"
+                                 oct="5"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler-024_m-675"
+                                 dur="2"
+                                 oct="5"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="5"/>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-662" n="2">
+                                    <note xml:id="kitzler-024_m-663"
+                                 dots="1"
+                                 dur="4"
+                                 oct="4"
+                                 stem.dir="up"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="2.5"/>
+                                    <note xml:id="kitzler-024_m-669"
+                                 dur="8"
+                                 oct="4"
+                                 pname="b"
+                                 stem.dir="up"
+                                 tstamp="2.5"
+                                 tstamp2="3"/>
+                                    <beam xml:id="kitzler-024_m-672">
+                                        <note xml:id="kitzler-024_m-670"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    stem.dir="up"
+                                    tstamp="3"
+                                    tstamp2="3.5">
+                                            <accid xml:id="kitzler-024_m-671" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-676"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    stem.dir="up"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                    </beam>
+                                    <beam xml:id="kitzler-024_m-679">
+                                        <note xml:id="kitzler-024_m-677"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    stem.dir="up"
+                                    tstamp="4"
+                                    tstamp2="4.5">
+                                            <accid xml:id="kitzler-024_m-678" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-680"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    stem.dir="up"
+                                    tstamp="4.5"
+                                    tstamp2="5">
+                                            <accid xml:id="kitzler-024_m-681" accid="s"/>
+                                        </note>
+                                    </beam>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-664" n="3">
+                                    <note xml:id="kitzler-024_m-665"
+                                 dur="2"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler-024_m-666" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-673"
+                                 dur="2"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="3"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-674" accid.ges="s"/>
+                                    </note>
+                                </layer>
+                                
+                            </staff>
+                            <staff xml:id="kitzler-024_m-682" n="3">
+                                <layer xml:id="kitzler-024_m-683" n="1">
+                                    <mSpace xml:id="kitzler-024_m-684" tstamp="1"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-2-0-1-0-0-4-0-0-7-0-2</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-685"
+                           n="15">
+                            <staff xml:id="kitzler-024_m-686" n="1">
+                                <layer xml:id="kitzler-024_m-687" n="1">
+                                    <note xml:id="kitzler-024_m-688"
+                                 dur="2"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-691" n="1">
+                                            <syl xml:id="kitzler-024_m-692" wordpos="i">spricht</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="kitzler-024_m-689" dur="4" tstamp="3" tstamp2="4"/>
+                                    <note xml:id="kitzler-024_m-690"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-693" n="1">
+                                            <syl xml:id="kitzler-024_m-694" wordpos="i">Die</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-695" n="2">
+                                <layer xml:id="kitzler-024_m-696" n="1">
+                                    <chord xml:id="kitzler-024_m-697" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler-024_m-698" oct="5" pname="e"/>
+                                        <note xml:id="kitzler-024_m-699" oct="5" pname="g">
+                                            <accid xml:id="kitzler-024_m-700" accid.ges="s"/>
+                                        </note>
+                                    </chord>
+                                    <note xml:id="kitzler-024_m-703"
+                                 dur="2"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="5"/>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-701" n="2">
+                                    <note xml:id="kitzler-024_m-702"
+                                 dur="2"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <chord xml:id="kitzler-024_m-704" dur="2" tstamp="3" tstamp2="5">
+                                        <note xml:id="kitzler-024_m-705" oct="4" pname="e"/>
+                                        <note xml:id="kitzler-024_m-706" oct="4" pname="g">
+                                            <accid xml:id="kitzler-024_m-707" accid.ges="s"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-708" n="3">
+                                <layer xml:id="kitzler-024_m-709" n="1">
+                                    <mSpace xml:id="kitzler-024_m-710" tstamp="1"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0-0-0-11-0-0-0-4-0-0-0</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-711"
+                           n="16">
+                            <staff xml:id="kitzler-024_m-712" n="1">
+                                <layer xml:id="kitzler-024_m-713" n="1">
+                                    <note xml:id="kitzler-024_m-714"
+                                 dur="4"
+                                 oct="5"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler-024_m-715" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-722" n="1">
+                                            <syl xml:id="kitzler-024_m-723" con="d" wordpos="i">Vö</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-716"
+                                 dur="8"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="2.5">
+                                        <verse xml:id="kitzler-024_m-724" n="1">
+                                            <syl xml:id="kitzler-024_m-725" wordpos="t">gel</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-717"
+                                 dur="8"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler-024_m-718" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-726" n="1">
+                                            <syl xml:id="kitzler-024_m-727" wordpos="i">und</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-719"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-728" n="1">
+                                            <syl xml:id="kitzler-024_m-729" con="d" wordpos="i">Blu</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-720"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-721" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-730" n="1">
+                                            <syl xml:id="kitzler-024_m-731" wordpos="t">men</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-732" n="2">
+                                <layer xml:id="kitzler-024_m-733" n="1">
+                                    <note xml:id="kitzler-024_m-734"
+                                 dur="4"
+                                 oct="5"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler-024_m-735" accid.ges="s"/>
+                                    </note>
+                                    <beam xml:id="kitzler-024_m-739">
+                                        <note xml:id="kitzler-024_m-738"
+                                    dur="8"
+                                    oct="5"
+                                    pname="d"
+                                    tstamp="2"
+                                    tstamp2="2.5"/>
+                                        <note xml:id="kitzler-024_m-740"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler-024_m-741" accid.ges="s"/>
+                                        </note>
+                                    </beam>
+                                    <note xml:id="kitzler-024_m-742"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler-024_m-743"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-744" accid.ges="s"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-736" n="2">
+                                    <note xml:id="kitzler-024_m-737"
+                                 dur="1"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="5"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-745" n="3">
+                                <layer xml:id="kitzler-024_m-746" n="1">
+                                    <note xml:id="kitzler-024_m-747"
+                                 dur="4"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler-024_m-748" accid="n" func="caution"/>
+                                    </note>
+                                    <beam xml:id="kitzler-024_m-750">
+                                        <note xml:id="kitzler-024_m-749"
+                                    dur="8"
+                                    oct="3"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5"/>
+                                        <note xml:id="kitzler-024_m-751"
+                                    dur="8"
+                                    oct="3"
+                                    pname="a"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                    </beam>
+                                    <note xml:id="kitzler-024_m-752"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler-024_m-753" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-754"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-3-2-0-4-0-2-0-1-1.5-0-2.5</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-755"
+                           n="17"
+                           right="single">
+                            <staff xml:id="kitzler-024_m-756" n="1">
+                                <layer xml:id="kitzler-024_m-757" n="1">
+                                    <note xml:id="kitzler-024_m-758"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <verse xml:id="kitzler-024_m-764" n="1">
+                                            <syl xml:id="kitzler-024_m-765" con="d" wordpos="i">soll</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-759"
+                                 dur="8"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="2"
+                                 tstamp2="2.5">
+                                        <verse xml:id="kitzler-024_m-766" n="1">
+                                            <syl xml:id="kitzler-024_m-767" wordpos="t">en</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-760"
+                                 dur="8"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-768" n="1">
+                                            <syl xml:id="kitzler-024_m-769" wordpos="i">nicht</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-761"
+                                 dur="4"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler-024_m-762" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-770" n="1">
+                                            <syl xml:id="kitzler-024_m-771" con="d" wordpos="i">sag</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-763"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-772" n="1">
+                                            <syl xml:id="kitzler-024_m-773" wordpos="t">en:</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-774" n="2">
+                                <layer xml:id="kitzler-024_m-775" n="1">
+                                    <note xml:id="kitzler-024_m-776"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <beam xml:id="kitzler-024_m-780">
+                                        <note xml:id="kitzler-024_m-779"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5"/>
+                                        <note xml:id="kitzler-024_m-781"
+                                    dur="8"
+                                    oct="4"
+                                    pname="a"
+                                    tstamp="2.5"
+                                    tstamp2="3"/>
+                                    </beam>
+                                    <note xml:id="kitzler-024_m-782"
+                                 dur="4"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler-024_m-783" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-786"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-777" n="2">
+                                    <note xml:id="kitzler-024_m-778"
+                                 dur="2"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler-024_m-784"
+                                 dur="4"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler-024_m-785" accid="n" func="caution"/>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-787"
+                                 dur="4"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-788" accid.ges="s"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-789" n="3">
+                                <layer xml:id="kitzler-024_m-790" n="1">
+                                    <note xml:id="kitzler-024_m-791"
+                                 dur="4"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <beam xml:id="kitzler-024_m-794">
+                                        <note xml:id="kitzler-024_m-792"
+                                    dur="8"
+                                    oct="3"
+                                    pname="g"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler-024_m-793" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-795"
+                                    dur="8"
+                                    oct="3"
+                                    pname="f"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler-024_m-796" accid.ges="s"/>
+                                        </note>
+                                    </beam>
+                                    <note xml:id="kitzler-024_m-797"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler-024_m-798" accid="s"/>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-799"
+                                 dur="4"
+                                 oct="3"
+                                 pname="f"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-800" accid.ges="s"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-1-3-0-2-1-1.5-0-2.5-3-0-2</harm>
+                  </measure>
+                        <sb xml:id="kitzler-024_m-802"/>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-801"
+                           n="18">
+                            <staff xml:id="kitzler-024_m-803" n="1">
+                                <layer xml:id="kitzler-024_m-804" n="1">
+                                    <rest xml:id="kitzler-024_m-805" dur="4" tstamp="1" tstamp2="2"/>
+                                    <beam xml:id="kitzler-024_m-807">
+                                        <note xml:id="kitzler-024_m-806"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <verse xml:id="kitzler-024_m-813" n="1">
+                                                <syl xml:id="kitzler-024_m-814" wordpos="i">ich</syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-808"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler-024_m-809" accid.ges="s"/>
+                                        </note>
+                                    </beam>
+                                    <note xml:id="kitzler-024_m-810"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-815" n="1">
+                                            <syl xml:id="kitzler-024_m-816" wordpos="i">hört</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-811"
+                                 dur="4"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-812" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-817" n="1">
+                                            <syl xml:id="kitzler-024_m-818" wordpos="i">ihn</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-819" n="2">
+                                <layer xml:id="kitzler-024_m-820" n="1">
+                                    
+                                            <chord xml:id="kitzler-024_m-821" dur="2" tstamp="1" tstamp2="3">
+                                                <note xml:id="kitzler-024_m-822" oct="4" pname="d"/>
+                                                <note xml:id="kitzler-024_m-823" oct="4" pname="f">
+                                                    <accid xml:id="kitzler-024_m-824" accid.ges="s"/>
+                                                </note>
+                                                <note xml:id="kitzler-024_m-825" oct="4" pname="b"/>
+                                            </chord>
+                                        
+                                    <chord xml:id="kitzler-024_m-826" dur="4" tstamp="3" tstamp2="4">
+                                        <note xml:id="kitzler-024_m-827" oct="4" pname="c">
+                                            <accid xml:id="kitzler-024_m-828" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-829" oct="4" pname="e"/>
+                                        <note xml:id="kitzler-024_m-830" oct="4" pname="a"/>
+                                    </chord>
+                                    <chord xml:id="kitzler-024_m-831" dur="4" tstamp="4" tstamp2="5">
+                                        <note xml:id="kitzler-024_m-832" oct="3" pname="b"/>
+                                        <note xml:id="kitzler-024_m-833" oct="4" pname="e"/>
+                                        <note xml:id="kitzler-024_m-834" oct="4" pname="g">
+                                            <accid xml:id="kitzler-024_m-835" accid.ges="s"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-836" n="3">
+                                <layer xml:id="kitzler-024_m-837" n="1">
+                                    <note xml:id="kitzler-024_m-838"
+                                 dur="2"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler-024_m-839"
+                                 dur="2"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="5"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-1.5-4-0-4-0-2-0-2-2-0-3.5</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-840"
+                           n="19"
+                           right="dbl">
+                            <annot n="8"
+                            xml:id="k024-annot-idm980"
+                            type="description"
+                            staff="1"
+                            place="above"
+                            plist="#kitzler-024_m-840">
+                                <p xml:id="k024-p-idm981">
+                                    eigentlich Fine 2. Periode) Anfang</p>
+                            </annot>
+                            <staff xml:id="kitzler-024_m-841" n="1">
+                                <layer xml:id="kitzler-024_m-842" n="1">
+                                    <note xml:id="kitzler-024_m-843"
+                                 dur="2"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-847" n="1">
+                                            <syl xml:id="kitzler-024_m-848" wordpos="i">nicht</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="kitzler-024_m-844" dur="4" tstamp="3" tstamp2="4"/>
+                                    <note xml:id="kitzler-024_m-845"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-846" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-849" n="1">
+                                            <syl xml:id="kitzler-024_m-850" wordpos="i">Die</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-851" n="2">
+                                <layer xml:id="kitzler-024_m-852" n="1">
+                                    <chord xml:id="kitzler-024_m-853" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler-024_m-854" oct="4" pname="c">
+                                            <accid xml:id="kitzler-024_m-855" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-856" oct="4" pname="e"/>
+                                        <note xml:id="kitzler-024_m-857" oct="4" pname="a"/>
+                                    </chord>
+                                    
+                                    <chord xml:id="kitzler-024_m-858" dur="2" tstamp="3" tstamp2="5">
+                                        <note xml:id="kitzler-024_m-859" oct="4" pname="e"/>
+                                        <note xml:id="kitzler-024_m-860" oct="4" pname="a"/>
+                                        <note xml:id="kitzler-024_m-861" oct="5" pname="c">
+                                            <accid xml:id="kitzler-024_m-862" accid="s" func="caution"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-863" n="3">
+                                <layer xml:id="kitzler-024_m-864" n="1">
+                                    <note xml:id="kitzler-024_m-865"
+                                 dur="1"
+                                 oct="2"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="5"/>
+                                </layer>
+                            </staff>
+                            <tie xml:id="m8674ac29-8873-4aef-86d5-94beb80634e7"
+                          startid="#kitzler-024_m-865"
+                          staff="3"
+                          endid="#kitzler-024_m-915"/>
+                        <harm type="histogram">0-5-0-0-4-0-0-0-0-10-0-0</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-866"
+                           n="20">
+                            <annot n="9"
+                            xml:id="k024-annot-idm1014"
+                            type="description"
+                            staff="3"
+                            place="below"
+                            plist="#kitzler-024_m-866">
+                                <p xml:id="k024-p-idm1015">Ein 2<rend xml:id="k024-rend-idm1016" rend="sup">tes</rend> Glied angehängt</p>
+                            </annot>
+                            <staff xml:id="kitzler-024_m-867" n="1">
+                                <layer xml:id="kitzler-024_m-868" n="1">
+                                    <note xml:id="kitzler-024_m-869"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <verse xml:id="kitzler-024_m-875" n="1">
+                                            <syl xml:id="kitzler-024_m-876" con="d" wordpos="i">Vö</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-870"
+                                 dur="8"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="2"
+                                 tstamp2="2.5">
+                                        <verse xml:id="kitzler-024_m-877" n="1">
+                                            <syl xml:id="kitzler-024_m-878" wordpos="t">gel</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-871"
+                                 dur="8"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <verse xml:id="kitzler-024_m-879" n="1">
+                                            <syl xml:id="kitzler-024_m-880" wordpos="i">und</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-872"
+                                 dur="4"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler-024_m-873" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-881" n="1">
+                                            <syl xml:id="kitzler-024_m-882" con="d" wordpos="i">Blu</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-874"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <verse xml:id="kitzler-024_m-883" n="1">
+                                            <syl xml:id="kitzler-024_m-884" wordpos="t">men</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-885" n="2">
+                                <layer xml:id="kitzler-024_m-886" n="1">
+                                    <chord xml:id="kitzler-024_m-887" dur="4" tstamp="1" tstamp2="2">
+                                        <note xml:id="kitzler-024_m-888" oct="4" pname="f">
+                                            <accid xml:id="kitzler-024_m-889" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-890" oct="4" pname="a"/>
+                                        <note xml:id="kitzler-024_m-891" oct="5" pname="d"/>
+                                    </chord>
+                                    <beam xml:id="kitzler-024_m-897">
+                                        <chord xml:id="kitzler-024_m-892" dur="8" tstamp="2" tstamp2="2.5">
+                                            <note xml:id="kitzler-024_m-893" oct="4" pname="d"/>
+                                            <note xml:id="kitzler-024_m-894" oct="4" pname="f">
+                                                <accid xml:id="kitzler-024_m-895" accid.ges="s"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-896" oct="4" pname="b"/>
+                                        </chord>
+                                        <chord xml:id="kitzler-024_m-898" dur="8" tstamp="2.5" tstamp2="3">
+                                            <note xml:id="kitzler-024_m-899" oct="4" pname="c">
+                                                <accid xml:id="kitzler-024_m-900" accid.ges="s"/>
+                                            </note>
+                                            <note xml:id="kitzler-024_m-901" oct="4" pname="e"/>
+                                            <note xml:id="kitzler-024_m-902" oct="4" pname="a"/>
+                                        </chord>
+                                    </beam>
+                                    <note xml:id="kitzler-024_m-903"
+                                 dur="4"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler-024_m-904" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-909"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-905" n="2">
+                                    <space dur="2"
+                                  xml:id="m59294967-5558-48a2-950a-c95c739448f6"
+                                  tstamp="1"
+                                  tstamp2="3"/>
+                                    <note xml:id="kitzler-024_m-906"
+                                 dur="4"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler-024_m-910"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-907" n="3">
+                                    <space dur="2"
+                                  xml:id="mee895b94-2b6d-4e3f-ad1b-bf3afb93d9b3"
+                                  tstamp="1"
+                                  tstamp2="3"/>
+                                    <note xml:id="kitzler-024_m-908"
+                                 dur="2"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="5"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-911" n="3">
+                                <layer xml:id="kitzler-024_m-912" n="1">
+                                    <space xml:id="kitzler-024_m-913" dur="2" tstamp="1" tstamp2="3"/>
+                                    <note xml:id="kitzler-024_m-916"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler-024_m-917"
+                                 dur="4"
+                                 oct="3"
+                                 pname="f"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-918" accid.ges="s"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-914" n="2">
+                                    <note xml:id="kitzler-024_m-915"
+                                 dur="1"
+                                 oct="2"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="5"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-0.5-4.5-0-1.5-0-2.5-0-2-9-0-2</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-919"
+                           n="21">
+                            <staff xml:id="kitzler-024_m-920" n="1">
+                                <layer xml:id="kitzler-024_m-921" n="1">
+                                    <note xml:id="kitzler-024_m-922"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <verse xml:id="kitzler-024_m-930" n="1">
+                                            <syl xml:id="kitzler-024_m-931" con="d" wordpos="i">soll</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-923"
+                                 dur="8"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="2"
+                                 tstamp2="2.5">
+                                        <accid xml:id="kitzler-024_m-924" accid="n"/>
+                                        <verse xml:id="kitzler-024_m-932" n="1">
+                                            <syl xml:id="kitzler-024_m-933" wordpos="t">en</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kd59574d9-d59e-4bfe-ab9d-37bca5f145e7"
+                                 dur="8"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="2.5"
+                                 tstamp2="3">
+                                        <verse xml:id="m1201d7a3-7813-4fc9-8057-d3fac9248aae" n="1">
+                                            <syl xml:id="m22a93ae9-46b6-461d-b8e9-1c895d5ffc95">nicht</syl>
+                                        </verse>
+                                    </note>
+                                    
+                                            <note xml:id="kitzler-024_m-925"
+                                 dur="8"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="3.5">
+                                                <verse xml:id="kitzler-024_m-934" n="1">
+                                                    <syl xml:id="kitzler-024_m-935" con="d" wordpos="i">sa</syl>
+                                                </verse>
+                                            </note>
+                                        
+                                    <note xml:id="kitzler-024_m-928"
+                                 dur="4"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="3.5"
+                                 tstamp2="4.5">
+                                        <accid xml:id="kitzler-024_m-929" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-938" n="1">
+                                            <syl xml:id="kitzler-024_m-939" wordpos="t">gen</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-940" n="2">
+                                <layer xml:id="kitzler-024_m-941" n="1">
+                                    <note xml:id="kitzler-024_m-942"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <beam xml:id="kitzler-024_m-948">
+                                        <note xml:id="kitzler-024_m-946"
+                                    dur="8"
+                                    oct="4"
+                                    pname="g"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <accid xml:id="kitzler-024_m-947" accid="n"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-949"
+                                    dur="8"
+                                    oct="4"
+                                    pname="f"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler-024_m-950" accid.ges="s"/>
+                                        </note>
+                                    </beam>
+                                    <note xml:id="kitzler-024_m-951"
+                                 dur="4"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler-024_m-954"
+                                 dur="4"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-955" accid.ges="s"/>
+                                    </note>
+                                </layer>
+                                <layer xml:id="kitzler-024_m-943" n="2">
+                                    <note xml:id="kitzler-024_m-944"
+                                 dur="2"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler-024_m-945" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-952"
+                                 dur="2"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-953" accid.ges="s"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-956" n="3">
+                                <layer xml:id="kitzler-024_m-957" n="1">
+                                    <note xml:id="kitzler-024_m-958"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler-024_m-959" accid="n"/>
+                                    </note>
+                                    <beam xml:id="kitzler-024_m-963">
+                                        <note xml:id="kitzler-024_m-962"
+                                    dur="8"
+                                    oct="3"
+                                    pname="e"
+                                    tstamp="2"
+                                    tstamp2="2.5"/>
+                                        
+                                                <note xml:id="kitzler-024_m-964"
+                                    dur="8"
+                                    oct="3"
+                                    pname="f"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                                    <accid xml:id="kitzler-024_m-965" accid.ges="s"/>
+                                                </note>
+                                            
+                                    </beam>
+                                    
+                                            <note xml:id="kitzler-024_m-966"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                            <note xml:id="kitzler-024_m-967"
+                                 dur="4"
+                                 oct="3"
+                                 pname="f"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                                <accid xml:id="kitzler-024_m-968" accid.ges="s"/>
+                                            </note>
+                                        
+                                </layer>
+                                <layer xml:id="kitzler-024_m-960" n="2">
+                                    <note xml:id="kitzler-024_m-961"
+                                 dots="1"
+                                 dur="2"
+                                 oct="2"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler-024_m-969"
+                                 dur="4"
+                                 oct="2"
+                                 pname="a"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-970" accid="s"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-4-0-0-2-0.5-4-3-0-3-1-2</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-971"
+                           n="22">
+                            <staff xml:id="kitzler-024_m-972" n="1">
+                                <layer xml:id="kitzler-024_m-973" n="1">
+                                    <rest xml:id="kitzler-024_m-974" dur="4" tstamp="1" tstamp2="2"/>
+                                    <beam xml:id="kitzler-024_m-976">
+                                        <note xml:id="kitzler-024_m-975"
+                                    dur="8"
+                                    oct="4"
+                                    pname="b"
+                                    tstamp="2"
+                                    tstamp2="2.5">
+                                            <verse xml:id="kitzler-024_m-982" n="1">
+                                                <syl xml:id="kitzler-024_m-983" wordpos="i">ich</syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-977"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="2.5"
+                                    tstamp2="3">
+                                            <accid xml:id="kitzler-024_m-978" accid.ges="s"/>
+                                        </note>
+                                    </beam>
+                                    <note xml:id="kitzler-024_m-979"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-984" n="1">
+                                            <syl xml:id="kitzler-024_m-985" wordpos="i">hört</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="kitzler-024_m-980"
+                                 dur="4"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler-024_m-981" accid.ges="s"/>
+                                        <verse xml:id="kitzler-024_m-986" n="1">
+                                            <syl xml:id="kitzler-024_m-987" wordpos="i">ihn</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-988" n="2">
+                                <layer xml:id="kitzler-024_m-989" n="1">
+                                    <chord xml:id="kitzler-024_m-990" dur="4" tstamp="1" tstamp2="2">
+                                        <note xml:id="kitzler-024_m-991" oct="4" pname="d"/>
+                                        <note xml:id="kitzler-024_m-992" oct="4" pname="f">
+                                            <accid xml:id="kitzler-024_m-993" accid.ges="s"/>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler-024_m-994" dur="4" tstamp="2" tstamp2="3">
+                                        <note xml:id="kitzler-024_m-995" oct="4" pname="d"/>
+                                        <note xml:id="kitzler-024_m-996" oct="4" pname="f">
+                                            <accid xml:id="kitzler-024_m-997" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-998" oct="4" pname="b"/>
+                                    </chord>
+                                    <chord xml:id="kitzler-024_m-999" dur="4" tstamp="3" tstamp2="4">
+                                        <note xml:id="kitzler-024_m-1000" oct="4" pname="c">
+                                            <accid xml:id="kitzler-024_m-1001" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-1002" oct="4" pname="e"/>
+                                        <note xml:id="kitzler-024_m-1003" oct="4" pname="a"/>
+                                    </chord>
+                                    <chord xml:id="kitzler-024_m-1004" dur="4" tstamp="4" tstamp2="5">
+                                        <note xml:id="kitzler-024_m-1005" oct="3" pname="b"/>
+                                        <note xml:id="kitzler-024_m-1006" oct="4" pname="e"/>
+                                        <note xml:id="kitzler-024_m-1007" oct="4" pname="g">
+                                            <accid xml:id="kitzler-024_m-1008" accid.ges="s"/>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-1009" n="3">
+                                <layer xml:id="kitzler-024_m-1010" n="1">
+                                    
+                                            <note xml:id="kitzler-024_m-1011"
+                                 dur="2"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                        
+                                    <note xml:id="kitzler-024_m-1012"
+                                 dur="2"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="5"/>
+                                </layer>
+                            </staff>
+                        <harm type="histogram">0-1.5-2-0-4-0-2-0-2-2-0-4.5</harm>
+                  </measure>
+                        <measure meter.count="4"
+                           meter.unit="4"
+                           xml:id="kitzler-024_m-1013"
+                           n="23">
+                            <staff xml:id="kitzler-024_m-1014" n="1">
+                                <layer xml:id="kitzler-024_m-1015" n="1">
+                                    <note xml:id="kitzler-024_m-1016"
+                                 dots="1"
+                                 dur="2"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="4">
+                                        <verse xml:id="kitzler-024_m-1019" n="1">
+                                            <syl xml:id="kitzler-024_m-1020" wordpos="i">nicht</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="kitzler-024_m-1017" dur="4" tstamp="4" tstamp2="5"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-1021" n="2">
+                                <layer xml:id="kitzler-024_m-1022" n="1">
+                                    <chord xml:id="kitzler-024_m-1023"
+                                  dots="1"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="4">
+                                        <note xml:id="kitzler-024_m-1024" oct="4" pname="c">
+                                            <accid xml:id="kitzler-024_m-1025" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler-024_m-1026" oct="4" pname="e"/>
+                                        <note xml:id="kitzler-024_m-1027" oct="4" pname="a"/>
+                                    </chord>
+                                    <rest xml:id="kitzler-024_m-1028" dur="4" tstamp="4" tstamp2="5"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler-024_m-1030" n="3">
+                                <layer xml:id="kitzler-024_m-1031" n="1">
+                                    <note xml:id="kitzler-024_m-1032"
+                                 dots="1"
+                                 dur="2"
+                                 oct="2"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="4"/>
+                                    <rest xml:id="kitzler-024_m-1033" dur="4" tstamp="4" tstamp2="5"/>
+                                </layer>
+                            </staff>
+                            <fermata xml:id="kitzler-024_m-1018"
+                              form="norm"
+                              layer="1"
+                              shape="curved"
+                              staff="1"
+                              startid="#kitzler-024_m-1017"/>
+                            <fermata xml:id="kitzler-024_m-1029"
+                              form="norm"
+                              layer="1"
+                              shape="curved"
+                              staff="2"
+                              startid="#kitzler-024_m-1028"/>
+                            <fermata xml:id="kitzler-024_m-1034"
+                              form="norm"
+                              layer="1"
+                              shape="curved"
+                              staff="3"
+                              startid="#kitzler-024_m-1033"/>
+                        <harm type="histogram">0-3-0-0-3-0-0-0-0-9-0-0</harm>
+                  </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

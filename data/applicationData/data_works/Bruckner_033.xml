@@ -1,0 +1,2902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xml:id="kitzler_033_m-1"
+     meiversion="4.0.0">
+    <meiHead xml:id="kitzler_033_m-2" meiversion="4.0.0">
+        <fileDesc xml:id="kitzler_033_m-3">
+            <titleStmt xml:id="kitzler_033_m-4">
+                <title xml:id="kitzler_033_m-10"/>
+                <respStmt xml:id="kitzler_033_m-11">
+                    <persName xml:id="kitzler_033_m-12"/>
+                </respStmt>
+            </titleStmt>
+            <pubStmt xml:id="kitzler_033_m-13">
+                <availability xml:id="kitzler_033_m-14">
+                    <useRestrict xml:id="kitzler_033_m-15"/>
+                </availability>
+            </pubStmt>
+        </fileDesc>
+        <encodingDesc xml:id="kitzler_033_m-16">
+            <appInfo xml:id="kitzler_033_m-17">
+                <application xml:id="kitzler_033_sibelius"
+                         isodate="2017-6-8T15:18:50Z"
+                         version="8510">
+                    <name xml:id="kitzler_033_m-19" type="operating-system">Windows 8</name>
+                </application>
+                <application xml:id="kitzler_033_sibmei" type="plugin" version="2.1.1-beta">
+                    <name xml:id="kitzler_033_m-21">Sibelius to MEI Exporter (2.1.1-beta)</name>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <workList xml:id="kitzler_033_m-5">
+            <work xml:id="kitzler_033_m-6">
+                <title xml:id="kitzler_033_m-8">Thema Jos. Haydn</title>
+                <title type="desc" xml:id="m564000e0-10a5-4c8e-8f6b-3d1e4d9463f2">Beginn des Kyrie aus der Nicolaimesse von Joseph Haydn</title>
+            </work>
+        </workList>
+        <revisionDesc xml:id="k033-revisionDesc-idm22">
+            <change xml:id="k033-change-idm23" n="1">
+                <respStmt xml:id="k033-respStmt-idm24">
+                    <persName xml:id="k033-persName-idm25">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k033-changeDesc-idm26">
+                    <p xml:id="k033-p-idm27">Datei mittels XSLT Von Midi- und Layoutinformationen gereinigt</p>
+                </changeDesc>
+                <date xml:id="k033-date-idm28" isodate="2017-08-18">18.8.2017</date>
+            </change>
+            <change xml:id="k033-change-idm29" n="2">
+                <respStmt xml:id="k033-respStmt-idm30">
+                    <persName xml:id="k033-persName-idm31">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k033-changeDesc-idm32">
+                    <p xml:id="k033-p-idm33">Ergänzen von Löschungen, Streichungen, Ergänzungen</p>
+                </changeDesc>
+                <date xml:id="k033-date-idm34" isodate="2017-08-18">18.8.2017</date>
+            </change>
+            <change xml:id="k033-change-idm35" n="3">
+                <respStmt xml:id="k033-respStmt-idm36">
+                    <persName xml:id="k033-persName-idm37">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k033-changeDesc-idm38">
+                    <p xml:id="k033-p-idm39">Generalbass korrigiert</p>
+                </changeDesc>
+                <date xml:id="k033-date-idm40" isodate="2017-08-18">18.8.2017</date>
+            </change>
+            <change xml:id="k033-change-idm41" n="4">
+                <respStmt xml:id="k033-respStmt-idm42">
+                    <persName xml:id="k033-persName-idm43" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k033-changeDesc-idm44">
+                    <p xml:id="k033-p-idm45">Annots mit @plist versehen.</p>
+                </changeDesc>
+                <date xml:id="k033-date-idm46" isodate="2018-06-11"/>
+            </change>
+            <change xml:id="k033-change-idm47" n="5">
+                <respStmt xml:id="k033-respStmt-idm48">
+                    <persName xml:id="k033-persName-idm49" resp="#PG">Paul Gulewycz</persName>
+                </respStmt>
+                <changeDesc xml:id="k033-changeDesc-idm50">
+                    <p xml:id="k033-p-idm51">cpMark eingefügt.</p>
+                </changeDesc>
+                <date xml:id="k033-date-idm52" isodate="2018-06-25"/>
+            </change>
+            <change xml:id="k033-change-idm53" n="6">
+                <respStmt xml:id="k033-respStmt-idm54">
+                    <persName xml:id="k033-persName-idm55" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k033-changeDesc-idm56">
+                    <p xml:id="k033-p-idm57">cleaned-up files with XSLT: scoreDef adjustment, generete bTrem for stem.mod, harm: @place=above, chord: remove the @dur of the notes to the chord-element</p>
+                </changeDesc>
+                <date xml:id="k033-date-idm58" isodate="2018-07-04+02:00"/>
+            </change>
+            <change xml:id="k033-change-idm59" n="7">
+                <respStmt xml:id="k033-respStmt-idm60">
+                    <persName xml:id="k033-persName-idm61" resp="#AS">Agnes Seipelt</persName>
+                </respStmt>
+                <changeDesc xml:id="k033-changeDesc-idm62">
+                    <p xml:id="k033-p-idm63">Changed all @accid und @accid.ges into elements</p>
+                </changeDesc>
+                <date xml:id="k033-date-idm64" isodate="2018-09-03+02:00"/>
+            </change>
+        <change n="8">
+            <respStmt>
+               <persName resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc>
+               <p>add @n to annot </p>
+            </changeDesc>
+            <date isodate="2019-02-18"/>
+         </change>
+         <change n="9">
+            <respStmt>
+               <persName resp="#AS">Agnes Seipelt</persName>
+            </respStmt>
+            <changeDesc>
+               <p>Transformed @label of staffDef or StaffGrp into elements</p>
+            </changeDesc>
+            <date isodate="2019-03-27+01:00"/>
+         </change>
+      </revisionDesc>
+    </meiHead>
+    <!--ToDO: Sonderzeichen im GB mit @altsym-->
+    <music xml:id="kitzler_033_m-22" meiversion="4.0.0">
+        <body xml:id="kitzler_033_m-23">
+            <mdiv xml:id="kitzler_033_m-24">
+                <score xml:id="kitzler_033_m-25">
+                    <scoreDef xml:id="kitzler_033_m-26"
+                         meter.count="6"
+                         meter.unit="4"
+                         key.sig="1s"
+                         key.mode="major">
+                        <staffGrp xml:id="kitzler_033_m-27" symbol="brace" bar.thru="true">
+                            <staffDef multi.number="false"
+                               xml:id="kitzler_033_m-28"
+                               clef.line="2"
+                               clef.shape="G"
+                               lines="5"
+                               n="1">
+                        <label xml:id="x94853a7e-7883-4933-9e0d-e2e7a321ba05"/> 
+                     </staffDef>
+                            <staffDef multi.number="false"
+                               xml:id="kitzler_033_m-31"
+                               clef.line="4"
+                               clef.shape="F"
+                               lines="5"
+                               n="2">
+                        <label xml:id="x3df270d9-8675-46ff-a2c0-ef4e1d2270ce">Klavier</label> 
+                     </staffDef>
+                        </staffGrp>
+                    </scoreDef>
+                    <section xml:id="kitzler_033_m-34">
+                        <sb xml:id="kitzler_033_m-36"/>
+                        <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="kitzler_033_m-35"
+                           label="1"
+                           n="1">
+                            <annot n="1"
+                            xml:id="k033-annot-idm76"
+                            type="description"
+                            staff="1"
+                            place="above"
+                            plist="#kitzler_033_m-35">
+                                <p xml:id="k033-p-idm77">Thema Joseph Haydn</p>
+                            </annot>
+                            <staff xml:id="kitzler_033_m-37" n="1">
+                                <layer xml:id="kitzler_033_m-38" n="1">
+                                    <chord xml:id="kitzler_033_m-39" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_033_m-40" oct="4" pname="b"/>
+                                        <note xml:id="kitzler_033_m-41" oct="5" pname="d">
+                                            <verse xml:id="kitzler_033_m-41m">
+                                                <syl xml:id="k033-syl-idm87" con="d" wordpos="i">Ky</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-42" dur="4" tstamp="3" tstamp2="4">
+                                        <note xml:id="kitzler_033_m-43" oct="4" pname="a"/>
+                                        <note xml:id="kitzler_033_m-44" oct="5" pname="c">
+                                            <verse xml:id="kitzler_033_m-44l">
+                                                <syl xml:id="k033-syl-idm92" con="d" wordpos="m">ri</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-45" dur="4" tstamp="4" tstamp2="5">
+                                        <note xml:id="kitzler_033_m-46" oct="4" pname="g"/>
+                                        <note xml:id="kitzler_033_m-47" oct="4" pname="b">
+                                            <verse xml:id="kitzler_033_m-47b">
+                                                <syl xml:id="k033-syl-idm97" con="u">e</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-48" dur="4" tstamp="5" tstamp2="6">
+                                        <note xml:id="kitzler_033_m-49" oct="5" pname="e"/>
+                                        <note xml:id="kitzler_033_m-50" oct="5" pname="g"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-51" dur="4" tstamp="6" tstamp2="7">
+                                        <note xml:id="kitzler_033_m-52" oct="5" pname="d"/>
+                                        <note xml:id="kitzler_033_m-53" oct="5" pname="f">
+                                            <accid xml:id="kitzler_033_m-54" accid.ges="s"/>
+                                            <verse xml:id="kitzler_033_m-53f">
+                                                <syl xml:id="k033-syl-idm106" con="d" wordpos="i">e</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-55" n="2">
+                                <layer xml:id="kitzler_033_m-56" n="1">
+                                    <note xml:id="kitzler_033_m-57"
+                                 dots="1"
+                                 dur="1"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="1"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <dir xml:id="k033-dir-idm110" tstamp="1" staff="1" place="above">6-8-6</dir>
+                        <harm type="histogram">1-0-3-0-1-0-1-8-0-1-0-3</harm>
+                  </measure>
+                        <measure meter.count="6" meter.unit="4" xml:id="kitzler_033_m-58" n="2">
+                            <staff xml:id="kitzler_033_m-59" n="1">
+                                <layer xml:id="kitzler_033_m-60" n="1">
+                                    <chord xml:id="kitzler_033_m-61" dur="4" tstamp="1" tstamp2="2">
+                                        <note xml:id="kitzler_033_m-62" oct="5" pname="c"/>
+                                        <note xml:id="kitzler_033_m-63" oct="5" pname="e">
+                                            <verse xml:id="kitzler_033_m-63f">
+                                                <syl xml:id="k033-syl-idm118" con="d" wordpos="m">lei</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-64" dur="4" tstamp="2" tstamp2="3">
+                                        <note xml:id="kitzler_033_m-65" oct="4" pname="b"/>
+                                        <note xml:id="kitzler_033_m-66" oct="5" pname="d"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-67" dur="4" tstamp="3" tstamp2="4">
+                                        <note xml:id="kitzler_033_m-68" oct="4" pname="a"/>
+                                        <note xml:id="kitzler_033_m-69" oct="5" pname="c"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-70" dur="4" tstamp="4" tstamp2="5">
+                                        <note xml:id="kitzler_033_m-71" oct="4" pname="g"/>
+                                        <note xml:id="kitzler_033_m-72" oct="4" pname="b">
+                                            <verse xml:id="kitzler_033_m-72d">
+                                                <syl xml:id="k033-syl-idm129" wordpos="t">son</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                    <rest xml:id="kitzler_033_m-73" dur="4" tstamp="5" tstamp2="6"/>
+                                    <rest xml:id="kitzler_033_m-74" dur="4" tstamp="6" tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-75" n="2">
+                                <layer xml:id="kitzler_033_m-76" n="1">
+                                    <note xml:id="kitzler_033_m-77"
+                                 dots="1"
+                                 dur="2"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="1"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-78"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-82"
+                                 dur="4"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-83"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-79"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#kitzler_033_m-82">
+                                <fb xml:id="kitzler_033_m-80">
+                                    <f xml:id="kitzler_033_m-81" n="1">6</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">2-0-1-0-1-0-0-6-0-1-0-3</harm>
+                  </measure>
+                        <measure meter.count="6" meter.unit="4" xml:id="kitzler_033_m-84" n="3">
+                            <staff xml:id="kitzler_033_m-85" n="1">
+                                <layer xml:id="kitzler_033_m-86" n="1">
+                                    <note xml:id="kitzler_033_m-87"
+                                 dur="2"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-88"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-89"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-90"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-91"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-92" n="2">
+                                <layer xml:id="kitzler_033_m-93" n="1">
+                                    <note xml:id="kitzler_033_m-98"
+                                 dur="4"
+                                 oct="3"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler_033_m-99" accid="s" func="caution"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-100"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-101"
+                                 dur="4"
+                                 oct="3"
+                                 pname="f"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_033_m-102" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-107"
+                                 dur="2"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-111"
+                                 dur="4"
+                                 oct="3"
+                                 pname="f"
+                                 tstamp="6"
+                                 tstamp2="7">
+                                        <accid xml:id="kitzler_033_m-112" accid="n"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-94"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#kitzler_033_m-98">
+                                <fb xml:id="kitzler_033_m-95">
+                                    <f xml:id="kitzler_033_m-96" n="1">6</f>
+                                    <f xml:id="kitzler_033_m-97" n="2">5</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-103"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#kitzler_033_m-107">
+                                <fb xml:id="kitzler_033_m-104">
+                                    <f xml:id="kitzler_033_m-105" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-106" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-108"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#kitzler_033_m-111">
+                                <fb xml:id="kitzler_033_m-109">
+                                    <f xml:id="kitzler_033_m-110" n="1">2</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">1-0-1-0-0-1-2-2-0-3-0-2</harm>
+                  </measure>
+                        <measure meter.count="6" meter.unit="4" xml:id="kitzler_033_m-113" n="4">
+                            <staff xml:id="kitzler_033_m-114" n="1">
+                                <!--Löschung-->
+                                <layer xml:id="kitzler_033_m-115" n="1">
+                                    
+                                            <note xml:id="kitzler_033_m-116"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                            <note xml:id="kitzler_033_m-117"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                        
+                                    <note xml:id="kitzler_033_m-118"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-119"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-120"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="5"
+                                 tstamp2="6">
+                                        <accid xml:id="kitzler_033_m-121" accid="s"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-122"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-123" n="2">
+                                <layer xml:id="kitzler_033_m-124" n="1">
+                                    <note xml:id="kitzler_033_m-128"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_033_m-133"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-138"
+                                 dur="4"
+                                 oct="3"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-143"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-148"
+                                 dur="4"
+                                 oct="2"
+                                 pname="a"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-152"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-125"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#kitzler_033_m-128">
+                                <fb xml:id="kitzler_033_m-126">
+                                    <f xml:id="kitzler_033_m-127" n="1">6</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-129"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="2"
+                           startid="#kitzler_033_m-133">
+                                <fb xml:id="kitzler_033_m-130">
+                                    <f xml:id="kitzler_033_m-131" n="1">6</f>
+                                    <f xml:id="kitzler_033_m-132" n="2">4</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-134"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#kitzler_033_m-138">
+                                <fb xml:id="kitzler_033_m-135">
+                                    <f xml:id="kitzler_033_m-136" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-137" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-139"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#kitzler_033_m-143">
+                                <fb xml:id="kitzler_033_m-140">
+                                    <f xml:id="kitzler_033_m-141" n="1">6</f>
+                                    <f xml:id="kitzler_033_m-142" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-144"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#kitzler_033_m-148">
+                                <fb xml:id="kitzler_033_m-145">
+                                    
+                                            <f xml:id="k033-f-idm213">- </f>
+                                        
+                                    <f xml:id="kitzler_033_m-147" n="2">3♯</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-149"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#kitzler_033_m-152">
+                                <fb xml:id="kitzler_033_m-150">
+                                    <f xml:id="kitzler_033_m-151" n="1">6</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">2-1-4-0-2-0-0-0-0-1-0-2</harm>
+                  </measure>
+                        <sb xml:id="kitzler_033_m-154"/>
+                        <measure meter.count="6" meter.unit="4" xml:id="kitzler_033_m-153" n="5">
+                            <staff xml:id="kitzler_033_m-155" n="1">
+                                <layer xml:id="kitzler_033_m-156" n="1">
+                                    <note xml:id="kitzler_033_m-157"
+                                 dur="2"
+                                 oct="5"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler_033_m-158" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-159"
+                                 dur="4"
+                                 oct="5"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-160"
+                                 dur="4"
+                                 oct="5"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-161"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-162"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-163" n="2">
+                                <layer xml:id="kitzler_033_m-164" n="1">
+                                    <note xml:id="kitzler_033_m-165"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_033_m-166"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-170"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_033_m-171" accid="s"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-176"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-180"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-185"
+                                 dur="4"
+                                 oct="3"
+                                 pname="c"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-167"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#kitzler_033_m-170">
+                                <fb xml:id="kitzler_033_m-168">
+                                    <f xml:id="kitzler_033_m-169" n="1">7</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-172"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#kitzler_033_m-176">
+                                <fb xml:id="kitzler_033_m-173">
+                                    <f xml:id="kitzler_033_m-174" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-175" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-177"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#kitzler_033_m-180">
+                                <fb xml:id="kitzler_033_m-178">
+                                    <f xml:id="kitzler_033_m-179" n="1">6</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-181"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#kitzler_033_m-185">
+                                <fb xml:id="kitzler_033_m-182">
+                                    <f xml:id="kitzler_033_m-183" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-184" n="2">3</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">1-0-3-1-2-0-2-1-0-1-0-1</harm>
+                  </measure>
+                        <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="kitzler_033_m-186"
+                           n="6"
+                           right="dbl">
+                            <staff xml:id="kitzler_033_m-187" n="1">
+                                <!--Löschung-->
+                                <layer xml:id="kitzler_033_m-188" n="1">
+                                    
+                                            <note xml:id="kitzler_033_m-189"
+                                 dur="2"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                            <beam xml:id="kitzler_033_m-191">
+                                                <note xml:id="kitzler_033_m-190"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                                <note xml:id="kitzler_033_m-192"
+                                    dur="8"
+                                    oct="4"
+                                    pname="a"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                            </beam>
+                                            <note xml:id="kitzler_033_m-193"
+                                 dur="2"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="6"/>
+                                        
+                                    <rest xml:id="kitzler_033_m-194" dur="4" tstamp="6" tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-195" n="2">
+                                <layer xml:id="kitzler_033_m-196" n="1">
+                                    <note xml:id="kitzler_033_m-201"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_033_m-208"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-213"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-214"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-215"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-216"
+                                 dur="4"
+                                 oct="2"
+                                 pname="g"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-197"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#kitzler_033_m-201">
+                                <fb xml:id="kitzler_033_m-198">
+                                    <f xml:id="kitzler_033_m-199" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-200" n="2">4</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="m-204"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="2"
+                           startid="#kitzler_033_m-208"
+                           vo="7.5mm">
+                                <fb xml:id="m-205">
+                                    <f xml:id="m-206" n="1">-</f>
+                                    <f xml:id="m-207" n="2">-</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-209"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#kitzler_033_m-213">
+                                <fb xml:id="kitzler_033_m-210">
+                                    <f xml:id="kitzler_033_m-211" n="1">-</f>
+                                    <f xml:id="kitzler_033_m-212" n="2">♯</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">0.5-0-3-0-1-0-0-4-0-2.5-0-0</harm>
+                  </measure>
+                        <measure meter.count="6" meter.unit="4" xml:id="kitzler_033_m-217" n="7">
+                            <staff xml:id="kitzler_033_m-218" n="1">
+                                <layer xml:id="kitzler_033_m-219" n="1">
+                                    <chord xml:id="kitzler_033_m-220" dur="2" tstamp="1" tstamp2="3">
+                                        <note xml:id="kitzler_033_m-221" oct="4" pname="g"/>
+                                        <note xml:id="kitzler_033_m-222" oct="4" pname="b"/>
+                                    </chord>
+                                    <note xml:id="kitzler_033_m-223"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-224"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-225"
+                                 dur="4"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-226"
+                                 dur="4"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="6"
+                                 tstamp2="7">
+                                        <accid xml:id="kitzler_033_m-227" accid="s" func="caution"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-228" n="2">
+                                <layer xml:id="kitzler_033_m-229" n="1">
+                                    <rest xml:id="kitzler_033_m-230" dur="4" tstamp="1" tstamp2="2"/>
+                                    <note xml:id="kitzler_033_m-235"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-239"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_033_m-240" accid="s"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-241"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-245"
+                                 dur="4"
+                                 oct="2"
+                                 pname="g"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-249"
+                                 dur="4"
+                                 oct="2"
+                                 pname="a"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-231"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="2"
+                           startid="#kitzler_033_m-235">
+                                <fb xml:id="kitzler_033_m-232">
+                                    <f xml:id="kitzler_033_m-233" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-234" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-236"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#kitzler_033_m-239">
+                                <fb xml:id="kitzler_033_m-237">
+                                    <f xml:id="kitzler_033_m-238" n="1">7</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-242"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#kitzler_033_m-245">
+                                <fb xml:id="kitzler_033_m-243">
+                                    <f xml:id="kitzler_033_m-244" n="1">6</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-246"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#kitzler_033_m-249">
+                                <fb xml:id="kitzler_033_m-247">
+                                    <f xml:id="k033-f-idm320">6</f>
+                                    <f xml:id="kitzler_033_m-248" n="1">5</f>
+                                </fb>
+                            </harm>
+                            <dir xml:id="k033-dir-idm322" tstamp="1" staff="1" place="above">Emoll</dir>
+                        <harm type="histogram">1-0-0-1-3-0-1-3-0-1-0-3</harm>
+                  </measure>
+                        <measure meter.count="6" meter.unit="4" xml:id="kitzler_033_m-250" n="8">
+                            <staff xml:id="kitzler_033_m-251" n="1">
+                                <layer xml:id="kitzler_033_m-252" n="1">
+                                    <note xml:id="kitzler_033_m-253"
+                                 dur="2"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-254"
+                                 dur="4"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_033_m-255" accid="s" func="caution"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-256"
+                                 dur="4"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler_033_m-257" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-258"
+                                 dur="4"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <rest xml:id="kitzler_033_m-259" dur="4" tstamp="6" tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-260" n="2">
+                                <layer xml:id="kitzler_033_m-261" n="1">
+                                    <note xml:id="kitzler_033_m-266"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_033_m-271"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-276"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-281"
+                                 dur="4"
+                                 oct="3"
+                                 pname="c"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-286"
+                                 dur="4"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-292"
+                                 dur="4"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-262"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#kitzler_033_m-266">
+                                <fb xml:id="kitzler_033_m-263">
+                                    <f xml:id="kitzler_033_m-264" n="1">6</f>
+                                    <f xml:id="kitzler_033_m-265" n="2">4</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-267"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="2"
+                           startid="#kitzler_033_m-271">
+                                <fb xml:id="kitzler_033_m-268">
+                                    <f xml:id="kitzler_033_m-269" n="1">-</f>
+                                    <f xml:id="kitzler_033_m-270" n="2">-</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-272"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#kitzler_033_m-276">
+                                <fb xml:id="kitzler_033_m-273">
+                                    <f xml:id="kitzler_033_m-274" n="1">7</f>
+                                    <f xml:id="kitzler_033_m-275" n="2">♯</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-277"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#kitzler_033_m-281">
+                                <fb xml:id="kitzler_033_m-278">
+                                    <f xml:id="kitzler_033_m-279" n="1">-</f>
+                                    <f xml:id="kitzler_033_m-280" n="2">-</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-282"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#kitzler_033_m-286">
+                                <fb xml:id="kitzler_033_m-283">
+                                    <f xml:id="kitzler_033_m-284" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-285" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-287"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#kitzler_033_m-292">
+                                <fb xml:id="kitzler_033_m-288">
+                                    <f xml:id="kitzler_033_m-289" n="1">6\</f>
+                                    <f xml:id="kitzler_033_m-290" n="2">4</f>
+                                    <f xml:id="kitzler_033_m-291" n="3">3</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">2-0-0-0-1-0-2-2-0-0-0-4</harm>
+                  </measure>
+                        <measure meter.count="6" meter.unit="4" xml:id="kitzler_033_m-293" n="9">
+                            <staff xml:id="kitzler_033_m-294" n="1">
+                                <layer xml:id="kitzler_033_m-295" n="1">
+                                    <note xml:id="kitzler_033_m-296"
+                                 dur="2"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-297"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-298"
+                                 dur="2"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-301"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-302" n="2">
+                                <!--Löschung-->
+                                <layer xml:id="kitzler_033_m-303" n="1">
+                                    <note xml:id="kitzler_033_m-308"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    
+                                            <note xml:id="kitzler_033_m-310"
+                                 dur="4"
+                                 oct="2"
+                                 pname="a"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                            <note xml:id="kitzler_033_m-315"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                        
+                                    <note xml:id="kitzler_033_m-319"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-320"
+                                 dur="4"
+                                 oct="2"
+                                 pname="g"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-321"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-304"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#kitzler_033_m-308">
+                                <fb xml:id="kitzler_033_m-305">
+                                    <f xml:id="kitzler_033_m-306" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-307" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-316"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#kitzler_033_m-319">
+                                <fb xml:id="kitzler_033_m-317">
+                                    <f xml:id="kitzler_033_m-318" n="1">6</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">1-0-0-0-4-0-0-3-0-3-0-1</harm>
+                  </measure>
+                        <sb xml:id="kitzler_033_m-323"/>
+                        <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="kitzler_033_m-322"
+                           n="10">
+                            <staff xml:id="kitzler_033_m-324" n="1">
+                                <layer xml:id="kitzler_033_m-325" n="1">
+                                    <chord xml:id="kitzler_033_m-326" dur="4" tstamp="1" tstamp2="2">
+                                        <note xml:id="kitzler_033_m-327" oct="4" pname="g"/>
+                                        <note xml:id="kitzler_033_m-328" oct="4" pname="b"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-329" dur="4" tstamp="2" tstamp2="3">
+                                        <note xml:id="kitzler_033_m-330" oct="4" pname="f">
+                                            <accid xml:id="kitzler_033_m-331" accid.ges="s"/>
+                                        </note>
+                                        <note xml:id="kitzler_033_m-332" oct="4" pname="a"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-333" dur="4" tstamp="3" tstamp2="4">
+                                        <note xml:id="kitzler_033_m-334" oct="4" pname="e"/>
+                                        <note xml:id="kitzler_033_m-335" oct="4" pname="g"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-336" dur="4" tstamp="4" tstamp2="5">
+                                        <note xml:id="kitzler_033_m-337" oct="4" pname="e"/>
+                                        <note xml:id="kitzler_033_m-338" oct="4" pname="g"/>
+                                    </chord>
+                                    <chord xml:id="kitzler_033_m-339" dur="4" tstamp="5" tstamp2="6">
+                                        <note xml:id="kitzler_033_m-340" oct="4" pname="d">
+                                            <accid xml:id="kitzler_033_m-341" accid="s"/>
+                                        </note>
+                                        <note xml:id="kitzler_033_m-342" oct="4" pname="f">
+                                            <accid xml:id="kitzler_033_m-343" accid="s" func="caution"/>
+                                        </note>
+                                    </chord>
+                                    <rest xml:id="kitzler_033_m-344" dur="4" tstamp="6" tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-345" n="2">
+                                <layer xml:id="kitzler_033_m-346" n="1">
+                                    <note xml:id="kitzler_033_m-351"
+                                 dur="2"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="kitzler_033_m-352" accid="s"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-357"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    
+                                            <note xml:id="kitzler_033_m-361"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                        
+                                    <note xml:id="kitzler_033_m-366"
+                                 dur="4"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-370"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-347"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#kitzler_033_m-351">
+                                <fb xml:id="kitzler_033_m-348">
+                                    <f xml:id="kitzler_033_m-349" n="1">6</f>
+                                    <f xml:id="kitzler_033_m-350" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-353"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#kitzler_033_m-357">
+                                <fb xml:id="kitzler_033_m-354">
+                                    <f xml:id="kitzler_033_m-355" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-356" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-358"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#kitzler_033_m-361">
+                                <fb xml:id="kitzler_033_m-359">
+                                    <f xml:id="kitzler_033_m-360" n="1">6</f>
+                                    <f xml:id="k033-f-idm440">4</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-362"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#kitzler_033_m-366">
+                                <fb xml:id="kitzler_033_m-363">
+                                    <f xml:id="kitzler_033_m-364" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-365" n="2">♯</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-367"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#kitzler_033_m-370">
+                                <fb xml:id="kitzler_033_m-368">
+                                    <f xml:id="kitzler_033_m-369" n="1">2</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">0-0-0-3-3-0-2-3-0-2-0-3</harm>
+                  </measure>
+                        <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="kitzler_033_m-371"
+                           n="11">
+                            <staff xml:id="kitzler_033_m-372" n="1">
+                                <layer xml:id="kitzler_033_m-373" n="1">
+                                    <note xml:id="kitzler_033_m-374"
+                                 dur="2"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-375"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-376"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-377"
+                                 dur="4"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-378"
+                                 dur="4"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="6"
+                                 tstamp2="7">
+                                        <accid xml:id="kitzler_033_m-379" accid="s" func="caution"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-380" n="2">
+                                <layer xml:id="kitzler_033_m-381" n="1">
+                                    <note xml:id="kitzler_033_m-385"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_033_m-390"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-394"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_033_m-395" accid="s"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-396"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-400"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-404"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-382"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#kitzler_033_m-385">
+                                <fb xml:id="kitzler_033_m-383">
+                                    <f xml:id="kitzler_033_m-384" n="1">6</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-386"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="2"
+                           startid="#kitzler_033_m-390">
+                                <fb xml:id="kitzler_033_m-387">
+                                    <f xml:id="kitzler_033_m-388" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-389" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-391"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#kitzler_033_m-394">
+                                <fb xml:id="kitzler_033_m-392">
+                                    <f xml:id="kitzler_033_m-393" n="1">7</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-397"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#kitzler_033_m-400">
+                                <fb xml:id="kitzler_033_m-398">
+                                    <f xml:id="kitzler_033_m-399" n="1">6</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-401"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#kitzler_033_m-404">
+                                <fb xml:id="kitzler_033_m-402">
+                                    <f xml:id="k033-f-idm481">6</f>
+                                    <f xml:id="kitzler_033_m-403" n="1">5</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">1-0-0-1-3-0-1-2-0-1-0-3</harm>
+                  </measure>
+                        <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="kitzler_033_m-405"
+                           n="12">
+                            <staff xml:id="kitzler_033_m-406" n="1">
+                                <layer xml:id="kitzler_033_m-407" n="1">
+                                    <note xml:id="kitzler_033_m-408"
+                                 dur="4"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="kitzler_033_m-409" accid="s"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-410"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-411"
+                                 dur="4"
+                                 oct="5"
+                                 pname="f"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_033_m-412" accid="n"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-413"
+                                 dur="4"
+                                 oct="5"
+                                 pname="f"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-414"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <rest xml:id="kitzler_033_m-415" dur="4" tstamp="6" tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-416" n="2">
+                                <layer xml:id="kitzler_033_m-417" n="1">
+                                    <note xml:id="kitzler_033_m-421"
+                                 dur="4"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_033_m-425"
+                                 dur="4"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-429"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-433"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5">
+                                        <accid xml:id="kitzler_033_m-434" accid="s"/>
+                                    </note>
+                                    
+                                            <note xml:id="kitzler_033_m-438"
+                                 dur="4"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                        
+                                    <note xml:id="kitzler_033_m-442"
+                                 dur="4"
+                                 oct="4"
+                                 pname="d"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            
+                            <harm place="above"
+                           xml:id="kitzler_033_m-422"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="2"
+                           startid="#kitzler_033_m-425">
+                                <fb xml:id="kitzler_033_m-423">
+                                    <f xml:id="kitzler_033_m-424" n="1">6</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-426"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#kitzler_033_m-429">
+                                <fb xml:id="kitzler_033_m-427">
+                                    <f xml:id="kitzler_033_m-428" n="1">♮6</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-430"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#kitzler_033_m-433">
+                                <fb xml:id="kitzler_033_m-431">
+                                    <f xml:id="kitzler_033_m-432" n="1">7</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-435"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#kitzler_033_m-438">
+                                <fb xml:id="kitzler_033_m-436">
+                                    <f xml:id="kitzler_033_m-437" n="1">♯</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-439"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#kitzler_033_m-442">
+                                <fb xml:id="kitzler_033_m-440">
+                                    <f xml:id="kitzler_033_m-441" n="1">4</f>
+                                    <f xml:id="k033-f-idm526">2</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">1-0-1-0-2-2-0-0-2-2-0-1</harm>
+                  </measure>
+                        <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="kitzler_033_m-443"
+                           n="13">
+                            <staff xml:id="kitzler_033_m-444" n="1">
+                                <layer xml:id="kitzler_033_m-445" n="1">
+                                    <note xml:id="kitzler_033_m-446"
+                                 dur="2"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-447"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-448"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-449"
+                                 dur="4"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-450"
+                                 dur="4"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="6"
+                                 tstamp2="7">
+                                        <accid xml:id="kitzler_033_m-451" accid.ges="s"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-452" n="2">
+                                <layer xml:id="kitzler_033_m-453" n="1">
+                                    <note xml:id="kitzler_033_m-457"
+                                 dur="4"
+                                 oct="4"
+                                 pname="c"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_033_m-462"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-466"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-470"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-474"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-478"
+                                 dur="4"
+                                 oct="3"
+                                 pname="a"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-454"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#kitzler_033_m-457">
+                                <fb xml:id="kitzler_033_m-455">
+                                    <f xml:id="kitzler_033_m-456" n="1">6</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-458"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="2"
+                           startid="#kitzler_033_m-462">
+                                <fb xml:id="kitzler_033_m-459">
+                                    <f xml:id="kitzler_033_m-460" n="1">5</f>
+                                    <f xml:id="kitzler_033_m-461" n="2">3</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-463"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#kitzler_033_m-466">
+                                <fb xml:id="kitzler_033_m-464">
+                                    <f xml:id="kitzler_033_m-465" n="1">-</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-467"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#kitzler_033_m-470">
+                                <fb xml:id="kitzler_033_m-468">
+                                    <f xml:id="kitzler_033_m-469" n="1">6</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-471"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#kitzler_033_m-474">
+                                <fb xml:id="kitzler_033_m-472">
+                                    <f xml:id="kitzler_033_m-473" n="1">-</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-475"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#kitzler_033_m-478">
+                                <fb xml:id="kitzler_033_m-476">
+                                    <f xml:id="k033-f-idm562">6</f>
+                                    <f xml:id="kitzler_033_m-477" n="1">5</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">2-0-0-0-4-0-1-2-0-3-0-0</harm>
+                  </measure>
+                        <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="kitzler_033_m-479"
+                           n="14"
+                           right="end">
+                            <staff xml:id="kitzler_033_m-480" n="1">
+                                <layer xml:id="kitzler_033_m-481" n="1">
+                                    <note xml:id="kitzler_033_m-482"
+                                 dur="2"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-483"
+                                 dur="4"
+                                 oct="4"
+                                 pname="f"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="kitzler_033_m-484" accid.ges="s"/>
+                                    </note>
+                                    <note xml:id="kitzler_033_m-485"
+                                 dur="2"
+                                 oct="4"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="6"/>
+                                    <rest xml:id="kitzler_033_m-486" dur="4" tstamp="6" tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <staff xml:id="kitzler_033_m-487" n="2">
+                                <layer xml:id="kitzler_033_m-488" n="1">
+                                    <note xml:id="kitzler_033_m-493"
+                                 dur="4"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                    <note xml:id="kitzler_033_m-494"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                    <note xml:id="kitzler_033_m-498"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                    <note xml:id="kitzler_033_m-503"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                    <note xml:id="kitzler_033_m-504"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                    <note xml:id="kitzler_033_m-509"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                                </layer>
+                            </staff>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-489"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#kitzler_033_m-493">
+                                <fb xml:id="kitzler_033_m-490">
+                                    <f xml:id="kitzler_033_m-491" n="1">6</f>
+                                    <f xml:id="kitzler_033_m-492" n="2">4</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-495"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#kitzler_033_m-498">
+                                <fb xml:id="kitzler_033_m-496">
+                                    <f xml:id="kitzler_033_m-497" n="1">♯</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-499"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#kitzler_033_m-503">
+                                <fb xml:id="kitzler_033_m-500">
+                                    <f xml:id="kitzler_033_m-501" n="1">♮</f>
+                                </fb>
+                            </harm>
+                            <harm place="above"
+                           xml:id="kitzler_033_m-505"
+                           ho="1.7578mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#kitzler_033_m-509">
+                                <fb xml:id="kitzler_033_m-506">
+                                    <f xml:id="kitzler_033_m-507" n="1">7</f>
+                                    <f xml:id="kitzler_033_m-508" n="2">♯</f>
+                                </fb>
+                            </harm>
+                        <harm type="histogram">0-0-1-0-4-0-1-2-0-0-0-3</harm>
+                  </measure>
+                        <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="k033-measure-idm594"
+                           type="placeholder">
+                            <staff xml:id="k033-staff-idm595" n="1">
+                                <layer xml:id="k033-layer-idm596" n="1">
+                                    
+                                
+                                 <chord xml:id="r9696328b-f811-45d4-b0ed-680fb2c98486"
+                                  corresp="#kitzler_033_m-39"
+                                  dur="2"
+                                  tstamp="1"
+                                  tstamp2="3">
+                                        <note xml:id="rd39f9ca6-88c7-48a0-80b7-f7ed8eb1b197"
+                                    corresp="#kitzler_033_m-40"
+                                    oct="4"
+                                    pname="b"/>
+                                        <note xml:id="rf9aead6e-1efc-4bea-9b64-ddf19a09d0d2"
+                                    corresp="#kitzler_033_m-41"
+                                    oct="5"
+                                    pname="d">
+                                            <verse xml:id="r5feaea78-82e8-45eb-94b6-370dacc76eac"
+                                        corresp="#kitzler_033_m-41m">
+                                                <syl xml:id="r1f06438b-685d-4be2-8022-020acfb6529c"
+                                         corresp="#k033-syl-idm87"
+                                         con="d"
+                                         wordpos="i">Ky</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                 <chord xml:id="rf48ab928-e3cc-4d90-b15f-7a9b04842146"
+                                  corresp="#kitzler_033_m-42"
+                                  dur="4"
+                                  tstamp="3"
+                                  tstamp2="4">
+                                        <note xml:id="r0df9a55b-d281-499b-a812-c2f8377d4432"
+                                    corresp="#kitzler_033_m-43"
+                                    oct="4"
+                                    pname="a"/>
+                                        <note xml:id="rf253c53d-79d6-4bbe-b13a-525928ca742a"
+                                    corresp="#kitzler_033_m-44"
+                                    oct="5"
+                                    pname="c">
+                                            <verse xml:id="r4ce67ab2-9d69-4c8d-a0d7-7eed8b32b848"
+                                        corresp="#kitzler_033_m-44l">
+                                                <syl xml:id="r0a3e55bd-313a-4b0e-be72-a1a3207a8c4e"
+                                         corresp="#k033-syl-idm92"
+                                         con="d"
+                                         wordpos="m">ri</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                 <chord xml:id="r62fad4b7-baec-40d4-810a-49e3add39a3d"
+                                  corresp="#kitzler_033_m-45"
+                                  dur="4"
+                                  tstamp="4"
+                                  tstamp2="5">
+                                        <note xml:id="rb058a63c-5d99-4bdb-a9d3-2d37f854bd99"
+                                    corresp="#kitzler_033_m-46"
+                                    oct="4"
+                                    pname="g"/>
+                                        <note xml:id="r43b17cb8-5e01-4ec7-9b3d-30c824a93e3e"
+                                    corresp="#kitzler_033_m-47"
+                                    oct="4"
+                                    pname="b">
+                                            <verse xml:id="r67027f43-ba07-4b70-bded-85cc3d41a3ad"
+                                        corresp="#kitzler_033_m-47b">
+                                                <syl xml:id="rd3f95456-c73c-4449-aff3-ed7e6abe3a2a"
+                                         corresp="#k033-syl-idm97"
+                                         con="u">e</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                 <chord xml:id="rdde59821-4208-413e-9b07-61d3d413efe7"
+                                  corresp="#kitzler_033_m-48"
+                                  dur="4"
+                                  tstamp="5"
+                                  tstamp2="6">
+                                        <note xml:id="r504dc7ae-8708-4555-9ff9-b79959d5f64e"
+                                    corresp="#kitzler_033_m-49"
+                                    oct="5"
+                                    pname="e"/>
+                                        <note xml:id="r62f77048-37ec-4074-9853-7a19393547a1"
+                                    corresp="#kitzler_033_m-50"
+                                    oct="5"
+                                    pname="g"/>
+                                    </chord>
+                                 <chord xml:id="rd28a95b3-12bd-422f-ba3b-28d5d6bf4d39"
+                                  corresp="#kitzler_033_m-51"
+                                  dur="4"
+                                  tstamp="6"
+                                  tstamp2="7">
+                                        <note xml:id="r9bce8ed8-fb5d-4a85-9444-22917b7ea5f6"
+                                    corresp="#kitzler_033_m-52"
+                                    oct="5"
+                                    pname="d"/>
+                                        <note xml:id="r716788ef-7312-47b9-97f1-1c4f067d1125"
+                                    corresp="#kitzler_033_m-53"
+                                    oct="5"
+                                    pname="f">
+                                            <accid xml:id="r5d416b55-8c62-42ed-bd7b-f2a568f5d231"
+                                        corresp="#kitzler_033_m-54"
+                                        accid.ges="s"/>
+                                            <verse xml:id="r3b34a3b3-bb26-4067-bcac-a0bb889421ed"
+                                        corresp="#kitzler_033_m-53f">
+                                                <syl xml:id="r79630233-3df0-4b09-bd6e-728d8d7e10f8"
+                                         corresp="#k033-syl-idm106"
+                                         con="d"
+                                         wordpos="i">e</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            <staff xml:id="k033-staff-idm598" n="2">
+                                <layer xml:id="k033-layer-idm599" n="1">
+                                    
+                                
+                                 <note xml:id="r38eb0f56-41dc-4644-8b21-be1abf7eae7b"
+                                 corresp="#kitzler_033_m-57"
+                                 dots="1"
+                                 dur="1"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="1"
+                                 tstamp2="7"/>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            <cpMark type="copyInstruction"
+                             meter.count="6"
+                             xml:id="k033-cpMark-idm601"
+                             origin.tstamp="-14m+1"
+                             origin.tstamp2="5m+7"
+                             tstamp="1"
+                             tstamp2="5m+7"
+                             place="within">1. Periode</cpMark>
+                        
+                           <dir xml:id="rac9d55e6-414c-4420-8cc7-26cf6d86fd76"
+                          corresp="#k033-dir-idm110"
+                          tstamp="1"
+                          staff="1"
+                          place="above">6-8-6</dir>
+                        
+                     <harm type="histogram">1-0-3-0-1-0-1-8-0-1-0-3</harm>
+                  </measure>
+                  <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="ffd78363c-78bc-48da-ab2d-ec14b7f66971"
+                           type="generated">
+                            <staff xml:id="faf10f491-5574-4a9a-80f0-506a89da37b3" n="1">
+                                <layer xml:id="ff690a349-6fb2-43df-b8d8-762ecbea27aa" n="1">
+                                    
+                                
+                                 <chord xml:id="rd86cd0f2-a15b-4d24-9606-eb5edcf51b3d"
+                                  corresp="#kitzler_033_m-61"
+                                  dur="4"
+                                  tstamp="1"
+                                  tstamp2="2">
+                                        <note xml:id="rf179bc01-5f23-43a9-a22b-248bf2fb6b8c"
+                                    corresp="#kitzler_033_m-62"
+                                    oct="5"
+                                    pname="c"/>
+                                        <note xml:id="r68298c30-a7c9-482c-8ce9-f1dcc1855ac3"
+                                    corresp="#kitzler_033_m-63"
+                                    oct="5"
+                                    pname="e">
+                                            <verse xml:id="r33a0f744-070a-4155-aead-5b5fbcbfb5d8"
+                                        corresp="#kitzler_033_m-63f">
+                                                <syl xml:id="r9664d43e-1a57-4fb5-84c5-fe5eb86f7a33"
+                                         corresp="#k033-syl-idm118"
+                                         con="d"
+                                         wordpos="m">lei</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                 <chord xml:id="rb105abf5-704b-457a-ac85-43df760de672"
+                                  corresp="#kitzler_033_m-64"
+                                  dur="4"
+                                  tstamp="2"
+                                  tstamp2="3">
+                                        <note xml:id="reb14a4f7-f03f-4c90-bb7e-50ac15c4905f"
+                                    corresp="#kitzler_033_m-65"
+                                    oct="4"
+                                    pname="b"/>
+                                        <note xml:id="rca4b81cf-a423-43d6-8752-a7e71f4bda10"
+                                    corresp="#kitzler_033_m-66"
+                                    oct="5"
+                                    pname="d"/>
+                                    </chord>
+                                 <chord xml:id="r8a919ac5-dce6-4692-bcd1-49a3aa2cdab1"
+                                  corresp="#kitzler_033_m-67"
+                                  dur="4"
+                                  tstamp="3"
+                                  tstamp2="4">
+                                        <note xml:id="r9f7a2e16-af20-4faf-a2c9-091689dfb091"
+                                    corresp="#kitzler_033_m-68"
+                                    oct="4"
+                                    pname="a"/>
+                                        <note xml:id="r2804c968-cb55-4a1a-9749-475c7478d6df"
+                                    corresp="#kitzler_033_m-69"
+                                    oct="5"
+                                    pname="c"/>
+                                    </chord>
+                                 <chord xml:id="r3c99aa0f-5d5b-476e-82d1-ee555632f79c"
+                                  corresp="#kitzler_033_m-70"
+                                  dur="4"
+                                  tstamp="4"
+                                  tstamp2="5">
+                                        <note xml:id="re0ef09bc-a49f-4fe8-8057-dbf1440a948d"
+                                    corresp="#kitzler_033_m-71"
+                                    oct="4"
+                                    pname="g"/>
+                                        <note xml:id="r8fdfccdd-ae95-42c8-9300-2ef83eb2459b"
+                                    corresp="#kitzler_033_m-72"
+                                    oct="4"
+                                    pname="b">
+                                            <verse xml:id="r0b41373b-19ba-4ad4-bf1e-aae6d8e682b9"
+                                        corresp="#kitzler_033_m-72d">
+                                                <syl xml:id="r692a671a-38c1-4031-9453-257b545d2f49"
+                                         corresp="#k033-syl-idm129"
+                                         wordpos="t">son</syl>
+                                            </verse>
+                                        </note>
+                                    </chord>
+                                 <rest xml:id="r71425a5b-87cd-4c06-81f1-9b5ab5352c78"
+                                 corresp="#kitzler_033_m-73"
+                                 dur="4"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                 <rest xml:id="r41ffa76b-957e-4652-b24b-2c0e0c74d921"
+                                 corresp="#kitzler_033_m-74"
+                                 dur="4"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            <staff xml:id="f17616301-dabf-4c9a-9f1b-813f87c3fa88" n="2">
+                                <layer xml:id="fd9272180-d770-42a0-a83e-24d477b4b3d5" n="1">
+                                    
+                                
+                                 <note xml:id="r32b4c1ea-419a-401a-ae9e-bb6c99b76bac"
+                                 corresp="#kitzler_033_m-77"
+                                 dots="1"
+                                 dur="2"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="1"
+                                 tstamp2="4"/>
+                                 <note xml:id="r0874d83b-b283-4b75-8c9b-b8455988dd68"
+                                 corresp="#kitzler_033_m-78"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                 <note xml:id="r7a3c8217-bd45-4b49-aac0-cb662a2fd3f6"
+                                 corresp="#kitzler_033_m-82"
+                                 dur="4"
+                                 oct="3"
+                                 pname="b"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                 <note xml:id="r1a2b11e3-e314-45ba-b6d5-000c77ab02ef"
+                                 corresp="#kitzler_033_m-83"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            
+                        
+                           <harm place="above"
+                           xml:id="r144da99b-8b2b-4e86-a8b4-58540b0fed89"
+                           corresp="#kitzler_033_m-79"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#r7a3c8217-bd45-4b49-aac0-cb662a2fd3f6">
+                                <fb xml:id="r5af07b7b-7e7f-4fd8-8ba7-4c3581701735"
+                            corresp="#kitzler_033_m-80">
+                                    <f xml:id="r2da0d80d-a4ee-4d52-937d-23a5266005e7"
+                              corresp="#kitzler_033_m-81"
+                              n="1">6</f>
+                                </fb>
+                            </harm>
+                        
+                     <harm type="histogram">2-0-1-0-1-0-0-6-0-1-0-3</harm>
+                  </measure>
+                  <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="f7dae499e-9e6e-4b36-882f-ba10cdf14eb9"
+                           type="generated">
+                            <staff xml:id="fbc776af6-6293-41cc-b1fd-04a32c2433e8" n="1">
+                                <layer xml:id="fd0a19b65-688e-496c-aaff-ce066c57eac1" n="1">
+                                    
+                                
+                                 <note xml:id="rec912d4c-7750-44f7-9131-56f6d0bc1cbb"
+                                 corresp="#kitzler_033_m-87"
+                                 dur="2"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                 <note xml:id="r7eafe9de-a4ae-40f3-ab1d-14dbdb7002c0"
+                                 corresp="#kitzler_033_m-88"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                 <note xml:id="r2dc46fd9-2f8a-4d1a-b111-957c00035fa6"
+                                 corresp="#kitzler_033_m-89"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                 <note xml:id="r5a24c8ca-3f6f-43f5-8de4-1d424130e0d5"
+                                 corresp="#kitzler_033_m-90"
+                                 dur="4"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                 <note xml:id="r45838431-da5c-4d2e-a5d5-3835d93aa361"
+                                 corresp="#kitzler_033_m-91"
+                                 dur="4"
+                                 oct="4"
+                                 pname="b"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            <staff xml:id="fe2763c2e-59e6-4202-9ae4-9d8d8abd3dcf" n="2">
+                                <layer xml:id="f65dc8230-8b84-410b-8c56-eda22affbe90" n="1">
+                                    
+                                
+                                 <note xml:id="rf611912c-819d-441f-b2a8-17443dd4cead"
+                                 corresp="#kitzler_033_m-98"
+                                 dur="4"
+                                 oct="3"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="2">
+                                        <accid xml:id="r4f2a8f84-95a0-4c8a-b986-853bdfd936c3"
+                                     corresp="#kitzler_033_m-99"
+                                     accid="s"
+                                     func="caution"/>
+                                    </note>
+                                 <note xml:id="r59aa500e-59f5-4eac-ae30-155b6a6d541c"
+                                 corresp="#kitzler_033_m-100"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                 <note xml:id="r808f5c7d-01c0-4b26-bf3b-ad2dce519d4a"
+                                 corresp="#kitzler_033_m-101"
+                                 dur="4"
+                                 oct="3"
+                                 pname="f"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="r9306a348-7078-43a2-977c-b35935012e0e"
+                                     corresp="#kitzler_033_m-102"
+                                     accid.ges="s"/>
+                                    </note>
+                                 <note xml:id="r95e6251a-ebce-4313-949e-f5709f684859"
+                                 corresp="#kitzler_033_m-107"
+                                 dur="2"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="6"/>
+                                 <note xml:id="r52d30baf-fa54-4f33-a7a4-2755522089c1"
+                                 corresp="#kitzler_033_m-111"
+                                 dur="4"
+                                 oct="3"
+                                 pname="f"
+                                 tstamp="6"
+                                 tstamp2="7">
+                                        <accid xml:id="r78a7a2bf-c176-40b1-b897-004c1efa29ee"
+                                     corresp="#kitzler_033_m-112"
+                                     accid="n"/>
+                                    </note>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            
+                        
+                           <harm place="above"
+                           xml:id="rb0c8df4a-0e6c-4942-9d2d-0ce2a64bc189"
+                           corresp="#kitzler_033_m-94"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#rf611912c-819d-441f-b2a8-17443dd4cead">
+                                <fb xml:id="re02b1fd7-dda3-49c6-b2ea-ac4100d6b84f"
+                            corresp="#kitzler_033_m-95">
+                                    <f xml:id="rf5874218-d283-439a-b04b-cb8a054323f3"
+                              corresp="#kitzler_033_m-96"
+                              n="1">6</f>
+                                    <f xml:id="r1f65765c-2259-4070-9076-a5c7f4cd3418"
+                              corresp="#kitzler_033_m-97"
+                              n="2">5</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="r75e86ee3-afdc-4486-a85b-16cc3aec1e61"
+                           corresp="#kitzler_033_m-103"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#r95e6251a-ebce-4313-949e-f5709f684859">
+                                <fb xml:id="r5f8d8ad0-e395-436b-a07a-4c4888cb2043"
+                            corresp="#kitzler_033_m-104">
+                                    <f xml:id="rec260303-6f6e-446c-bd67-8556603aceb0"
+                              corresp="#kitzler_033_m-105"
+                              n="1">5</f>
+                                    <f xml:id="r7b2f0834-27ab-4654-a6d4-938188e50bdd"
+                              corresp="#kitzler_033_m-106"
+                              n="2">3</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="rcaf871a7-d8a5-4b54-a962-8b5248a49bc7"
+                           corresp="#kitzler_033_m-108"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#r52d30baf-fa54-4f33-a7a4-2755522089c1">
+                                <fb xml:id="ra27fe4b4-19aa-439b-ab61-428d9292b8b9"
+                            corresp="#kitzler_033_m-109">
+                                    <f xml:id="rf864e4cb-dd75-4f3c-8616-11c9fe0d9a11"
+                              corresp="#kitzler_033_m-110"
+                              n="1">2</f>
+                                </fb>
+                            </harm>
+                        
+                     <harm type="histogram">1-0-1-0-0-1-2-2-0-3-0-2</harm>
+                  </measure>
+                  <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="ff14dd7b8-4ff5-4d4a-acbc-215a4e940cd3"
+                           type="generated">
+                            <staff xml:id="ff8ba7bb5-d6f7-4204-98cc-84dcc6e76e08" n="1">
+                                <layer xml:id="fee91b834-0118-423f-bc14-b2dad621b495" n="1">
+                                    
+                                
+                                 <note xml:id="re3bb5b1a-a461-46c8-99e6-a603c9091bec"
+                                 corresp="#kitzler_033_m-116"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                 <note xml:id="r961e682a-e20b-4aca-a5a4-a674b52d7f90"
+                                 corresp="#kitzler_033_m-117"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                 <note xml:id="rbd6e8995-151b-4546-a7de-5b3227582f3c"
+                                 corresp="#kitzler_033_m-118"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                 <note xml:id="r8ba6e277-df26-4da9-929c-14dfedd0c537"
+                                 corresp="#kitzler_033_m-119"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                 <note xml:id="r80f87e9a-a843-4112-b113-4e8690cd6cb2"
+                                 corresp="#kitzler_033_m-120"
+                                 dur="4"
+                                 oct="5"
+                                 pname="c"
+                                 tstamp="5"
+                                 tstamp2="6">
+                                        <accid xml:id="r61c51073-c598-4353-9b31-a29b7f8d004e"
+                                     corresp="#kitzler_033_m-121"
+                                     accid="s"/>
+                                    </note>
+                                 <note xml:id="rabbafbaa-ac9c-4d6a-b936-c1a77d749f09"
+                                 corresp="#kitzler_033_m-122"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            <staff xml:id="fee8ab99f-3b5c-4011-9b0b-b0ff76499f99" n="2">
+                                <layer xml:id="fc57d4dfb-599f-42de-8c07-49040f776ae7" n="1">
+                                    
+                                
+                                 <note xml:id="r0c3c3200-e279-4e58-aeb7-facdc67812c1"
+                                 corresp="#kitzler_033_m-128"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                 <note xml:id="red7291ce-b849-44ce-af6b-112e409f8748"
+                                 corresp="#kitzler_033_m-133"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                 <note xml:id="r074e9a18-30db-42c6-842e-7f3b739a6d25"
+                                 corresp="#kitzler_033_m-138"
+                                 dur="4"
+                                 oct="3"
+                                 pname="c"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                 <note xml:id="re81c22f7-cd1a-491d-81b9-112a89eab36e"
+                                 corresp="#kitzler_033_m-143"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                 <note xml:id="rfc912e60-b28b-4417-9265-84555cac5f03"
+                                 corresp="#kitzler_033_m-148"
+                                 dur="4"
+                                 oct="2"
+                                 pname="a"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                 <note xml:id="r2c35cf5c-3b6b-4dc4-a351-90b1d4f30f24"
+                                 corresp="#kitzler_033_m-152"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            
+                        
+                           <harm place="above"
+                           xml:id="rf922ee1b-36f3-4151-b45b-fe38cf55c54b"
+                           corresp="#kitzler_033_m-125"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#r0c3c3200-e279-4e58-aeb7-facdc67812c1">
+                                <fb xml:id="r61872349-0167-47a2-91bb-c3192c256ae7"
+                            corresp="#kitzler_033_m-126">
+                                    <f xml:id="r9f118f39-6d9c-44cf-81a7-9161a4869710"
+                              corresp="#kitzler_033_m-127"
+                              n="1">6</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="rde078dd1-cbff-4166-a492-880585a723fc"
+                           corresp="#kitzler_033_m-129"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="2"
+                           startid="#red7291ce-b849-44ce-af6b-112e409f8748">
+                                <fb xml:id="rbbd4ba7b-582b-4597-ad86-4658dddccf7e"
+                            corresp="#kitzler_033_m-130">
+                                    <f xml:id="re0f3ea79-126d-48bc-8d16-8d919caac083"
+                              corresp="#kitzler_033_m-131"
+                              n="1">6</f>
+                                    <f xml:id="r5ff394f1-8039-409d-9632-3e84519fc660"
+                              corresp="#kitzler_033_m-132"
+                              n="2">4</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="rcd721a56-9f6f-4458-af2f-4b58f0ea3cf2"
+                           corresp="#kitzler_033_m-134"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#r074e9a18-30db-42c6-842e-7f3b739a6d25">
+                                <fb xml:id="rd361d056-47dd-4b58-be36-220a73a59b19"
+                            corresp="#kitzler_033_m-135">
+                                    <f xml:id="rcdce0c3b-9a1f-446f-9d93-d3d7399c3e9c"
+                              corresp="#kitzler_033_m-136"
+                              n="1">5</f>
+                                    <f xml:id="rafe37a44-c69b-4d40-88be-f7fd7cb82e34"
+                              corresp="#kitzler_033_m-137"
+                              n="2">3</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="r4749288b-1f7a-4889-ab63-fbd5623d8f48"
+                           corresp="#kitzler_033_m-139"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#re81c22f7-cd1a-491d-81b9-112a89eab36e">
+                                <fb xml:id="r8d678a1a-bba1-4b71-8399-e372a90b2302"
+                            corresp="#kitzler_033_m-140">
+                                    <f xml:id="r8647615a-b6d8-47b5-b954-d4c3f176e1b4"
+                              corresp="#kitzler_033_m-141"
+                              n="1">6</f>
+                                    <f xml:id="r15428cf2-5796-4902-b2df-e511c32d555c"
+                              corresp="#kitzler_033_m-142"
+                              n="2">3</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="r5eaa9d6c-4ae8-4195-8df0-b78c044055c7"
+                           corresp="#kitzler_033_m-144"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#rfc912e60-b28b-4417-9265-84555cac5f03">
+                                <fb xml:id="r2ed0a31b-e5a0-4036-90e4-adf0a1218319"
+                            corresp="#kitzler_033_m-145">
+                                    <f xml:id="rf224307a-eedb-440d-8ace-2927c86bc35a" corresp="#k033-f-idm213">- </f>
+                                    <f xml:id="rd7187ff1-1a75-4868-858a-0e94b98c6aa6"
+                              corresp="#kitzler_033_m-147"
+                              n="2">3♯</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="r1a34e638-ed1e-4041-b0c2-d4ba6bd85c30"
+                           corresp="#kitzler_033_m-149"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#r2c35cf5c-3b6b-4dc4-a351-90b1d4f30f24">
+                                <fb xml:id="rf7731e32-1c08-4f2e-bacf-eaacb55b1966"
+                            corresp="#kitzler_033_m-150">
+                                    <f xml:id="rca8635f9-f9e2-4380-8e99-3c2ee9f41a49"
+                              corresp="#kitzler_033_m-151"
+                              n="1">6</f>
+                                </fb>
+                            </harm>
+                        
+                     <harm type="histogram">2-1-4-0-2-0-0-0-0-1-0-2</harm>
+                  </measure>
+                  <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="f38301965-6e4c-4336-9179-822f990341d9"
+                           type="generated">
+                            <staff xml:id="f8051685e-da57-4d7a-b150-03eb7876c394" n="1">
+                                <layer xml:id="f9a47b889-dd2b-4a29-b64b-2c0547d89d87" n="1">
+                                    
+                                
+                                 <note xml:id="rc9892bf5-738c-4886-9ff8-3aae457f047d"
+                                 corresp="#kitzler_033_m-157"
+                                 dur="2"
+                                 oct="5"
+                                 pname="f"
+                                 tstamp="1"
+                                 tstamp2="3">
+                                        <accid xml:id="r5a8d5b0d-f6b4-4091-a164-c825e0ad9a42"
+                                     corresp="#kitzler_033_m-158"
+                                     accid.ges="s"/>
+                                    </note>
+                                 <note xml:id="rd70eecbe-5e82-4288-bac6-2f07c2927103"
+                                 corresp="#kitzler_033_m-159"
+                                 dur="4"
+                                 oct="5"
+                                 pname="a"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                 <note xml:id="r07d815b4-c13c-49c7-9198-c95cdf1e160d"
+                                 corresp="#kitzler_033_m-160"
+                                 dur="4"
+                                 oct="5"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                 <note xml:id="r8e4b4f29-5a32-4748-bec8-e34f4f69a1ed"
+                                 corresp="#kitzler_033_m-161"
+                                 dur="4"
+                                 oct="5"
+                                 pname="d"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                 <note xml:id="r81c23580-c3ff-4ec5-900d-e5cf310adb1e"
+                                 corresp="#kitzler_033_m-162"
+                                 dur="4"
+                                 oct="5"
+                                 pname="e"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            <staff xml:id="fee4a8357-773c-4c22-9bc6-b27f5f8d9659" n="2">
+                                <layer xml:id="f000ad4ce-c96d-42e8-b32d-287cb4edbb79" n="1">
+                                    
+                                
+                                 <note xml:id="r27c88e2c-e00c-45ea-98bf-f0c997571fd4"
+                                 corresp="#kitzler_033_m-165"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                 <note xml:id="r0a1341a5-28fe-4771-a4fd-cf04094eb9a4"
+                                 corresp="#kitzler_033_m-166"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                 <note xml:id="r29ab05ad-37d3-4809-8121-b8eb5d9f0110"
+                                 corresp="#kitzler_033_m-170"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="4">
+                                        <accid xml:id="rf2a0a050-d40d-43b8-b7f1-9d05b6c87d21"
+                                     corresp="#kitzler_033_m-171"
+                                     accid="s"/>
+                                    </note>
+                                 <note xml:id="r02306a20-4346-4c4f-a87d-b573040b9697"
+                                 corresp="#kitzler_033_m-176"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                 <note xml:id="r66bc8f44-c4d1-4b70-8c61-290f0132b359"
+                                 corresp="#kitzler_033_m-180"
+                                 dur="4"
+                                 oct="2"
+                                 pname="b"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                 <note xml:id="r0a25c0c2-60db-4048-9c21-282df1b8c7ba"
+                                 corresp="#kitzler_033_m-185"
+                                 dur="4"
+                                 oct="3"
+                                 pname="c"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            
+                        
+                           <harm place="above"
+                           xml:id="r53e19fa5-4a81-46cd-a05c-cc91c935ceee"
+                           corresp="#kitzler_033_m-167"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#r29ab05ad-37d3-4809-8121-b8eb5d9f0110">
+                                <fb xml:id="r84f534d0-7548-4bfd-8aca-846d0165ed69"
+                            corresp="#kitzler_033_m-168">
+                                    <f xml:id="rbf4e125f-450e-4c94-aa80-ccdda7071050"
+                              corresp="#kitzler_033_m-169"
+                              n="1">7</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="rce5bf735-ca25-4e48-9f67-d2121c54552b"
+                           corresp="#kitzler_033_m-172"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="4"
+                           startid="#r02306a20-4346-4c4f-a87d-b573040b9697">
+                                <fb xml:id="r10e96b90-6266-4641-a8f7-61d9c486689f"
+                            corresp="#kitzler_033_m-173">
+                                    <f xml:id="r62856be7-bd48-4a02-9d74-86a941296a8b"
+                              corresp="#kitzler_033_m-174"
+                              n="1">5</f>
+                                    <f xml:id="rab0ad2d5-aa5c-41c5-8b85-d97e0ab98c91"
+                              corresp="#kitzler_033_m-175"
+                              n="2">3</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="rbbff981b-33b8-4c15-9b97-9f981c79ffc1"
+                           corresp="#kitzler_033_m-177"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="5"
+                           startid="#r66bc8f44-c4d1-4b70-8c61-290f0132b359">
+                                <fb xml:id="r4efe9cc7-678d-4114-a2c5-4c10caa8ad4d"
+                            corresp="#kitzler_033_m-178">
+                                    <f xml:id="r1d49c30f-c562-4efe-b3e1-408b4baa3688"
+                              corresp="#kitzler_033_m-179"
+                              n="1">6</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="r342aa1c0-30dc-434e-b291-6bf7bb4092a6"
+                           corresp="#kitzler_033_m-181"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="6"
+                           startid="#r0a25c0c2-60db-4048-9c21-282df1b8c7ba">
+                                <fb xml:id="r0cb5dd1b-b174-47ae-ace2-b2c47ed65e0a"
+                            corresp="#kitzler_033_m-182">
+                                    <f xml:id="rb718fb37-0b47-4ffc-b9ee-66259512e2e6"
+                              corresp="#kitzler_033_m-183"
+                              n="1">5</f>
+                                    <f xml:id="r678a936c-ec0b-404f-add0-d24304f8ea28"
+                              corresp="#kitzler_033_m-184"
+                              n="2">3</f>
+                                </fb>
+                            </harm>
+                        
+                     <harm type="histogram">1-0-3-1-2-0-2-1-0-1-0-1</harm>
+                  </measure>
+                  <measure meter.count="6"
+                           meter.unit="4"
+                           xml:id="f835fba65-795b-44fd-8d41-2fc7f5f1d964"
+                           type="generated">
+                            <staff xml:id="ff8d35548-6677-433d-9713-b4622bfee740" n="1">
+                                <layer xml:id="f074401ff-13da-450a-8e6e-bc40cbdff150" n="1">
+                                    
+                                
+                                 <note xml:id="r89f9f5b3-26f6-4cff-a2b4-e2d949cbe5ea"
+                                 corresp="#kitzler_033_m-189"
+                                 dur="2"
+                                 oct="4"
+                                 pname="a"
+                                 tstamp="1"
+                                 tstamp2="3"/>
+                                 <beam xml:id="r1e215f7a-94f1-4c88-adbb-48c841281f4f"
+                                 corresp="#kitzler_033_m-191">
+                                                <note xml:id="r010e4da2-669e-4444-99a2-2d1509d2fbc3"
+                                    corresp="#kitzler_033_m-190"
+                                    dur="8"
+                                    oct="5"
+                                    pname="c"
+                                    tstamp="3"
+                                    tstamp2="3.5"/>
+                                                <note xml:id="r5fad834f-16b8-4c91-aa43-3de1328681f5"
+                                    corresp="#kitzler_033_m-192"
+                                    dur="8"
+                                    oct="4"
+                                    pname="a"
+                                    tstamp="3.5"
+                                    tstamp2="4"/>
+                                            </beam>
+                                 <note xml:id="r70812db0-7cd6-49f8-a5f0-847bc1b11400"
+                                 corresp="#kitzler_033_m-193"
+                                 dur="2"
+                                 oct="4"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="6"/>
+                                 <rest xml:id="r059004c1-e399-4f67-a4a9-a8c763aaa3a9"
+                                 corresp="#kitzler_033_m-194"
+                                 dur="4"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            <staff xml:id="fbd365bdd-1294-444c-8c21-e7200efa0f75" n="2">
+                                <layer xml:id="f1664d478-0964-4336-97a4-078b259fde2d" n="1">
+                                    
+                                
+                                 <note xml:id="rd155f489-ba23-4616-864a-6509cc9fc6f2"
+                                 corresp="#kitzler_033_m-201"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="1"
+                                 tstamp2="2"/>
+                                 <note xml:id="ra9e44479-6a57-436a-895b-2566ec118709"
+                                 corresp="#kitzler_033_m-208"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="2"
+                                 tstamp2="3"/>
+                                 <note xml:id="r3d23f2d5-9901-475e-ac5a-da56d427eba5"
+                                 corresp="#kitzler_033_m-213"
+                                 dur="4"
+                                 oct="3"
+                                 pname="d"
+                                 tstamp="3"
+                                 tstamp2="4"/>
+                                 <note xml:id="r8c4224c3-66bc-4064-b2fd-77da3356a787"
+                                 corresp="#kitzler_033_m-214"
+                                 dur="4"
+                                 oct="3"
+                                 pname="g"
+                                 tstamp="4"
+                                 tstamp2="5"/>
+                                 <note xml:id="r7088a9fb-a2aa-4174-b2ce-4fa96e8ac7a2"
+                                 corresp="#kitzler_033_m-215"
+                                 dur="4"
+                                 oct="3"
+                                 pname="e"
+                                 tstamp="5"
+                                 tstamp2="6"/>
+                                 <note xml:id="r955d48d9-d0d4-4c50-b4ca-d68e436a19c9"
+                                 corresp="#kitzler_033_m-216"
+                                 dur="4"
+                                 oct="2"
+                                 pname="g"
+                                 tstamp="6"
+                                 tstamp2="7"/>
+                              
+                                    
+                                </layer>
+                            </staff>
+                            
+                        
+                           <harm place="above"
+                           xml:id="r06f50408-3aef-4691-a149-536cc37e3046"
+                           corresp="#kitzler_033_m-197"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="1"
+                           startid="#rd155f489-ba23-4616-864a-6509cc9fc6f2">
+                                <fb xml:id="r913dfbfc-f1d8-44ad-820f-1e8e88a14849"
+                            corresp="#kitzler_033_m-198">
+                                    <f xml:id="r1513b668-cf5e-436a-be74-638655a8d3ed"
+                              corresp="#kitzler_033_m-199"
+                              n="1">5</f>
+                                    <f xml:id="rf2049963-495f-4d83-8730-56e2fb98ffc4"
+                              corresp="#kitzler_033_m-200"
+                              n="2">4</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="r85103131-c64b-4e57-bb3d-34312f5c76f4"
+                           corresp="#m-204"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="2"
+                           startid="#ra9e44479-6a57-436a-895b-2566ec118709"
+                           vo="7.5mm">
+                                <fb xml:id="r62c23ae1-e763-4b6a-83f2-01d9f340ff15" corresp="#m-205">
+                                    <f xml:id="r6e95ec2d-cd9d-429c-a535-bb283a2b87d6"
+                              corresp="#m-206"
+                              n="1">-</f>
+                                    <f xml:id="r4f9aaf69-e8d6-4333-8828-e91b7c9292f5"
+                              corresp="#m-207"
+                              n="2">-</f>
+                                </fb>
+                            </harm>
+                        
+                     
+                           <harm place="above"
+                           xml:id="r0a0ee047-8394-4676-9ef7-21b5abc4dc29"
+                           corresp="#kitzler_033_m-209"
+                           ho="1.5234mm"
+                           layer="1"
+                           staff="2"
+                           tstamp="3"
+                           startid="#r3d23f2d5-9901-475e-ac5a-da56d427eba5">
+                                <fb xml:id="ra9a92fca-d29b-4515-92f2-f6e5e67b8926"
+                            corresp="#kitzler_033_m-210">
+                                    <f xml:id="r1f281c58-846c-46ee-9138-f47e4814c700"
+                              corresp="#kitzler_033_m-211"
+                              n="1">-</f>
+                                    <f xml:id="r9f88b080-780b-4b4a-9636-94dc211ddc50"
+                              corresp="#kitzler_033_m-212"
+                              n="2">♯</f>
+                                </fb>
+                            </harm>
+                        
+                     <harm type="histogram">0.5-0-3-0-1-0-0-4-0-2.5-0-0</harm>
+                  </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
