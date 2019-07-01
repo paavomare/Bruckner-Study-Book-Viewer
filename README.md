@@ -18,7 +18,7 @@ and chord recognition aswell as chord recognition and rules for non-chord tones 
 
 ### Encoding Documentation
 
-Although, the MEI guidelines provide several elements and attributes for encoding musical documents, some values had to be adapted for the specific demands of this project.
+Although the MEI guidelines provide several elements and attributes for encoding musical documents, some values had to be adapted for the specific demands of this project.
 
 For further information on our encoding guidelines, [please click here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-encoding.md).
 
