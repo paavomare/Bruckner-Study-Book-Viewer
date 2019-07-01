@@ -18,6 +18,8 @@ and chord recognition aswell as chord recognition and rules for non-chord tones 
 
 ### Encoding Documentation
 
+Although, the MEI guidelines provide several elements and attributes for encoding musical documents, some values had to be adapted for the specific demands of this project.
+
 For further information on our encoding guidelines, [please click here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-encoding.md).
 
 ### The Image Viewer: Facsimile and Analysis mode
@@ -29,8 +31,9 @@ You can find further information on the image viewer by [clicking here](https://
 ### Automated Harmonic Analysis
 
 The automated harmonic analysis is a Roman numeral analysis based on statistical key recognition with the Krumhansl-Schmuckler algorithm in combination with an XSLT-chord recognition based on thirds and a filter that recognizes and classifies foreign chord tones.
+
 For further information on our harmonic analysis, [please click here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-analysis.md).
-### Installation of the Image Viewer:
+### Installation of the Image Viewer
 
 Instructions on installing the image viewer will be included soon. 
 
