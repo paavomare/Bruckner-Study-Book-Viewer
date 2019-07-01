@@ -12,9 +12,9 @@ by Anton Bruckner and his teacher
 found in the page margin and inbetween the staves. 
 The transcriptions can be compared in the image viewer with the corresponding facsimile. 
 
-The second aim was to create an [automated harmonic analysis](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-analysis.md)., which was tested using the generated data. 
+The second aim was to create an [automated harmonic analysis](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-analysis.md) which was tested using the generated data. 
 Our approach to programming the analysis is a combination of the well-known [Krumhansl-Schmuckler algorithm for key recognition](https://pdfs.semanticscholar.org/6426/d811de335c61a3145623718b4615a35bb51b.pdf)
-and chord recognition aswell as formalized rules for non-chord tones via XSLT. 
+and chord recognition aswell as chord recognition and rules for non-chord tones via XSLT. 
 
 ### Encoding Documentation
 
@@ -28,6 +28,7 @@ You can find further information on the image viewer by [clicking here](https://
 
 ### Automated Harmonic Analysis
 
+The automated harmonic analysis is a Roman numeral analysis based on statistical key recognition with the Krumhansl-Schmuckler algorithm in combination with an XSLT-chord recognition based on thirds and a filter that recognizes and classifies foreign chord tones.
 For further information on our harmonic analysis, [please click here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-analysis.md).
 ### Installation of the Image Viewer:
 
