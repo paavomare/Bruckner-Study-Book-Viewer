@@ -26,7 +26,7 @@ For further information on our encoding guidelines, [please click here](https://
 
 To visualize the MEI data, we created an image viewer, which comprises two main modes: the Facsimile mode to explore the original manuscript in comparison with a digital in a synoptical view, and the Analysis mode to examine chord progressions using an automated analysis program.
 
-Further information on the image viewer wil be included soon.
+You can find further information on the image viewer by [clicking here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-image-viewer.md).
 
 ### Automated Harmonic Analysis
 
