@@ -1,0 +1,45 @@
+{
+  "name": "studienbuch",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.dev.js",
+    "lint": "eslint src/",
+    "build": "node --max_old_space_size=4096 -- ./node_modules/webpack/bin/webpack.js --config ./webpack.prod.js",
+    "test": "mocha --require babel-core/register --require ./test/helpers.js src/test"
+  },
+  "author": "Peter Provaznik",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-react-jsx-source": "^6.22.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "chai": "^4.2.0",
+    "css-loader": "^1.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4",
+    "mocha": "^5.2.0",
+    "prettier": "^1.16.4",
+    "react-hot-loader": "^4.8.3",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1",
+    "webpack-merge": "^4.2.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "deep-equal": "^1.0.1",
+    "lodash": "^4.17.11",
+    "midi-player-js": "^2.0.5",
+    "openseadragon": "^2.4.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "soundfont-player": "^0.11.0"
+  }
+}
