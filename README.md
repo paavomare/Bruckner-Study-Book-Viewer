@@ -35,5 +35,5 @@ The automated harmonic analysis is a Roman numeral analysis based on statistical
 For further information on our harmonic analysis, [please click here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-analysis.md).
 ### Installation of the Image Viewer
 
-Instructions on installing the image viewer will be included soon. 
+You can find instructions on installing the image viewer [right here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-viewer-installation.md). 
 
