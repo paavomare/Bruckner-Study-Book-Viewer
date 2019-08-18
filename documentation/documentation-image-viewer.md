@@ -1,4 +1,4 @@
-# Bruckner Studienbuch Viewer Technical Notes
+# Bruckner Study Book Viewer Technical Notes
  
 In this section, we would like to provide some insight into the architecture of the viewer app, and into why certain things were done the way they were done, while at the same time highlighting some parts of the code that may be interesting or useful for similar projects.
 In case you have questions about any of this, or other aspects of the app, we will of course be happy to answer them.
@@ -7,7 +7,7 @@ In case you have questions about any of this, or other aspects of the app, we wi
 
 The app consists of:
 
-+ A _Single-Page-App_ client, implemented in JavaScript, for viewing and interacting with the Studienbuch in the browser;
++ A _Single-Page-App_ client, implemented in JavaScript, for viewing and interacting with the Study Book in the browser;
 
 + a server, implemented in Python, responsible for:
 
