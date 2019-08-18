@@ -171,7 +171,14 @@ class VerovioViewer extends React.Component {
     const newHeight = getPageHeight(svg);
     const heightDiff = newHeight - prevHeight;
     const heightDiffIsTooGreat = Math.abs(heightDiff) > prevHeight * 0.05;
-    if (meiIdHasChanged || pageHasChanged || heightDiffIsTooGreat) {
+    const pageCountHasChanged =
+      this.tileSources.length !== this.viewer.tileSources.length;
+    if (
+      meiIdHasChanged ||
+      pageHasChanged ||
+      heightDiffIsTooGreat ||
+      pageCountHasChanged
+    ) {
       // create "new" tile source
       const newTileSource = getTileSource(newHeight);
       // replace relevant tile source
