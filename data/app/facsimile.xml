@@ -1,0 +1,1013 @@
+<facsimile>
+  <surface xml:id="kitzler-fs-1" label="1">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-001" width="8190" height="6481"/>
+  </surface>
+  <surface xml:id="kitzler-fs-2" label="2">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-002" width="8094" height="6481"/>
+  </surface>
+  <surface xml:id="kitzler-fs-3" label="3">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-003" width="8155" height="6481"/>
+  </surface>
+  <surface xml:id="kitzler-fs-4" label="4">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-004" width="8192" height="6515"/>
+  </surface>
+  <surface xml:id="kitzler-fs-5" label="5">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-005" width="8095" height="6481"/>
+  </surface>
+  <surface xml:id="kitzler-fs-6" label="6">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-006" width="8192" height="6539"/>
+  </surface>
+  <surface xml:id="kitzler-fs-7" label="7">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-007" width="8095" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-8" label="8">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-008" width="8192" height="6538"/>
+  </surface>
+  <surface xml:id="kitzler-fs-9" label="9">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-009" width="8096" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-10" label="10">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-010" width="8102" height="6391"/>
+  </surface>
+  <surface xml:id="kitzler-fs-11" label="11">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-011" width="8095" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-12" label="12">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-012" width="8081" height="6391"/>
+  </surface>
+  <surface xml:id="kitzler-fs-13" label="13">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-013" width="8164" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-14" label="14">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-014" width="8189" height="6550"/>
+  </surface>
+  <surface xml:id="kitzler-fs-15" label="15">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-015" width="8165" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-16" label="16">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-016" width="8118" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-17" label="17">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-017" width="8164" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-18" label="18">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-018" width="8118" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-19" label="19">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-019" width="8165" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-20" label="20">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-020" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-21" label="21">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-021" width="8187" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-22" label="22">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-022" width="8174" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-23" label="23">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-023" width="8187" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-24" label="24">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-024" width="8174" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-25" label="25">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-025" width="8188" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-26" label="26">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-026" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-27" label="27">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-027" width="8187" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-28" label="28">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-028" width="8173" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-29" label="29">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-029" width="8187" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-30" label="30">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-030" width="8173" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-31" label="31">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-031" width="8188" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-32" label="32">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-032" width="8173" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-33" label="33">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-033" width="8188" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-34" label="34">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-034" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-35" label="35">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-035" width="8188" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-36" label="36">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-036" width="8173" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-37" label="37">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-037" width="8188" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-38" label="38">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-038" width="8173" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-39" label="39">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-039" width="8188" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-40" label="40">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-040" width="8173" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-41" label="41">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-041" width="8187" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-42" label="42">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-042" width="8173" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-43" label="43">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-043" width="8187" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-44" label="44">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-044" width="8174" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-45" label="45">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-045" width="8187" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-46" label="46">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-046" width="8174" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-47" label="47">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-047" width="8160" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-48" label="48">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-048" width="8174" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-49" label="49">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-049" width="8160" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-50" label="50">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-050" width="8173" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-51" label="51">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-051" width="8160" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-52" label="52">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-052" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-53" label="53">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-053" width="8160" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-54" label="54">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-054" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-55" label="55">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-055" width="8160" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-56" label="56">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-056" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-57" label="57">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-057" width="8160" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-58" label="58">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-058" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-59" label="59">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-059" width="8160" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-60" label="60">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-060" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-61" label="61">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-061" width="8160" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-62" label="62">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-062" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-63" label="63">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-063" width="8161" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-64" label="64">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-064" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-65" label="65">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-065" width="8160" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-66" label="66">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-066" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-67" label="67">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-067" width="8160" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-68" label="68">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-068" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-69" label="69">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-069" width="8160" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-70" label="70">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-070" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-71" label="71">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-071" width="8160" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-72" label="72">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-072" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-73" label="73">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-073" width="8195" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-74" label="74">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-074" width="8174" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-75" label="75">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-075" width="8195" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-76" label="76">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-076" width="8201" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-77" label="77">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-077" width="8195" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-78" label="78">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-078" width="8201" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-79" label="79">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-079" width="8195" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-80" label="80">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-080" width="8201" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-81" label="81">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-081" width="8195" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-82" label="82">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-082" width="8201" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-83" label="83">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-083" width="8195" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-84" label="84">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-084" width="8201" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-85" label="85">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-085" width="8195" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-86" label="86">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-086" width="8200" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-87" label="87">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-087" width="8195" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-88" label="88">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-088" width="8200" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-89" label="89">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-089" width="8195" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-90" label="90">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-090" width="8200" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-91" label="91">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-091" width="8195" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-92" label="92">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-092" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-93" label="93">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-093" width="8268" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-94" label="94">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-094" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-95" label="95">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-095" width="8269" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-96" label="96">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-096" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-97" label="97">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-097" width="8268" height="6495"/>
+  </surface>
+  <surface xml:id="kitzler-fs-98" label="98">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-098" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-99" label="99">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-099" width="8268" height="6494"/>
+  </surface>
+  <surface xml:id="kitzler-fs-100" label="100">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-100" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-101" label="101">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-101" width="8268" height="6494"/>
+  </surface>
+  <surface xml:id="kitzler-fs-102" label="102">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-102" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-103" label="103">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-103" width="8268" height="6494"/>
+  </surface>
+  <surface xml:id="kitzler-fs-104" label="104">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-104" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-105" label="105">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-105" width="8268" height="6494"/>
+  </surface>
+  <surface xml:id="kitzler-fs-106" label="106">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-106" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-107" label="107">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-107" width="8268" height="6494"/>
+  </surface>
+  <surface xml:id="kitzler-fs-108" label="108">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-108" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-109" label="109">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-109" width="8268" height="6494"/>
+  </surface>
+  <surface xml:id="kitzler-fs-110" label="110">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-110" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-111" label="111">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-111" width="8268" height="6494"/>
+  </surface>
+  <surface xml:id="kitzler-fs-112" label="112">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-112" width="8166" height="6525"/>
+  </surface>
+  <surface xml:id="kitzler-fs-113" label="113">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-113" width="8268" height="6586"/>
+  </surface>
+  <surface xml:id="kitzler-fs-114" label="114">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-114" width="8166" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-115" label="115">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-115" width="8268" height="6585"/>
+  </surface>
+  <surface xml:id="kitzler-fs-116" label="116">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-116" width="8199" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-117" label="117">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-117" width="8222" height="6586"/>
+  </surface>
+  <surface xml:id="kitzler-fs-118" label="118">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-118" width="8199" height="6524"/>
+  </surface>
+  <surface xml:id="kitzler-fs-119" label="119">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-119" width="8222" height="6586"/>
+  </surface>
+  <surface xml:id="kitzler-fs-120" label="120">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-120" width="8199" height="6543"/>
+  </surface>
+  <surface xml:id="kitzler-fs-121" label="121">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-121" width="8222" height="6586"/>
+  </surface>
+  <surface xml:id="kitzler-fs-122" label="122">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-122" width="8199" height="6543"/>
+  </surface>
+  <surface xml:id="kitzler-fs-123" label="123">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-123" width="8223" height="6585"/>
+  </surface>
+  <surface xml:id="kitzler-fs-124" label="124">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-124" width="8199" height="6543"/>
+  </surface>
+  <surface xml:id="kitzler-fs-125" label="125">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-125" width="8223" height="6585"/>
+  </surface>
+  <surface xml:id="kitzler-fs-126" label="126">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-126" width="8199" height="6543"/>
+  </surface>
+  <surface xml:id="kitzler-fs-127" label="127">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-127" width="8223" height="6585"/>
+  </surface>
+  <surface xml:id="kitzler-fs-128" label="128">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-128" width="8199" height="6543"/>
+  </surface>
+  <surface xml:id="kitzler-fs-129" label="129">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-129" width="8222" height="6585"/>
+  </surface>
+  <surface xml:id="kitzler-fs-130" label="130">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-130" width="8199" height="6543"/>
+  </surface>
+  <surface xml:id="kitzler-fs-131" label="131">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-131" width="8222" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-132" label="132">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-132" width="8199" height="6543"/>
+  </surface>
+  <surface xml:id="kitzler-fs-133" label="133">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-133" width="8222" height="6486"/>
+  </surface>
+  <surface xml:id="kitzler-fs-134" label="134">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-134" width="8199" height="6543"/>
+  </surface>
+  <surface xml:id="kitzler-fs-135" label="135">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-135" width="8222" height="6486"/>
+  </surface>
+  <surface xml:id="kitzler-fs-136" label="136">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-136" width="8199" height="6543"/>
+  </surface>
+  <surface xml:id="kitzler-fs-137" label="137">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-137" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-138" label="138">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-138" width="8199" height="6543"/>
+  </surface>
+  <surface xml:id="kitzler-fs-139" label="139">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-139" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-140" label="140">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-140" width="8240" height="6613"/>
+  </surface>
+  <surface xml:id="kitzler-fs-141" label="141">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-141" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-142" label="142">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-142" width="8240" height="6614"/>
+  </surface>
+  <surface xml:id="kitzler-fs-143" label="143">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-143" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-144" label="144">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-144" width="8239" height="6613"/>
+  </surface>
+  <surface xml:id="kitzler-fs-145" label="145">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-145" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-146" label="146">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-146" width="8239" height="6613"/>
+  </surface>
+  <surface xml:id="kitzler-fs-147" label="147">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-147" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-148" label="148">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-148" width="8239" height="6613"/>
+  </surface>
+  <surface xml:id="kitzler-fs-149" label="149">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-149" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-150" label="150">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-150" width="8239" height="6613"/>
+  </surface>
+  <surface xml:id="kitzler-fs-151" label="151">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-151" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-152" label="152">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-152" width="8240" height="6614"/>
+  </surface>
+  <surface xml:id="kitzler-fs-153" label="153">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-153" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-154" label="154">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-154" width="8240" height="6614"/>
+  </surface>
+  <surface xml:id="kitzler-fs-155" label="155">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-155" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-156" label="156">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-156" width="8240" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-157" label="157">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-157" width="8223" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-158" label="158">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-158" width="8240" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-159" label="159">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-159" width="8223" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-160" label="160">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-160" width="8240" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-161" label="161">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-161" width="8223" height="6481"/>
+  </surface>
+  <surface xml:id="kitzler-fs-162" label="162">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-162" width="8240" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-163" label="163">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-163" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-164" label="164">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-164" width="8240" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-165" label="165">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-165" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-166" label="166">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-166" width="8240" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-167" label="167">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-167" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-168" label="168">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-168" width="8240" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-169" label="169">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-169" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-170" label="170">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-170" width="8240" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-171" label="171">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-171" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-172" label="172">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-172" width="8175" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-173" label="173">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-173" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-174" label="174">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-174" width="8175" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-175" label="175">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-175" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-176" label="176">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-176" width="8175" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-177" label="177">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-177" width="8222" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-178" label="178">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-178" width="8175" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-179" label="179">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-179" width="8182" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-180" label="180">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-180" width="8175" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-181" label="181">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-181" width="8321" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-182" label="182">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-182" width="8175" height="6536"/>
+  </surface>
+  <surface xml:id="kitzler-fs-183" label="183">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-183" width="8321" height="6562"/>
+  </surface>
+  <surface xml:id="kitzler-fs-184" label="184">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-184" width="8175" height="6536"/>
+  </surface>
+  <surface xml:id="kitzler-fs-185" label="185">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-185" width="8321" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-186" label="186">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-186" width="8175" height="6536"/>
+  </surface>
+  <surface xml:id="kitzler-fs-187" label="187">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-187" width="8321" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-188" label="188">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-188" width="8175" height="6536"/>
+  </surface>
+  <surface xml:id="kitzler-fs-189" label="189">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-189" width="8321" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-190" label="190">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-190" width="8175" height="6536"/>
+  </surface>
+  <surface xml:id="kitzler-fs-191" label="191">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-191" width="8321" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-192" label="192">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-192" width="8175" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-193" label="193">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-193" width="8321" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-194" label="194">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-194" width="8175" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-195" label="195">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-195" width="8321" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-196" label="196">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-196" width="8175" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-197" label="197">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-197" width="8321" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-198" label="198">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-198" width="8175" height="6496"/>
+  </surface>
+  <surface xml:id="kitzler-fs-199" label="199">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-199" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-200" label="200">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-200" width="8175" height="6496"/>
+  </surface>
+  <surface xml:id="kitzler-fs-201" label="201">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-201" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-202" label="202">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-202" width="8175" height="6496"/>
+  </surface>
+  <surface xml:id="kitzler-fs-203" label="203">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-203" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-204" label="204">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-204" width="8175" height="6496"/>
+  </surface>
+  <surface xml:id="kitzler-fs-205" label="205">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-205" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-206" label="206">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-206" width="8203" height="6496"/>
+  </surface>
+  <surface xml:id="kitzler-fs-207" label="207">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-207" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-208" label="208">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-208" width="8203" height="6496"/>
+  </surface>
+  <surface xml:id="kitzler-fs-209" label="209">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-209" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-210" label="210">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-210" width="8203" height="6496"/>
+  </surface>
+  <surface xml:id="kitzler-fs-211" label="211">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-211" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-212" label="212">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-212" width="8203" height="6496"/>
+  </surface>
+  <surface xml:id="kitzler-fs-213" label="213">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-213" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-214" label="214">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-214" width="8203" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-215" label="215">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-215" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-216" label="216">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-216" width="8247" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-217" label="217">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-217" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-218" label="218">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-218" width="8247" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-219" label="219">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-219" width="8271" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-220" label="220">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-220" width="8247" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-221" label="221">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-221" width="8272" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-222" label="222">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-222" width="8247" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-223" label="223">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-223" width="8272" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-224" label="224">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-224" width="8247" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-225" label="225">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-225" width="8272" height="6499"/>
+  </surface>
+  <surface xml:id="kitzler-fs-226" label="226">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-226" width="8247" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-227" label="227">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-227" width="8229" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-228" label="228">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-228" width="8247" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-229" label="229">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-229" width="8229" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-230" label="230">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-230" width="8247" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-231" label="231">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-231" width="8229" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-232" label="232">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-232" width="8247" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-233" label="233">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-233" width="8229" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-234" label="234">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-234" width="8247" height="6497"/>
+  </surface>
+  <surface xml:id="kitzler-fs-235" label="235">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-235" width="8229" height="6461"/>
+  </surface>
+  <surface xml:id="kitzler-fs-236" label="236">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-236" width="8214" height="6464"/>
+  </surface>
+  <surface xml:id="kitzler-fs-237" label="237">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-237" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-238" label="238">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-238" width="8214" height="6464"/>
+  </surface>
+  <surface xml:id="kitzler-fs-239" label="239">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-239" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-240" label="240">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-240" width="8214" height="6464"/>
+  </surface>
+  <surface xml:id="kitzler-fs-241" label="241">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-241" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-242" label="242">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-242" width="8214" height="6464"/>
+  </surface>
+  <surface xml:id="kitzler-fs-243" label="243">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-243" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-244" label="244">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-244" width="8214" height="6464"/>
+  </surface>
+  <surface xml:id="kitzler-fs-245" label="245">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-245" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-246" label="246">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-246" width="8214" height="6464"/>
+  </surface>
+  <surface xml:id="kitzler-fs-247" label="247">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-247" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-248" label="248">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-248" width="8214" height="6464"/>
+  </surface>
+  <surface xml:id="kitzler-fs-249" label="249">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-249" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-250" label="250">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-250" width="8131" height="6414"/>
+  </surface>
+  <surface xml:id="kitzler-fs-251" label="251">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-251" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-252" label="252">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-252" width="8131" height="6414"/>
+  </surface>
+  <surface xml:id="kitzler-fs-253" label="253">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-253" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-254" label="254">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-254" width="8131" height="6414"/>
+  </surface>
+  <surface xml:id="kitzler-fs-255" label="255">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-255" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-256" label="256">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-256" width="8131" height="6446"/>
+  </surface>
+  <surface xml:id="kitzler-fs-257" label="257">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-257" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-258" label="258">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-258" width="8131" height="6446"/>
+  </surface>
+  <surface xml:id="kitzler-fs-259" label="259">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-259" width="8228" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-260" label="260">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-260" width="8131" height="6447"/>
+  </surface>
+  <surface xml:id="kitzler-fs-261" label="261">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-261" width="8229" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-262" label="262">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-262" width="8131" height="6447"/>
+  </surface>
+  <surface xml:id="kitzler-fs-263" label="263">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-263" width="8229" height="6460"/>
+  </surface>
+  <surface xml:id="kitzler-fs-264" label="264">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-264" width="8131" height="6447"/>
+  </surface>
+  <surface xml:id="kitzler-fs-265" label="265">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-265" width="8229" height="6437"/>
+  </surface>
+  <surface xml:id="kitzler-fs-266" label="266">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-266" width="8131" height="6446"/>
+  </surface>
+  <surface xml:id="kitzler-fs-267" label="267">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-267" width="8229" height="6437"/>
+  </surface>
+  <surface xml:id="kitzler-fs-268" label="268">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-268" width="8131" height="6412"/>
+  </surface>
+  <surface xml:id="kitzler-fs-269" label="269">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-269" width="8229" height="6437"/>
+  </surface>
+  <surface xml:id="kitzler-fs-270" label="270">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-270" width="8131" height="6412"/>
+  </surface>
+  <surface xml:id="kitzler-fs-271" label="271">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-271" width="8229" height="6437"/>
+  </surface>
+  <surface xml:id="kitzler-fs-272" label="272">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-272" width="8130" height="6413"/>
+  </surface>
+  <surface xml:id="kitzler-fs-273" label="273">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-273" width="8229" height="6438"/>
+  </surface>
+  <surface xml:id="kitzler-fs-274" label="274">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-274" width="8130" height="6413"/>
+  </surface>
+  <surface xml:id="kitzler-fs-275" label="275">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-275" width="8229" height="6438"/>
+  </surface>
+  <surface xml:id="kitzler-fs-276" label="276">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-276" width="8130" height="6413"/>
+  </surface>
+  <surface xml:id="kitzler-fs-277" label="277">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-277" width="8229" height="6438"/>
+  </surface>
+  <surface xml:id="kitzler-fs-278" label="278">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-278" width="8130" height="6413"/>
+  </surface>
+  <surface xml:id="kitzler-fs-279" label="279">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-279" width="8229" height="6438"/>
+  </surface>
+  <surface xml:id="kitzler-fs-280" label="280">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-280" width="8130" height="6413"/>
+  </surface>
+  <surface xml:id="kitzler-fs-281" label="281">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-281" width="8229" height="6438"/>
+  </surface>
+  <surface xml:id="kitzler-fs-282" label="282">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-282" width="8130" height="6413"/>
+  </surface>
+  <surface xml:id="kitzler-fs-283" label="283">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-283" width="8229" height="6438"/>
+  </surface>
+  <surface xml:id="kitzler-fs-284" label="284">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-284" width="8130" height="6413"/>
+  </surface>
+  <surface xml:id="kitzler-fs-285" label="285">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-285" width="8229" height="6438"/>
+  </surface>
+  <surface xml:id="kitzler-fs-286" label="286">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-286" width="8160" height="6412"/>
+  </surface>
+  <surface xml:id="kitzler-fs-286a" label="286a">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-286a" width="8229" height="6412"/>
+  </surface>
+  <surface xml:id="kitzler-fs-286b" label="286b">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-286b" width="8227" height="6495"/>
+  </surface>
+  <surface xml:id="kitzler-fs-287" label="287">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-287" width="8246" height="6603"/>
+  </surface>
+  <surface xml:id="kitzler-fs-288" label="288">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-288" width="8160" height="6412"/>
+  </surface>
+  <surface xml:id="kitzler-fs-289" label="289">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-289" width="8331" height="6478"/>
+  </surface>
+  <surface xml:id="kitzler-fs-290" label="290">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-290" width="8209" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-291" label="291">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-291" width="8331" height="6479"/>
+  </surface>
+  <surface xml:id="kitzler-fs-292" label="292">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-292" width="8209" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-293" label="293">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-293" width="8331" height="6479"/>
+  </surface>
+  <surface xml:id="kitzler-fs-294" label="294">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-294" width="8209" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-295" label="295">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-295" width="8331" height="6479"/>
+  </surface>
+  <surface xml:id="kitzler-fs-296" label="296">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-296" width="8209" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-297" label="297">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-297" width="8331" height="6478"/>
+  </surface>
+  <surface xml:id="kitzler-fs-298" label="298">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-298" width="8208" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-299" label="299">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-299" width="8291" height="6478"/>
+  </surface>
+  <surface xml:id="kitzler-fs-300" label="300">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-300" width="8208" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-301" label="301">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-301" width="8291" height="6478"/>
+  </surface>
+  <surface xml:id="kitzler-fs-302" label="302">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-302" width="8209" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-303" label="303">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-303" width="8292" height="6479"/>
+  </surface>
+  <surface xml:id="kitzler-fs-304" label="304">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-304" width="8209" height="6476"/>
+  </surface>
+  <surface xml:id="kitzler-fs-305" label="305">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-305" width="8292" height="6478"/>
+  </surface>
+  <surface xml:id="kitzler-fs-306" label="306">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-306" width="8209" height="6476"/>
+  </surface>
+  <surface xml:id="kitzler-fs-307" label="307">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-307" width="8292" height="6479"/>
+  </surface>
+  <surface xml:id="kitzler-fs-308" label="308">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-308" width="8226" height="6495"/>
+  </surface>
+  <surface xml:id="kitzler-fs-309" label="309">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-309" width="8247" height="6603"/>
+  </surface>
+  <surface xml:id="kitzler-fs-310" label="310">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-310" width="8209" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-311" label="311">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-311" width="8292" height="6479"/>
+  </surface>
+  <surface xml:id="kitzler-fs-312" label="312">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-312" width="8227" height="6495"/>
+  </surface>
+  <surface xml:id="kitzler-fs-313" label="313">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-313" width="8247" height="6603"/>
+  </surface>
+  <surface xml:id="kitzler-fs-314" label="314">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-314" width="8209" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-315" label="315">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-315" width="8292" height="6479"/>
+  </surface>
+  <surface xml:id="kitzler-fs-316" label="316">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-316" width="8257" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-317" label="317">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-317" width="8223" height="6478"/>
+  </surface>
+  <surface xml:id="kitzler-fs-318" label="318">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-318" width="8257" height="6475"/>
+  </surface>
+  <surface xml:id="kitzler-fs-319" label="319">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-319" width="8223" height="6478"/>
+  </surface>
+  <surface xml:id="kitzler-fs-320" label="320">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-320" width="8257" height="6536"/>
+  </surface>
+  <surface xml:id="kitzler-fs-321" label="321">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-321" width="8193" height="6444"/>
+  </surface>
+  <surface xml:id="kitzler-fs-322" label="322">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-322" width="8257" height="6536"/>
+  </surface>
+  <surface xml:id="kitzler-fs-323" label="323">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-323" width="8193" height="6444"/>
+  </surface>
+  <surface xml:id="kitzler-fs-324" label="324">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-324" width="8257" height="6536"/>
+  </surface>
+  <surface xml:id="kitzler-fs-325" label="325">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-325" width="8193" height="6444"/>
+  </surface>
+  <surface xml:id="kitzler-fs-326" label="326">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-326" width="8257" height="6536"/>
+  </surface>
+  <surface xml:id="kitzler-fs-Einband1" label="Einband1">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-Einband1" width="8484" height="6942"/>
+  </surface>
+  <surface xml:id="kitzler-fs-Einband2" label="Einband2">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-Einband2" width="8484" height="6942"/>
+  </surface>
+  <surface xml:id="kitzler-fs-Einband3" label="Einband3">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-Einband3" width="1236" height="6798"/>
+  </surface>
+  <surface xml:id="kitzler-fs-HDspiegel" label="HDspiegel">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-HDspiegel" width="8398" height="6663"/>
+  </surface>
+  <surface xml:id="kitzler-fs-I" label="I">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-I" width="8208" height="6535"/>
+  </surface>
+  <surface xml:id="kitzler-fs-II" label="II">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-II" width="8094" height="6480"/>
+  </surface>
+  <surface xml:id="kitzler-fs-IIx" label="IIx">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-IIx" width="8257" height="6537"/>
+  </surface>
+  <surface xml:id="kitzler-fs-Ix" label="Ix">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-Ix" width="8192" height="6444"/>
+  </surface>
+  <surface xml:id="kitzler-fs-VDspiegel" label="VDspiegel">
+    <graphic target="https://iiif-mufo.oeaw.ac.at/bruckner/A-WnMus.Hs.44706/A-WnMus.Hs.44706-VDspiegel" width="8320" height="6759"/>
+  </surface>
+</facsimile>

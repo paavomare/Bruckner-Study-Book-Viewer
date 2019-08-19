@@ -1,0 +1,250 @@
+body {
+  background-color: #000;
+  color: #eee;
+  font-family: Helvetica, Arial, 'sans-serif';
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+}
+
+#loading-indicator {
+  color: #000;
+  position: absolute;
+  right: 1em;
+  top: 3em;
+  z-index: 999;
+}
+
+.dark #loading-indicator {
+  color: #fff;
+}
+
+.error-indicator {
+  color: #f00 !important;
+  font-weight: bold;
+}
+
+#controls {
+  height: 2em;
+  flex: none;
+  text-align: center;
+}
+
+#controls-left {
+  float: left;
+  text-align: left;
+  width: 40%;
+}
+
+#controls-right {
+  float: right;
+  text-align: right;
+  width: 60%;
+}
+
+/* variables for viewer grid */
+:root {
+  --wrapperWidth: 98vw;
+  --gutter: 5px;
+  --noOfColumns: 2;
+  --ratio: 0.75; /* 4:3 */
+  --rowHeight: calc((var(--wrapperWidth) / var(--noOfColumns)) * var(--ratio));
+}
+
+.viewers {
+  flex: auto;
+}
+
+.viewersGrid {
+  display: grid;
+  width: var(--wrapperWidth);
+  grid-template-columns: repeat(var(--noOfColumns), 1fr);
+  grid-auto-rows: var(--rowHeight);
+  grid-gap: var(--gutter);
+}
+
+.viewersSolo {
+  height: calc(98vh - 2em);
+  width: 100%;
+}
+
+.viewersSolo .viewer {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.facsimile-viewer {
+  background-color: #333;
+}
+
+.verovio-viewer {
+  width: 100%;
+  min-width: 100%;
+  height: 100%;
+  min-height: 100%;
+  background-color: #ffeece;
+}
+
+/* dark mode */
+.dark .verovio-viewer,
+.dark .system,
+.dark .system path {
+  background-color: #19191c;
+  stroke: silver;
+  fill: silver;
+}
+
+.button-inline {
+  border-width: 0;
+  background: transparent;
+  color: inherit;
+  text-align: inherit;
+  -webkit-font-smoothing: inherit;
+  padding: 0;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+.button-inline:hover:enabled {
+  color: #ffcb7d !important;
+}
+
+.button-inline:disabled {
+  cursor: auto;
+}
+
+.input-facspage {
+  background-color: inherit;
+  border: 0;
+  color: #ffcb7d;
+  font-size: inherit;
+  line-height: inherit;
+  text-align: right;
+  width: 2.7em;
+}
+
+/* hide measure numbers */
+g.mNum {
+  display: none;
+}
+
+.errorboundary {
+  flex: auto;
+  padding: 50px;
+}
+
+.code-error {
+  background-color: #333;
+  color: #dc322f;
+  padding: 1em;
+}
+
+#controls select {
+  width: 100%; /* used to disable implicit min-width */
+  max-width: 9em;
+}
+
+.button-toggle {
+  font-weight: bold;
+}
+
+.button-analyse {
+  color: yellow;
+  font-weight: bold;
+}
+
+#control-colors .button-toggle {
+  width: 1.5em;
+}
+
+.colors-light {
+  border: solid 2px #000;
+  background-color: #ffeece;
+}
+
+.colors-dark {
+  border: solid 2px silver;
+  background-color: #19191c;
+}
+
+.del-only {
+  color: #aaa;
+  fill: #aaa;
+  stroke: #aaa;
+}
+
+.dark .del-only {
+  color: #777;
+  fill: #777;
+  stroke: #777;
+}
+
+.subst-del {
+  color: #db4103;
+  fill: #db4103;
+  stroke: #db4103;
+}
+
+.dark .subst-del {
+  color: #d24f1d;
+  fill: #d24f1d;
+  stroke: #d24f1d;
+}
+
+.subst-add {
+  color: #0e88d4;
+  fill: #0e88d4;
+  stroke: #0e88d4;
+}
+
+.dark .subst-add {
+  color: #36bcd9;
+  fill: #36bcd9;
+  stroke: #36bcd9;
+}
+
+.midi-active {
+  fill: #f629dd;
+  stroke: #f629dd;
+}
+
+.facs-overlay {
+  background-color: #ffcb7d;
+  color: transparent;
+  cursor: pointer;
+  opacity: 0.1;
+  z-index: 0;
+}
+
+.facs-overlay-text {
+  background-color: #19191c;
+  color: #fff;
+  cursor: pointer;
+  line-height: 1.2;
+  max-width: 50%;
+  max-height: 50%;
+  opacity: 0.6;
+  padding-left: 1em;
+  padding-right: 1em;
+  z-index: 1;
+}
+
+.facs-overlay-text .annot-abbr {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  z-index: 2;
+}
+
+.invisible {
+  display: none !important;
+}
+
+/* passing tones etc */
+g.note.mod {
+  fill: #aaa;
+  stroke: #aaa;
+  z-index: 2;
+}
