@@ -20,19 +20,20 @@ and chord recognition aswell as chord recognition and rules for non-chord tones 
 
 Although the MEI guidelines provide several elements and attributes for encoding musical documents, some values had to be adapted for the specific demands of this project.
 
-For further information on our encoding guidelines, [please click here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-encoding.md).
+Here you can find further information on our [encoding guidelines](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-encoding.md).
 
 ### The Image Viewer: Facsimile and Analysis mode
 
 To visualize the MEI data, we created an image viewer, which comprises two main modes: the Facsimile mode to explore the original manuscript in comparison with a digital in a synoptical view, and the Analysis mode to examine chord progressions using an automated analysis program.
 
-You can find further information on the image viewer by [clicking here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-image-viewer.md).
+We provide a [detailed description of the image viewer](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-image-viewer.md) in our documentation.
 
 ### Automated Harmonic Analysis
 
 The automated harmonic analysis is a Roman numeral analysis based on statistical key recognition with the Krumhansl-Schmuckler algorithm in combination with an XSLT-chord recognition based on thirds and a filter that recognizes and classifies foreign chord tones.
 
-For further information on our harmonic analysis, [please click here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-analysis.md).
+Here you can find further information on our [harmonic analysis](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-analysis.md).
+
 ### Installation of the Image Viewer
 
 You can find instructions on installing the image viewer [right here](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-viewer-installation.md). 
