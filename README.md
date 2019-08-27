@@ -22,9 +22,9 @@ Although the MEI guidelines provide several elements and attributes for encoding
 
 Here you can find further information on our [encoding guidelines](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-encoding.md).
 
-### The Image Viewer: Facsimile and Analysis mode
+### The Image Viewer: Edition and Analysis mode
 
-To visualize the MEI data, we created an image viewer, which comprises two main modes: the Facsimile mode to explore the original manuscript in comparison with a digital in a synoptical view, and the Analysis mode to examine chord progressions using an automated analysis program.
+To visualize the MEI data, we created an image viewer, which comprises two main modes: the Edition mode to explore the original manuscript in comparison with a digital in a synoptical view, and the Analysis mode to examine chord progressions using an automated analysis program.
 
 We provide a [detailed description of the image viewer](https://github.com/paavomare/Bruckner-Study-Book-Viewer/blob/master/documentation/documentation-image-viewer.md) in our documentation.
 
