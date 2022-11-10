@@ -27,7 +27,7 @@
     "react-hot-loader": "^4.12.11",
     "style-loader": "^0.21.0",
     "webpack": "^4.39.2",
-    "webpack-cli": "^3.3.7",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.0",
     "webpack-merge": "^4.2.1"
   },
